@@ -1,0 +1,48 @@
+{
+  "allowlist": [
+    "ATTRIBUTIONS.md",
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "LICENSE-DATA",
+    "LICENSES.md",
+    "README.md",
+    "RELEASE.json",
+    "SHA256SUMS",
+    "VERSION",
+    "dist/holidays.csv",
+    "dist/holidays.json",
+    "dist/holidays.xml",
+    "dist/ics/AT.ics",
+    "dist/ics/FR-57.ics",
+    "dist/ics/FR-67.ics",
+    "dist/ics/FR-68.ics",
+    "dist/ics/FR.ics",
+    "provenance/sources.json"
+  ],
+  "archive": "holiday-0.1.0.zip",
+  "countries": [
+    "AT",
+    "FR"
+  ],
+  "expected_ics": [
+    "AT.ics",
+    "FR-57.ics",
+    "FR-67.ics",
+    "FR-68.ics",
+    "FR.ics"
+  ],
+  "formats": [
+    "csv",
+    "json",
+    "xml",
+    "ics"
+  ],
+  "release_date": "2026-10-06",
+  "schema_version": 1,
+  "tag": "v0.1.0",
+  "version": "0.1.0",
+  "years": {
+    "from": 2007,
+    "to": 2031
+  }
+}

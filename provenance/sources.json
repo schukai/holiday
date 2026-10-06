@@ -1,0 +1,169 @@
+{
+  "release_version": "0.1.0",
+  "schema_version": 1,
+  "sources": [
+    {
+      "evidence": {
+        "licence_evidence_sha256": "e4dfddf36ce386dde8dc55da44d714fb216452e8f805590bb5781cf140209760",
+        "private_manifest_sha256": "8435341028e86540bb7640c33554d49f14bf7ee7f95a2ae22bfb303b04a35816",
+        "source_artifact_sha256": "93be6d5a8c549e5ec564dcb3c90b4d5e63c87263402bd1de28fc6c42a990f5d7"
+      },
+      "id": "at-feiertagsruhegesetz-1957",
+      "jurisdiction": "AT",
+      "licence": {
+        "attribution": "Name the Republic of Austria RIS, statute title, source URL, retrieval date, and independent encoding.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Austrian free official work under § 7 UrhG",
+        "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=7",
+        "version": "§ 7 as accessed 2026-10-06"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "93be6d5a8c549e5ec564dcb3c90b4d5e63c87263402bd1de28fc6c42a990f5d7"
+          ],
+          "output_sha256": [
+            "6fe350276ed87cbffecbcd65f1c1e1180a1535720c143ebad82eb56b56de43f5",
+            "f47d9b033f5908715b914c787eb70eac93f218d46b1a615b8fc7854c2f5ee0f2"
+          ],
+          "sequence": 1,
+          "summary": "Review the archived official source and independently encode or verify the applicable rules without copying source prose."
+        }
+      ],
+      "publisher": "Rechtsinformationssystem des Bundes (Austria)",
+      "retrieved_at": "2026-10-06T10:59:14Z",
+      "title": "Feiertagsruhegesetz 1957, § 1",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "2ca11865de9902a03d38c771c8b25d544f54b0255dc2d97deb508f51ed5b8f4f",
+        "private_manifest_sha256": "90d138de7350f5d888abc53c7d76768226af884455b8e76947f9e8fe0aa9fa0b",
+        "source_artifact_sha256": "ccbcd2090590d70d5ce6ad31a5ffc9aa051815a0df831ed41b87120c4a1c75fa"
+      },
+      "id": "fr-code-travail-l3134-13",
+      "jurisdiction": "FR-57, FR-67, FR-68",
+      "licence": {
+        "attribution": "Code du travail, article L3134-13, Légifrance / DILA; source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Licence Ouverte / Open Licence",
+        "url": "https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "ccbcd2090590d70d5ce6ad31a5ffc9aa051815a0df831ed41b87120c4a1c75fa"
+          ],
+          "output_sha256": [
+            "cf070d7a25ec4bc159bffa59215033cef30a6025d4ff97950d317fed9b523578"
+          ],
+          "sequence": 1,
+          "summary": "Encode the statutory local condition as conditional applicability with English and French consumer text."
+        }
+      ],
+      "publisher": "Direction de l'information légale et administrative (DILA)",
+      "retrieved_at": "2026-10-06T18:53:47Z",
+      "title": "Code du travail, article L3134-13",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "2ca11865de9902a03d38c771c8b25d544f54b0255dc2d97deb508f51ed5b8f4f",
+        "private_manifest_sha256": "ca41e0b73ae46ea88fe7876b0e17fa844e5f1fa2b26ccf021407119d73e97984",
+        "source_artifact_sha256": "8d38c773a11ca9c9443c6e7509683039e35bfca22a63c3e3ea90ec2df5e78ca2"
+      },
+      "id": "fr-conseil-etat-317867",
+      "jurisdiction": "FR-57, FR-67, FR-68",
+      "licence": {
+        "attribution": "Conseil d'État decision no. 317867, Légifrance / DILA; source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Licence Ouverte / Open Licence",
+        "url": "https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "8d38c773a11ca9c9443c6e7509683039e35bfca22a63c3e3ea90ec2df5e78ca2"
+          ],
+          "output_sha256": [
+            "ccfaa19909d185c36a5760feae636bdc01b358455190f40e0cb68e63c026d726"
+          ],
+          "sequence": 1,
+          "summary": "Time-scope the conditional Good Friday rule to its pre-2008 legal basis and retain the recodified rule from 2008 onward."
+        }
+      ],
+      "publisher": "Conseil d'État / Légifrance",
+      "retrieved_at": "2026-10-06T19:12:14Z",
+      "title": "Conseil d'État decision no. 317867 of 6 May 2009",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000020869037/"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "2ca11865de9902a03d38c771c8b25d544f54b0255dc2d97deb508f51ed5b8f4f",
+        "private_manifest_sha256": "3ec95795dc549869af2e4fb5ef36563faa934e687e6aad40258de9618bb5a61f",
+        "source_artifact_sha256": "a6ae896240c2a29571e9f6cf37d0a71aa190b7596802a9af9eaa8e7701087470"
+      },
+      "id": "fr-public-holidays-alsace-moselle",
+      "jurisdiction": "FR-57, FR-67, FR-68",
+      "licence": {
+        "attribution": "Jours fériés en France, Etalab, Licence Ouverte 2.0; source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Licence Ouverte / Open Licence",
+        "url": "https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "a6ae896240c2a29571e9f6cf37d0a71aa190b7596802a9af9eaa8e7701087470"
+          ],
+          "output_sha256": [
+            "e3543e0f0201d19372dc002280370639ce6909321564056fa464c9719c508f5a",
+            "eb5a049371c0bdf3b8820ee095b0447e98f1e804c4da62368f0bb11c2a69e64f"
+          ],
+          "sequence": 1,
+          "summary": "Normalize the archived official JSON response into the repository snapshot; separately encode or verify applicable rules."
+        }
+      ],
+      "publisher": "Etalab / French Government",
+      "retrieved_at": "2026-10-06T10:59:15Z",
+      "title": "Jours fériés – Alsace-Moselle API response",
+      "url": "https://calendrier.api.gouv.fr/jours-feries/alsace-moselle.json"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "2ca11865de9902a03d38c771c8b25d544f54b0255dc2d97deb508f51ed5b8f4f",
+        "private_manifest_sha256": "de25596dd1596756fd99eabf233d77a41cecdf70af7238346dd1b8781be40a13",
+        "source_artifact_sha256": "94bb0ddbfe76edcd50a6be870efc2b199ecba01b7d1d6bc8eec68c7493b4d4ef"
+      },
+      "id": "fr-public-holidays-metropole",
+      "jurisdiction": "FR",
+      "licence": {
+        "attribution": "Jours fériés en France, Etalab, Licence Ouverte 2.0; source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Licence Ouverte / Open Licence",
+        "url": "https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "94bb0ddbfe76edcd50a6be870efc2b199ecba01b7d1d6bc8eec68c7493b4d4ef"
+          ],
+          "output_sha256": [
+            "e3543e0f0201d19372dc002280370639ce6909321564056fa464c9719c508f5a",
+            "eb5a049371c0bdf3b8820ee095b0447e98f1e804c4da62368f0bb11c2a69e64f"
+          ],
+          "sequence": 1,
+          "summary": "Normalize the archived official JSON response into the repository snapshot; separately encode or verify applicable rules."
+        }
+      ],
+      "publisher": "Etalab / French Government",
+      "retrieved_at": "2026-10-06T10:59:15Z",
+      "title": "Jours fériés – métropole API response",
+      "url": "https://calendrier.api.gouv.fr/jours-feries/metropole.json"
+    }
+  ]
+}

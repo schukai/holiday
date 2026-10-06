@@ -1,0 +1,751 @@
+date;country;region;id;kind;scope;applicability;condition_en;condition_local;name_en;name_local;source
+2007-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-04-09;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-05-17;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-05-28;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-06-07;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-03-24;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-05-01;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-05-12;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-05-22;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2008-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-04-13;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-05-21;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-06-01;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-06-11;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2009-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-04-05;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-05-13;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-05-24;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-06-03;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2010-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-04-25;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-06-02;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-06-13;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-06-23;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2011-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-04-09;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-05-17;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-05-28;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-06-07;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2012-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-04-01;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-05-09;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-05-20;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-05-30;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2013-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-04-21;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-05-29;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-06-09;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-06-19;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2014-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-04-06;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-05-14;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-05-25;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-06-04;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2015-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-03-28;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-05-05;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-05-16;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-05-26;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2016-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-04-17;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-05-25;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-06-05;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-06-15;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2017-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-04-02;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-05-10;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-05-21;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-05-31;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2018-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-04-22;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-05-30;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-06-10;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-06-20;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2019-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-04-13;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-05-21;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-06-01;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-06-11;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2020-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-04-05;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-05-13;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-05-24;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-06-03;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2021-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-04-18;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-05-26;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-06-06;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-06-16;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2022-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-04-10;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-05-18;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-05-29;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-06-08;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2023-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-04-01;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-05-09;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-05-20;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-05-30;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2024-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-04-21;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-05-29;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-06-09;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-06-19;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2025-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-04-06;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-05-14;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-05-25;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-06-04;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2026-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-03-29;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-05-06;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-05-17;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-05-27;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2027-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-04-17;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-05-25;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-06-05;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-06-15;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2028-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-04-02;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-05-10;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-05-21;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-05-31;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2029-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-04-22;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-05-30;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-06-10;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-06-20;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2030-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-01-01;AT;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Neujahr;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-01-06;AT;*;EPIPHANY;public;full;unconditional;;;Epiphany;Heilige Drei Könige;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-04-14;AT;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Ostermontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-05-01;AT;*;STATE_HOLIDAY;public;full;unconditional;;;State Holiday;Staatsfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-05-22;AT;*;ASCENSION;public;full;unconditional;;;Ascension Day;Christi Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-06-02;AT;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Pfingstmontag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-06-12;AT;*;CORPUS_CHRISTI;public;full;unconditional;;;Corpus Christi;Fronleichnam;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-08-15;AT;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Mariä Himmelfahrt;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-10-26;AT;*;NATIONAL_DAY;public;full;unconditional;;;National Day;Nationalfeiertag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-11-01;AT;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Allerheiligen;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-12-08;AT;*;IMMACULATE_CONCEPTION;public;full;unconditional;;;Immaculate Conception;Mariä Empfängnis;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-12-25;AT;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Christtag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2031-12-26;AT;*;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Stefanitag;https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
+2007-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-04-09;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-05-17;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-05-28;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-03-24;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-05-01;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-05-12;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-04-13;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-05-21;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-06-01;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-04-05;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-05-13;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-05-24;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-04-25;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-06-02;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-06-13;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-04-09;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-05-17;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-05-28;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-04-01;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-05-09;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-05-20;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-04-21;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-05-29;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-06-09;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-04-06;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-05-14;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-05-25;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-03-28;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-05-05;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-05-16;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-04-17;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-05-25;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-06-05;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-04-02;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-05-10;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-05-21;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-04-22;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-05-30;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-06-10;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-04-13;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-05-21;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-06-01;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-04-05;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-05-13;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-05-24;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-04-18;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-05-26;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-06-06;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-04-10;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-05-18;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-05-29;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-04-01;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-05-09;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-05-20;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-04-21;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-05-29;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-06-09;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-04-06;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-05-14;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-05-25;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-03-29;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-05-06;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-05-17;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-04-17;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-05-25;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-06-05;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-04-02;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-05-10;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-05-21;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-04-22;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-05-30;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-06-10;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-01-01;FR;*;NEW_YEAR;public;full;unconditional;;;New Year's Day;Jour de l'an;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-04-14;FR;*;EASTER_MONDAY;public;full;unconditional;;;Easter Monday;Lundi de Pâques;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-05-01;FR;*;LABOUR_DAY;public;full;unconditional;;;Labour Day;Fête du Travail;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-05-08;FR;*;VICTORY_DAY;public;full;unconditional;;;Victory in Europe Day;Victoire 1945;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-05-22;FR;*;ASCENSION;public;full;unconditional;;;Ascension Day;Ascension;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-06-02;FR;*;WHIT_MONDAY;public;full;unconditional;;;Whit Monday;Lundi de Pentecôte;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-07-14;FR;*;NATIONAL_DAY;public;full;unconditional;;;Bastille Day;Fête nationale;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-08-15;FR;*;ASSUMPTION;public;full;unconditional;;;Assumption Day;Assomption;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-11-01;FR;*;ALL_SAINTS;public;full;unconditional;;;All Saints' Day;Toussaint;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-11-11;FR;*;ARMISTICE;public;full;unconditional;;;Armistice Day;Armistice 1918;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-12-25;FR;*;CHRISTMAS;public;full;unconditional;;;Christmas Day;Noël;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-04-06;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/ceta/id/CETATEXT000020869037/
+2007-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-03-21;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2008-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-04-10;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2009-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-04-02;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2010-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-04-22;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2011-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-04-06;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2012-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-03-29;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2013-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-04-18;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2014-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-04-03;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2015-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-03-25;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2016-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-04-14;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2017-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-03-30;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2018-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-04-19;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2019-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-04-10;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2020-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-04-02;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2021-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-04-15;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2022-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-04-07;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2023-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-03-29;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2024-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-04-18;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2025-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-04-03;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2026-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-03-26;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2027-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-04-14;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2028-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-03-30;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2029-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-04-19;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2030-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-04-11;FR;FR-57;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2031-12-26;FR;FR-57;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-04-06;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/ceta/id/CETATEXT000020869037/
+2007-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-03-21;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2008-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-04-10;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2009-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-04-02;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2010-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-04-22;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2011-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-04-06;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2012-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-03-29;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2013-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-04-18;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2014-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-04-03;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2015-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-03-25;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2016-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-04-14;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2017-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-03-30;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2018-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-04-19;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2019-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-04-10;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2020-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-04-02;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2021-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-04-15;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2022-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-04-07;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2023-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-03-29;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2024-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-04-18;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2025-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-04-03;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2026-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-03-26;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2027-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-04-14;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2028-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-03-30;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2029-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-04-19;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2030-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-04-11;FR;FR-67;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2031-12-26;FR;FR-67;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2007-04-06;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/ceta/id/CETATEXT000020869037/
+2007-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2008-03-21;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2008-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2009-04-10;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2009-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2010-04-02;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2010-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2011-04-22;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2011-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2012-04-06;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2012-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2013-03-29;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2013-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2014-04-18;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2014-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2015-04-03;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2015-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2016-03-25;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2016-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2017-04-14;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2017-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2018-03-30;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2018-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2019-04-19;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2019-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2020-04-10;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2020-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2021-04-02;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2021-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2022-04-15;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2022-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2023-04-07;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2023-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2024-03-29;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2024-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2025-04-18;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2025-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2026-04-03;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2026-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2027-03-26;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2027-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2028-04-14;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2028-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2029-03-30;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2029-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2030-04-19;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2030-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
+2031-04-11;FR;FR-68;GOOD_FRIDAY;public;full;conditional;"The municipality has a Protestant temple or a simultaneous church; a decree may add holidays for local or religious circumstances.";"La commune a un temple protestant ou une église mixte ; un décret peut ajouter des jours fériés selon les circonstances locales ou confessionnelles.";Good Friday;Vendredi saint;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635/
+2031-12-26;FR;FR-68;ST_STEPHEN;public;full;unconditional;;;St Stephen's Day;Saint-Étienne;https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/
