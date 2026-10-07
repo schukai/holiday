@@ -35,17 +35,19 @@ By submitting a contribution, you certify that:
    complete and accurate to the best of your knowledge;
 3. you grant the contribution irrevocably under the licence applicable to its
    destination: CC BY 4.0 for data and MIT for documentation or software;
-4. schukai GmbH and downstream recipients may reproduce, verify, modify,
-   combine, distribute and use the contribution commercially under that
-   licence without additional permission or payment;
+4. schukai, through the current legal provider identified in the
+   [imprint](https://www.schukai.com/de/impressum), and downstream recipients
+   may reproduce, verify, modify, combine, distribute and use the contribution
+   commercially under that licence without additional permission or payment;
 5. to the extent permitted by applicable law, you waive or agree not to assert
    moral rights or similar rights only insofar as necessary to exercise those
    licensed rights; and
 6. the contribution and the public record associated with it may be retained
    indefinitely and redistributed with the project.
 
-You keep ownership of your contribution; no copyright assignment to schukai
-GmbH takes place. You also retain any rights that cannot legally be waived.
+You keep ownership of your contribution; no copyright assignment to schukai or
+the legal provider identified in the imprint takes place. You also retain any
+rights that cannot legally be waived.
 Submission does not transfer trademarks, patents or rights you do not own. A
 contribution is not accepted merely because it was submitted; maintainers must
 complete the source intake and licence review before it can enter a release.

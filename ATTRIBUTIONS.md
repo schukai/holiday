@@ -1,6 +1,8 @@
 # Attributions
 
-Released data attribution: “holiday by schukai GmbH, CC BY 4.0”.
+Released data attribution: “holiday by schukai, CC BY 4.0”.
+
+Current legal provider details: https://www.schukai.com/de/impressum
 
 Sources used to independently encode, scope and verify the released data:
 

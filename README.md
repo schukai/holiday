@@ -1,4 +1,4 @@
-# holiday data 0.2.0
+# holiday data 0.2.1
 
 Source-cited public holiday data for Austria, Belgium, Germany, France, the United Kingdom, Hungary, Ireland, Liechtenstein, Luxembourg, Poland, covering
 2007–2035. The release is an independently generated data
@@ -74,9 +74,10 @@ iCalendar exposes the same distinction as
 ## Licence
 
 Generated holiday data is licensed under CC BY 4.0. Attribute it as:
-“holiday by schukai GmbH, CC BY 4.0”. Documentation and metadata are provided
-under MIT. See `LICENSES.md`, `LICENSE-DATA`, `LICENSE` and
-`ATTRIBUTIONS.md`.
+“holiday by schukai, CC BY 4.0”. Documentation and metadata are provided under
+MIT. Current legal provider details are maintained in the
+[schukai imprint](https://www.schukai.com/de/impressum). See `LICENSES.md`,
+`LICENSE-DATA`, `LICENSE` and `ATTRIBUTIONS.md`.
 
 This data is supplied for general informational and software use and is not
 legal advice. Check the cited official source when legal consequences depend

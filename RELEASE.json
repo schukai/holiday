@@ -204,7 +204,7 @@
     "dist/jurisdictions.json",
     "provenance/sources.json"
   ],
-  "archive": "holiday-0.2.0.zip",
+  "archive": "holiday-0.2.1.zip",
   "countries": [
     "AT",
     "BE",
@@ -417,8 +417,8 @@
   "release_date": null,
   "schema_version": 2,
   "status": "candidate",
-  "tag": "v0.2.0",
-  "version": "0.2.0",
+  "tag": "v0.2.1",
+  "version": "0.2.1",
   "years": {
     "from": 2007,
     "to": 2035
