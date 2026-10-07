@@ -5,6 +5,34 @@ Source-cited public holiday data for Austria, Belgium, Germany, France, the Unit
 projection; it does not contain the private development history, generators or
 archived source material.
 
+## Country coverage
+
+`high` means the declared scope is backed by official sources, cleared rights
+and provenance, at least twenty historic calendar years, country test vectors
+and all local repository gates. A narrower declared scope can be `high` without
+claiming legal effects that sit outside that scope.
+
+| Country | Quality | Released coverage | Notes |
+|---|---|---|---|
+| Austria (AT) | high | 2007–2035 | Nationwide statutory layer and all nine states; historic Good Friday is conditional through 2018 |
+| Belgium (BE) | high | 2007–2035 | National private-sector layer, regions and provinces |
+| Germany (DE) | high | 2007–2035 | All states and evidence-backed local branches |
+| France (FR) | high | 2007–2035 | FR legal regime including FR-971–978; NC, PF and WF are not included |
+| United Kingdom (GB) | high | 2007–2035 | Four nations; appointment-dependent dates after 2028 are marked `projected` |
+| Hungary (HU) | high | 2007–2035 | Statutory layer, Budapest and all nineteen counties |
+| Ireland (IE) | high | 2007–2035 | National rules and all 26 county jurisdictions |
+| Liechtenstein (LI) | high | 2007–2035 | Statutory layer and all eleven municipalities |
+| Luxembourg (LU) | high | 2007–2035 | Statutory layer and all cantons; bank-sector extension is outside scope |
+| Poland (PL) | high | 2007–2035 | Statutory layer and all sixteen voivodeships |
+
+The following programme countries are deliberately not part of this release:
+
+| Country | Current quality | Remaining blocker |
+|---|---|---|
+| Switzerland (CH) | current | Bern's historic Article 20a classification remains unresolved |
+| Netherlands (NL) | current | Official classification evidence for 2007–2015 remains unavailable |
+| Monaco (MC) | research / rights-blocked | Official reuse permission is still required |
+
 ## Files
 
 - `dist/holidays.csv`, `.json` and `.xml` contain the same holiday records,
