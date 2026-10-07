@@ -985,6 +985,149 @@ Sources used to independently encode, scope and verify the released data:
 - Licence URL: https://www.gesetze-im-internet.de/urhg/__5.html
 - Attribution: Name the issuing public body, source title, source URL, retrieval date, and describe the independent encoding.
 
+## fi-almanac-holidays-2025
+
+- Publisher: University of Helsinki Almanac Office
+- Title: Permitted factual calendar derivative of Arkivapaapäivät 2025
+- Jurisdiction: FI
+- Official source: https://almanakka.helsinki.fi/ajankohtaista/vuoteen-2025-osuu-taydet-kymmenen-arkivapaapaivaa
+- Retrieved: 2026-10-07T17:21:00Z
+- Licence/status: University of Helsinki Almanac Office permission to publish a calendar FAQ statement retrieved 2026-10-07; acceptance limited to structured factual calendar derivative
+- Licence URL: https://almanakka.helsinki.fi/en/usein-kysytty%C3%A4
+- Attribution: University of Helsinki Almanac Office; annual publication title, source URL and retrieval date.
+
+## fi-almanac-holidays-2026
+
+- Publisher: University of Helsinki Almanac Office
+- Title: Permitted factual calendar derivative of Vuoteen 2026 mahtuu yhdeksän arkivapaapäivää – maksimimäärä kymmenen
+- Jurisdiction: FI
+- Official source: https://almanakka.helsinki.fi/ajankohtaista/arkivapaat-2026
+- Retrieved: 2026-10-07T17:21:00Z
+- Licence/status: University of Helsinki Almanac Office permission to publish a calendar FAQ statement retrieved 2026-10-07; acceptance limited to structured factual calendar derivative
+- Licence URL: https://almanakka.helsinki.fi/en/usein-kysytty%C3%A4
+- Attribution: University of Helsinki Almanac Office; annual publication title, source URL and retrieval date.
+
+## fi-autonomy-act
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Act on the Autonomy of Åland 1144/1991, updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/1991/1144
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-church-act-1993
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Church Act 1054/1993, final updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/1993/1054
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-church-act-2023
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Church Act 652/2023, updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/2023/652
+- Retrieved: 2026-10-07T18:06:19Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-church-order-2023
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Church Order 657/2023, updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/2023/657
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-eastern-uusimaa-merge-2011
+
+- Publisher: Statistics Finland
+- Title: Sub-regional units 2011 classification change note
+- Jurisdiction: FI
+- Official source: https://stat.fi/en/luokitukset/seutukunta/seutukunta_1_20110101
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use
+- Attribution: Source: Statistics Finland; source title and URL; CC BY 4.0.
+
+## fi-independence-day-act
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Act on celebrating Independence Day as a general celebration and day off 388/1937
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/1937/388
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-may-day-act
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Act on arranging May Day as a day off for employees in certain cases 272/1944
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/1944/272
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-regions-2007
+
+- Publisher: Statistics Finland
+- Title: Regions 2007 classification correspondence table
+- Jurisdiction: FI
+- Official source: https://stat.fi/en/luokitukset/corrmaps/maakunta_1_20070101%23suuralue_1_20030711
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use
+- Attribution: Source: Statistics Finland; source title and URL; CC BY 4.0.
+
+## fi-regions-2026
+
+- Publisher: Statistics Finland
+- Title: Regions 2026 classification
+- Jurisdiction: FI
+- Official source: https://stat.fi/en/luokitukset/maakunta/maakunta_1_20260101
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use
+- Attribution: Source: Statistics Finland; source title and URL; CC BY 4.0.
+
+## fi-working-hours-act-1996
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Working Hours Act 605/1996, final updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/1996/605
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
+## fi-working-hours-act-2019
+
+- Publisher: Ministry of Justice of Finland / Legal Register Centre
+- Title: Working Hours Act 872/2019, updated text
+- Jurisdiction: FI
+- Official source: https://www.finlex.fi/fi/lainsaadanto/2019/872
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.finlex.fi/en/data-protection
+- Attribution: Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.
+
 ## fr-abolition-holidays
 
 - Publisher: Direction de l'information légale et administrative (DILA)
@@ -1557,6 +1700,94 @@ Sources used to independently encode, scope and verify the released data:
 - Licence URL: https://data.gov.ie/dataset/https-www-workplacerelations-ie-en-what_you_should_know-public-holidays-public_hols-html/resource/cd351149-cec1-40d4-8496-0c6b1d9d27e0
 - Attribution: Department of Enterprise, Tourism and Employment and Workplace Relations Commission, Irish Public Holidays, licensed under CC BY 4.0.
 
+## it-constitution-regions
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Constitution of the Italian Republic, Article 131, official 2007 and current versions
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;costituzione~art131!vig=
+- Retrieved: 2026-10-07T16:36:05Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Constitution Article 131, versions and retrieval date stated; independently encoded by schukai.
+
+## it-dpr-792-religious-holidays
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Presidential Decree 28 December 1985 no. 792
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=085U0792&atto.dataPubblicazioneGazzetta=1985-12-31
+- Retrieved: 2026-10-07T16:36:01Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, DPR 28 December 1985 no. 792, retrieval date stated; independently encoded by schukai.
+
+## it-istat-territorial-units-2026
+
+- Publisher: Istituto nazionale di statistica (Istat)
+- Title: Elenco dei comuni italiani and administrative-unit codes, current 2026 download
+- Jurisdiction: IT
+- Official source: https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xlsx
+- Retrieved: 2026-10-07T16:36:06Z
+- Licence/status: Creative Commons Attribution 4.0 International Istat Open Data terms accessed 2026-10-07
+- Licence URL: https://www.istat.it/dati/open-data/
+- Attribution: Source: Istat, Elenco dei comuni italiani, retrieval date and independent transformation stated.
+
+## it-law-260-historic-current
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Law 27 May 1949 no. 260, Article 2, official versions at 1 January 2007 and 7 October 2026
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260~art2!vig=
+- Retrieved: 2026-10-07T16:36:00Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Law 27 May 1949 no. 260, versions and retrieval date stated; independently encoded by schukai.
+
+## it-law-336-republic-day
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Law 20 November 2000 no. 336 restoring Republic Day
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=000G0390&atto.dataPubblicazioneGazzetta=2000-11-22&tipoDettaglio=vigente
+- Retrieved: 2026-10-07T16:36:02Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Law 20 November 2000 no. 336, retrieval date stated; independently encoded by schukai.
+
+## it-law-54-suppressed-holidays
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Law 5 March 1977 no. 54 on suppressed and moved public holidays
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=077U0054&atto.dataPubblicazioneGazzetta=1977-03-07&tipoDettaglio=vigente
+- Retrieved: 2026-10-07T16:41:00Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Law 5 March 1977 no. 54, retrieval date stated; independently encoded by schukai.
+
+## it-san-francesco-2025
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Law 8 October 2025 no. 151 establishing the national Feast of Saint Francis of Assisi
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=1&atto.codiceRedazionale=25G00153&atto.dataPubblicazioneGazzetta=2025-10-10
+- Retrieved: 2026-10-07T16:36:04Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Law 8 October 2025 no. 151, retrieval date stated; independently encoded by schukai.
+
+## it-unity-holiday-2011
+
+- Publisher: Presidenza del Consiglio dei ministri / Normattiva
+- Title: Decree-Law 22 February 2011 no. 5, 17 March 2011 holiday
+- Jurisdiction: IT
+- Official source: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=1&atto.codiceRedazionale=011G0045&atto.dataPubblicazioneGazzetta=2011-02-23
+- Retrieved: 2026-10-07T16:36:03Z
+- Licence/status: Italian official-act copyright exclusion under Law 633/1941 Article 5 official consolidated Article 5 accessed 2026-10-07
+- Licence URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16
+- Attribution: Source: Normattiva, Decree-Law 22 February 2011 no. 5, retrieval date stated; independently encoded by schukai.
+
 ## li-constitution-2007
 
 - Publisher: Liechtensteinische Landesverwaltung, Lilex
@@ -1700,6 +1931,94 @@ Sources used to independently encode, scope and verify the released data:
 - Licence URL: https://creativecommons.org/publicdomain/zero/1.0/
 - Attribution: Retain source identity, title, URL, retrieval date, and independent-encoding notice.
 
+## no-county-classification-2007-2035
+
+- Publisher: Statistics Norway (Statistisk sentralbyrå)
+- Title: Standard for county classification, codes valid in requested range 2007-01-01 through 2035-12-31
+- Jurisdiction: NO
+- Official source: https://data.ssb.no/api/klass/v1/classifications/104/codes?from=2007-01-01&to=2035-12-31
+- Retrieved: 2026-10-07T16:40:04Z
+- Licence/status: Creative Commons Attribution 4.0 International CC BY 4.0
+- Licence URL: https://www.ssb.no/en/diverse/lisens
+- Attribution: Statistics Norway, Standard for county classification, classification 104; transformed by adding NO- prefixes and converting API end boundaries to inclusive catalogue dates.
+
+## no-holidays-act-1995
+
+- Publisher: Lovdata on behalf of the Norwegian Ministry of Justice and Public Security
+- Title: Lov om helligdager og helligdagsfred (LOV-1995-02-24-12), consolidated text and amendment annotations
+- Jurisdiction: NO
+- Official source: https://lovdata.no/dokument/NL/lov/1995-02-24-12
+- Retrieved: 2026-10-07T16:40:00Z
+- Licence/status: Lovdata open-service reuse exception under NLOD 2.0 Lovdata terms dated 2025-10-31; NLOD 2.0
+- Licence URL: https://lovdata.no/info/vilkar
+- Attribution: Lovdata, Lov om helligdager og helligdagsfred (LOV-1995-02-24-12), source URL; reused under NLOD 2.0.
+
+## no-holidays-act-amendment-2011
+
+- Publisher: Lovdata on behalf of the Norwegian Ministry of Justice and Public Security
+- Title: Promulgated 1995 Helligdagsfredloven section 2 wording compared with LOV-2011-08-26-40 part VI and commencement order FOR-2011-08-26-866
+- Jurisdiction: NO
+- Official source: https://lovdata.no/xml/LTI/nl-19950224-012.xml
+- Retrieved: 2026-10-07T16:58:59Z
+- Licence/status: Lovdata open-service reuse exception under NLOD 2.0 Lovdata terms dated 2025-10-31; NLOD 2.0
+- Licence URL: https://lovdata.no/info/vilkar
+- Attribution: Lovdata, LOV-1995-02-24-12 as promulgated, LOV-2011-08-26-40 and FOR-2011-08-26-866, official Norsk Lovtidend texts; reused under NLOD 2.0.
+
+## no-jan-mayen-act-1930
+
+- Publisher: Lovdata on behalf of the Norwegian Ministry of Justice and Public Security
+- Title: Lov om Jan Mayen (LOV-1930-02-27-2), consolidated text
+- Jurisdiction: NO-22
+- Official source: https://lovdata.no/dokument/NL/lov/1930-02-27-2
+- Retrieved: 2026-10-07T16:40:03Z
+- Licence/status: Lovdata open-service reuse exception under NLOD 2.0 Lovdata terms dated 2025-10-31; NLOD 2.0
+- Licence URL: https://lovdata.no/info/vilkar
+- Attribution: Lovdata, Lov om Jan Mayen (LOV-1930-02-27-2), source URL; reused under NLOD 2.0.
+
+## no-may-days-act-1947
+
+- Publisher: Lovdata on behalf of the Norwegian Ministry of Justice and Public Security
+- Title: Lov om 1 og 17 mai som høgtidsdager (LOV-1947-04-26-1), consolidated text and amendment annotations
+- Jurisdiction: NO
+- Official source: https://lovdata.no/dokument/NL/lov/1947-04-26-1
+- Retrieved: 2026-10-07T16:40:01Z
+- Licence/status: Lovdata open-service reuse exception under NLOD 2.0 Lovdata terms dated 2025-10-31; NLOD 2.0
+- Licence URL: https://lovdata.no/info/vilkar
+- Attribution: Lovdata, Lov om 1 og 17 mai som høgtidsdager (LOV-1947-04-26-1), source URL; reused under NLOD 2.0.
+
+## no-norges-bank-settlement-days-2023-2024
+
+- Publisher: Norges Bank
+- Title: Settlement days: official annual public-holiday date lists for 2023 and 2024, captured 2023-03-21 by Arquivo.pt
+- Jurisdiction: NO
+- Official source: https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/Settlement-days/
+- Retrieved: 2026-10-07T16:49:22Z
+- Licence/status: Norges Bank copyright and liability terms Page edited 2020-08-22; retrieved 2026-10-07
+- Licence URL: https://www.norges-bank.no/en/disclaimer/
+- Attribution: Norges Bank, Settlement days, 2023 and 2024 annual sections; archived capture supplied by Arquivo.pt.
+
+## no-norges-bank-settlement-days-2026
+
+- Publisher: Norges Bank
+- Title: Settlement days: official annual public-holiday date list for 2026
+- Jurisdiction: NO
+- Official source: https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/Settlement-days/
+- Retrieved: 2026-10-07T16:49:23Z
+- Licence/status: Norges Bank copyright and liability terms Page edited 2020-08-22; retrieved 2026-10-07
+- Licence URL: https://www.norges-bank.no/en/disclaimer/
+- Attribution: Norges Bank, Settlement days, 2026 annual section.
+
+## no-svalbard-act-1925
+
+- Publisher: Lovdata on behalf of the Norwegian Ministry of Justice and Public Security
+- Title: Lov om Svalbard (LOV-1925-07-17-11), sections 1-4 and consolidated annotations
+- Jurisdiction: NO-21
+- Official source: https://lovdata.no/dokument/NL/lov/1925-07-17-11
+- Retrieved: 2026-10-07T16:40:02Z
+- Licence/status: Lovdata open-service reuse exception under NLOD 2.0 Lovdata terms dated 2025-10-31; NLOD 2.0
+- Licence URL: https://lovdata.no/info/vilkar
+- Attribution: Lovdata, Lov om Svalbard (LOV-1925-07-17-11), source URL; reused under NLOD 2.0.
+
 ## pl-centenary-holiday-2018
 
 - Publisher: Sejm of the Republic of Poland, Dziennik Ustaw
@@ -1831,6 +2150,204 @@ Sources used to independently encode, scope and verify the released data:
 - Licence/status: Polish normative acts and official documents excluded from copyright under Article 4 points 1 and 2 Copyright Act consolidated in Dz.U. 2025 poz. 24
 - Licence URL: https://eli.gov.pl/eli/DU/2025/24/ogl
 - Attribution: Republic of Poland, Dziennik Ustaw, Dz.U. 1998 nr 96 poz. 603, official Sejm ELI URL and retrieval date.
+
+## pt-azores-regional-day-1980
+
+- Publisher: Assembleia Regional dos Açores / Diário da República
+- Title: Decreto Regional n.º 13/80/A, de 21 de agosto
+- Jurisdiction: PT-20
+- Official source: https://files.diariodarepublica.pt/1s/1980/08/19200/23042305.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-constitution-district-continuity-2005
+
+- Publisher: Assembleia da República / Diário da República
+- Title: Lei Constitucional n.º 1/2005, official republication of the Constitution
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/2005/08/155a00.pdf
+- Retrieved: 2026-10-07T16:55:10Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-holiday-restoration-2016
+
+- Publisher: Assembleia da República / Diário da República
+- Title: Lei n.º 8/2016, de 1 de abril
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/2016/04/06400.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-holiday-suspension-2012
+
+- Publisher: Assembleia da República / Diário da República
+- Title: Lei n.º 23/2012, de 25 de junho
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/2012/06/12100.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-labour-code-2003
+
+- Publisher: Assembleia da República / Diário da República
+- Title: Lei n.º 99/2003, de 27 de agosto — Código do Trabalho, Articles 208–210
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/1s/2003/08/197a00/55585656.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-labour-code-2009
+
+- Publisher: Assembleia da República / Diário da República
+- Title: Lei n.º 7/2009, de 12 de fevereiro — Código do Trabalho, Articles 234–236
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/2009/02/03000.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-madeira-autonomy-day-2024
+
+- Publisher: Assembleia Legislativa da Região Autónoma da Madeira / Diário da República
+- Title: Decreto Legislativo Regional n.º 17/2024/M, de 16 de dezembro
+- Jurisdiction: PT-30
+- Official source: https://files.diariodarepublica.pt/1s/2024/12/24300/0000900010.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-madeira-labour-adaptation-2004
+
+- Publisher: Assembleia Legislativa Regional da Madeira / Diário da República
+- Title: Decreto Legislativo Regional n.º 3/2004/M, complete Diário da República issue
+- Jurisdiction: PT-30
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/2004/03/066a00.pdf
+- Retrieved: 2026-10-07T16:55:11Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-madeira-labour-adaptation-2009
+
+- Publisher: Assembleia Legislativa da Região Autónoma da Madeira / Diário da República
+- Title: Decreto Legislativo Regional n.º 21/2009/M, de 4 de agosto
+- Jurisdiction: PT-30
+- Official source: https://files.diariodarepublica.pt/1s/2009/08/14900/0506005061.pdf
+- Retrieved: 2026-10-07T16:38:32Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.
+
+## pt-mainland-districts-1995
+
+- Publisher: Governo de Portugal / Diário da República
+- Title: Decreto-Lei n.º 83/95, population-threshold annex naming 17 mainland districts
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/gratuitos/1s/1995/04/097a00.pdf
+- Retrieved: 2026-10-07T17:20:01Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository identifiers and aliases are independently encoded.
+
+## pt-mainland-districts-2024
+
+- Publisher: Diário da República
+- Title: Regulamento n.º 818/2024, Annex III complete mainland district list
+- Jurisdiction: PT
+- Official source: https://files.diariodarepublica.pt/2s/2024/08/148000000/0029000328.pdf
+- Retrieved: 2026-10-07T17:15:01Z
+- Licence/status: Portuguese official-text copyright exclusion Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008
+- Licence URL: https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf
+- Attribution: Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository identifiers and aliases are independently encoded.
+
+## se-counties-2007
+
+- Publisher: Statistiska centralbyrån (SCB)
+- Title: MIS 2007:1 Regionala indelningar i Sverige den 1 januari 2007
+- Jurisdiction: SE
+- Official source: https://www.scb.se/contentassets/5f7f821206e24fc88501f4b6f5d1c559/mis-2007.1.pdf
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Creative Commons Attribution 4.0 International SCB terms as accessed 2026-10-07
+- Licence URL: https://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor
+- Attribution: Källa: Statistiska centralbyrån (SCB), MIS 2007:1, official URL, retrieval date; independently transformed.
+
+## se-counties-2026
+
+- Publisher: Statistiska centralbyrån (SCB)
+- Title: Län och kommuner i kodnummerordning 2026
+- Jurisdiction: SE
+- Official source: https://www.scb.se/contentassets/7a89e48960f741e08918e489ea36354a/kommunlankod-2026.pdf
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Creative Commons Attribution 4.0 International SCB terms as accessed 2026-10-07
+- Licence URL: https://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor
+- Attribution: Källa: Statistiska centralbyrån (SCB), Län och kommuner i kodnummerordning 2026, official URL, retrieval date; independently transformed.
+
+## se-public-holidays-act
+
+- Publisher: Sveriges riksdag / Regeringskansliet
+- Title: Lag (1989:253) om allmänna helgdagar, current consolidated text
+- Jurisdiction: SE
+- Official source: https://data.riksdagen.se/dokument/sfs-1989-253.html
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Riksdag open-data terms and Swedish Copyright Act section 9 terms and law as accessed 2026-10-07
+- Licence URL: https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anvandarstod/anvandningsvillkor/
+- Attribution: Källa: Sveriges riksdag. Identify SFS 1989:253, the official URL, retrieval date and independent encoding; do not imply Riksdag endorsement.
+
+## se-public-holidays-amendment-2004
+
+- Publisher: Regeringskansliet
+- Title: SFS 2004:1320 and official amendment register for SFS 1989:253
+- Jurisdiction: SE
+- Official source: https://rkrattsdb.gov.se/SFSdoc/04/041320.PDF
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Copyright-free enactment under Lag (1960:729) 9 § law as accessed 2026-10-07
+- Licence URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/
+- Attribution: Regeringskansliet, SFS 2004:1320, official URL, retrieval date and independent encoding.
+
+## se-public-holidays-calendar-2025
+
+- Publisher: Government Offices of Sweden, Ministry for Foreign Affairs
+- Title: Circular note 2/2024: Public holidays and equivalent days in Sweden 2025
+- Jurisdiction: SE
+- Official source: https://www.government.se/contentassets/18369e60ed344a838307575caa49a3b5/circular-note-2---2024-public-holidays-in-2025.pdf
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Reproduction of official authority document under Lag (1960:729) 26 a §; statutory content additionally excluded under 9 § law as accessed 2026-10-07
+- Licence URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/
+- Attribution: Government Offices of Sweden, Ministry for Foreign Affairs, circular-note title, year, official URL and retrieval date.
+
+## se-public-holidays-calendar-2026
+
+- Publisher: Government Offices of Sweden, Ministry for Foreign Affairs
+- Title: Circular note 2/2025: Public holidays and equivalent days in Sweden 2026
+- Jurisdiction: SE
+- Official source: https://www.government.se/contentassets/71dfa63dd47749ea96e0cb7c3dedb18c/circular-note-2_2025---public-holidays-2026.pdf
+- Retrieved: 2026-10-07T16:35:00Z
+- Licence/status: Reproduction of official authority document under Lag (1960:729) 26 a §; statutory content additionally excluded under 9 § law as accessed 2026-10-07
+- Licence URL: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/
+- Attribution: Government Offices of Sweden, Ministry for Foreign Affairs, circular-note title, year, official URL and retrieval date.
+
+## unicode-cldr-48-fi-subdivisions
+
+- Publisher: Unicode Consortium
+- Title: CLDR 48 English subdivision names for Finland
+- Jurisdiction: FI
+- Official source: https://raw.githubusercontent.com/unicode-org/cldr/release-48/common/subdivisions/en.xml
+- Retrieved: 2026-10-07T16:35:36Z
+- Licence/status: Unicode License v3 Unicode License V3
+- Licence URL: https://www.unicode.org/license.txt
+- Attribution: Copyright © 1991-2025 Unicode, Inc.; Unicode License v3; CLDR release 48 subdivision names.
 
 ## unicode-cldr-48-li-subdivisions
 

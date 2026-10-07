@@ -1,5 +1,5 @@
 {
-  "release_version": "0.2.2",
+  "release_version": "0.3.0",
   "schema_version": 2,
   "source_sets": {
     "jurisdiction": [
@@ -36,6 +36,10 @@
       "de-saxony-municipal-parts-2025",
       "de-thuringia-boundary-history",
       "de-thuringia-holiday-act",
+      "fi-autonomy-act",
+      "fi-eastern-uusimaa-merge-2011",
+      "fi-regions-2007",
+      "fi-regions-2026",
       "fr-code-travail-l3134-13",
       "fr-insee-metropolitan-regions",
       "fr-insee-overseas-cog",
@@ -64,6 +68,8 @@
       "ie-iso-county-codes",
       "ie-working-time-act-1997",
       "ie-working-time-act-history",
+      "it-constitution-regions",
+      "it-istat-territorial-units-2026",
       "li-constitution-2007",
       "li-constitution-municipalities",
       "li-constitution-version-history",
@@ -71,10 +77,26 @@
       "li-employment-act-current",
       "lu-administrative-cantons-2026",
       "lu-labour-code-2006",
+      "no-county-classification-2007-2035",
+      "no-holidays-act-1995",
+      "no-may-days-act-1947",
       "pl-days-off-work-2015",
       "pl-days-off-work-current",
       "pl-epiphany-2010",
       "pl-territorial-division-1998",
+      "pt-azores-regional-day-1980",
+      "pt-constitution-district-continuity-2005",
+      "pt-labour-code-2003",
+      "pt-labour-code-2009",
+      "pt-madeira-autonomy-day-2024",
+      "pt-madeira-labour-adaptation-2004",
+      "pt-madeira-labour-adaptation-2009",
+      "pt-mainland-districts-1995",
+      "pt-mainland-districts-2024",
+      "se-counties-2007",
+      "se-counties-2026",
+      "se-public-holidays-act",
+      "unicode-cldr-48-fi-subdivisions",
       "unicode-cldr-48-li-subdivisions"
     ],
     "rule": [
@@ -120,6 +142,14 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "fi-autonomy-act",
+      "fi-church-act-1993",
+      "fi-church-act-2023",
+      "fi-church-order-2023",
+      "fi-independence-day-act",
+      "fi-may-day-act",
+      "fi-working-hours-act-1996",
+      "fi-working-hours-act-2019",
       "fr-abolition-holidays",
       "fr-code-travail-holiday-history",
       "fr-code-travail-l3134-13",
@@ -154,16 +184,38 @@
       "ie-working-time-act-1997",
       "ie-working-time-act-history",
       "ie-wrc-public-holidays-2026",
+      "it-dpr-792-religious-holidays",
+      "it-istat-territorial-units-2026",
+      "it-law-260-historic-current",
+      "it-law-336-republic-day",
+      "it-law-54-suppressed-holidays",
+      "it-san-francesco-2025",
+      "it-unity-holiday-2011",
       "li-employment-act-2007",
       "li-employment-act-current",
       "li-national-day-act-1990",
       "lu-europe-day-law-2019",
       "lu-labour-code-2006",
+      "no-holidays-act-1995",
+      "no-holidays-act-amendment-2011",
+      "no-may-days-act-1947",
       "pl-centenary-holiday-2018",
       "pl-christmas-eve-2024",
       "pl-days-off-work-2015",
       "pl-days-off-work-current",
-      "pl-epiphany-2010"
+      "pl-epiphany-2010",
+      "pt-azores-regional-day-1980",
+      "pt-holiday-restoration-2016",
+      "pt-holiday-suspension-2012",
+      "pt-labour-code-2003",
+      "pt-labour-code-2009",
+      "pt-madeira-autonomy-day-2024",
+      "pt-madeira-labour-adaptation-2004",
+      "pt-madeira-labour-adaptation-2009",
+      "se-public-holidays-act",
+      "se-public-holidays-amendment-2004",
+      "se-public-holidays-calendar-2025",
+      "se-public-holidays-calendar-2026"
     ],
     "union": [
       "at-arbeitsruhegesetz-section-7-2007",
@@ -255,6 +307,19 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "fi-almanac-holidays-2025",
+      "fi-almanac-holidays-2026",
+      "fi-autonomy-act",
+      "fi-church-act-1993",
+      "fi-church-act-2023",
+      "fi-church-order-2023",
+      "fi-eastern-uusimaa-merge-2011",
+      "fi-independence-day-act",
+      "fi-may-day-act",
+      "fi-regions-2007",
+      "fi-regions-2026",
+      "fi-working-hours-act-1996",
+      "fi-working-hours-act-2019",
       "fr-abolition-holidays",
       "fr-code-travail-holiday-history",
       "fr-code-travail-l3134-13",
@@ -307,6 +372,14 @@
       "ie-working-time-act-1997",
       "ie-working-time-act-history",
       "ie-wrc-public-holidays-2026",
+      "it-constitution-regions",
+      "it-dpr-792-religious-holidays",
+      "it-istat-territorial-units-2026",
+      "it-law-260-historic-current",
+      "it-law-336-republic-day",
+      "it-law-54-suppressed-holidays",
+      "it-san-francesco-2025",
+      "it-unity-holiday-2011",
       "li-constitution-2007",
       "li-constitution-municipalities",
       "li-constitution-version-history",
@@ -320,6 +393,14 @@
       "lu-europe-day-law-2019",
       "lu-labour-code-2006",
       "lu-official-holidays-calendar",
+      "no-county-classification-2007-2035",
+      "no-holidays-act-1995",
+      "no-holidays-act-amendment-2011",
+      "no-jan-mayen-act-1930",
+      "no-may-days-act-1947",
+      "no-norges-bank-settlement-days-2023-2024",
+      "no-norges-bank-settlement-days-2026",
+      "no-svalbard-act-1925",
       "pl-centenary-holiday-2018",
       "pl-christmas-eve-2024",
       "pl-covid-holiday-enabling-act-2020",
@@ -332,6 +413,24 @@
       "pl-religious-leave-2023",
       "pl-saturday-holiday-ruling-2012",
       "pl-territorial-division-1998",
+      "pt-azores-regional-day-1980",
+      "pt-constitution-district-continuity-2005",
+      "pt-holiday-restoration-2016",
+      "pt-holiday-suspension-2012",
+      "pt-labour-code-2003",
+      "pt-labour-code-2009",
+      "pt-madeira-autonomy-day-2024",
+      "pt-madeira-labour-adaptation-2004",
+      "pt-madeira-labour-adaptation-2009",
+      "pt-mainland-districts-1995",
+      "pt-mainland-districts-2024",
+      "se-counties-2007",
+      "se-counties-2026",
+      "se-public-holidays-act",
+      "se-public-holidays-amendment-2004",
+      "se-public-holidays-calendar-2025",
+      "se-public-holidays-calendar-2026",
+      "unicode-cldr-48-fi-subdivisions",
       "unicode-cldr-48-li-subdivisions"
     ],
     "verification": [
@@ -424,6 +523,19 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "fi-almanac-holidays-2025",
+      "fi-almanac-holidays-2026",
+      "fi-autonomy-act",
+      "fi-church-act-1993",
+      "fi-church-act-2023",
+      "fi-church-order-2023",
+      "fi-eastern-uusimaa-merge-2011",
+      "fi-independence-day-act",
+      "fi-may-day-act",
+      "fi-regions-2007",
+      "fi-regions-2026",
+      "fi-working-hours-act-1996",
+      "fi-working-hours-act-2019",
       "fr-abolition-holidays",
       "fr-code-travail-holiday-history",
       "fr-code-travail-l3134-13",
@@ -476,6 +588,14 @@
       "ie-working-time-act-1997",
       "ie-working-time-act-history",
       "ie-wrc-public-holidays-2026",
+      "it-constitution-regions",
+      "it-dpr-792-religious-holidays",
+      "it-istat-territorial-units-2026",
+      "it-law-260-historic-current",
+      "it-law-336-republic-day",
+      "it-law-54-suppressed-holidays",
+      "it-san-francesco-2025",
+      "it-unity-holiday-2011",
       "li-constitution-2007",
       "li-constitution-municipalities",
       "li-constitution-version-history",
@@ -489,6 +609,14 @@
       "lu-europe-day-law-2019",
       "lu-labour-code-2006",
       "lu-official-holidays-calendar",
+      "no-county-classification-2007-2035",
+      "no-holidays-act-1995",
+      "no-holidays-act-amendment-2011",
+      "no-jan-mayen-act-1930",
+      "no-may-days-act-1947",
+      "no-norges-bank-settlement-days-2023-2024",
+      "no-norges-bank-settlement-days-2026",
+      "no-svalbard-act-1925",
       "pl-centenary-holiday-2018",
       "pl-christmas-eve-2024",
       "pl-covid-holiday-enabling-act-2020",
@@ -501,6 +629,24 @@
       "pl-religious-leave-2023",
       "pl-saturday-holiday-ruling-2012",
       "pl-territorial-division-1998",
+      "pt-azores-regional-day-1980",
+      "pt-constitution-district-continuity-2005",
+      "pt-holiday-restoration-2016",
+      "pt-holiday-suspension-2012",
+      "pt-labour-code-2003",
+      "pt-labour-code-2009",
+      "pt-madeira-autonomy-day-2024",
+      "pt-madeira-labour-adaptation-2004",
+      "pt-madeira-labour-adaptation-2009",
+      "pt-mainland-districts-1995",
+      "pt-mainland-districts-2024",
+      "se-counties-2007",
+      "se-counties-2026",
+      "se-public-holidays-act",
+      "se-public-holidays-amendment-2004",
+      "se-public-holidays-calendar-2025",
+      "se-public-holidays-calendar-2026",
+      "unicode-cldr-48-fi-subdivisions",
       "unicode-cldr-48-li-subdivisions"
     ]
   },
@@ -3442,6 +3588,470 @@
     },
     {
       "evidence": {
+        "licence_evidence_sha256": "aa58bfe3d12ad90653705f0f442f2520caea5f917295a173f6824521cebf34f2",
+        "private_manifest_sha256": "4aef03636b61363c4ca0a971f48a99158e11d9cde72b38033f4295301558bf29",
+        "source_artifact_sha256": "804bf79f4b46095021d6e452bca1ad7bd5ee91a2168ff1505d5e09bbb7a0e469"
+      },
+      "id": "fi-almanac-holidays-2025",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "University of Helsinki Almanac Office; annual publication title, source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "University of Helsinki Almanac Office permission to publish a calendar",
+        "url": "https://almanakka.helsinki.fi/en/usein-kysytty%C3%A4",
+        "version": "FAQ statement retrieved 2026-10-07; acceptance limited to structured factual calendar derivative"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "7dd0911cd44eb968591ace760a0293895013b81165f8f50a14c4dff1d889b6dd",
+            "f8c1e1800483369921b7c7c74f463fc23d905cf9efc1c87430b8e1f4411ecec3"
+          ],
+          "output_sha256": [
+            "804bf79f4b46095021d6e452bca1ad7bd5ee91a2168ff1505d5e09bbb7a0e469"
+          ],
+          "sequence": 1,
+          "summary": "Produce the permitted structured 2025 calendar-fact derivative from the exact restricted private article and full FAQ/terms bytes; copy no article prose, images or name-day material."
+        },
+        {
+          "input_sha256": [
+            "804bf79f4b46095021d6e452bca1ad7bd5ee91a2168ff1505d5e09bbb7a0e469"
+          ],
+          "output_sha256": [
+            "02fefd6797920728e6d51e1d59551133fee924b460be843c2a4e2a60ac6fe8f9",
+            "a8fcdc3e2cad53ac9337b4aa04854ed49b3280fd9a5e23f55fbe8dae7f806fe9"
+          ],
+          "sequence": 2,
+          "summary": "Compare the accepted nine-date factual derivative with the independently statute-encoded 2025 FI vector; verify the four omitted holidays solely from the Church Acts and Church Order."
+        }
+      ],
+      "publisher": "University of Helsinki Almanac Office",
+      "retrieved_at": "2026-10-07T17:21:00Z",
+      "title": "Permitted factual calendar derivative of Arkivapaapäivät 2025",
+      "url": "https://almanakka.helsinki.fi/ajankohtaista/vuoteen-2025-osuu-taydet-kymmenen-arkivapaapaivaa"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "aa58bfe3d12ad90653705f0f442f2520caea5f917295a173f6824521cebf34f2",
+        "private_manifest_sha256": "571ecb6c08bdaba81c550603512bafc6c27d40017a17f646a81b6390aa8e556b",
+        "source_artifact_sha256": "c8fefe8ac3245aa3a4ceb7c2968ecb14b0e3058584b1494eaab7cc4ffb117bd6"
+      },
+      "id": "fi-almanac-holidays-2026",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "University of Helsinki Almanac Office; annual publication title, source URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "University of Helsinki Almanac Office permission to publish a calendar",
+        "url": "https://almanakka.helsinki.fi/en/usein-kysytty%C3%A4",
+        "version": "FAQ statement retrieved 2026-10-07; acceptance limited to structured factual calendar derivative"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "7dd0911cd44eb968591ace760a0293895013b81165f8f50a14c4dff1d889b6dd",
+            "c6d1d0de41ac1a4eb3d596f484d293d5b05bc27bef19d552094686812a07155a"
+          ],
+          "output_sha256": [
+            "c8fefe8ac3245aa3a4ceb7c2968ecb14b0e3058584b1494eaab7cc4ffb117bd6"
+          ],
+          "sequence": 1,
+          "summary": "Produce the permitted structured 2026 calendar-fact derivative from the exact restricted private article and full FAQ/terms bytes; copy no article prose, images or name-day material."
+        },
+        {
+          "input_sha256": [
+            "c8fefe8ac3245aa3a4ceb7c2968ecb14b0e3058584b1494eaab7cc4ffb117bd6"
+          ],
+          "output_sha256": [
+            "02fefd6797920728e6d51e1d59551133fee924b460be843c2a4e2a60ac6fe8f9",
+            "a8fcdc3e2cad53ac9337b4aa04854ed49b3280fd9a5e23f55fbe8dae7f806fe9"
+          ],
+          "sequence": 2,
+          "summary": "Compare the accepted nine-date factual derivative with the independently statute-encoded 2026 FI vector; verify the four omitted holidays solely from the Church Acts and Church Order."
+        }
+      ],
+      "publisher": "University of Helsinki Almanac Office",
+      "retrieved_at": "2026-10-07T17:21:00Z",
+      "title": "Permitted factual calendar derivative of Vuoteen 2026 mahtuu yhdeksän arkivapaapäivää – maksimimäärä kymmenen",
+      "url": "https://almanakka.helsinki.fi/ajankohtaista/arkivapaat-2026"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "0f6d4919b8afa0aeebdf502a364ffefe6c4a07c83d061c1868166460a54aefe1",
+        "source_artifact_sha256": "9dae814f983663fb11fa6b7805b92de433156b707ff30a48173f0fc00266a91c"
+      },
+      "id": "fi-autonomy-act",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "9dae814f983663fb11fa6b7805b92de433156b707ff30a48173f0fc00266a91c"
+          ],
+          "output_sha256": [
+            "46f05bdc63ff0b0f08897381e0b7544b9387f5cc5f6fdc88eabd76a8b649321b",
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Establish State legislative competence for labour law and church legislation in Åland and apply the nationwide holiday layer there."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Act on the Autonomy of Åland 1144/1991, updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1991/1144"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "4893b4eff210ac484942cbe5669a76a462342ebb2fd97bddd23b78729e574472",
+        "source_artifact_sha256": "299c33be1d2e42ff08a1d7284bb150403e22492741862ff781249c712635ab04"
+      },
+      "id": "fi-church-act-1993",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "299c33be1d2e42ff08a1d7284bb150403e22492741862ff781249c712635ab04"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Encode and document the church-holiday catalogue in force through 30 June 2023 and verify continuity from 2007."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Church Act 1054/1993, final updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1993/1054"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "96f317a8f091340cee212f97491a42411ddbbc97441e510d3e58073d1e6af84e",
+        "source_artifact_sha256": "2a7bde550cac5847547c0d27d5614294984ecbe55cf4012b6462a1e5769a1c22"
+      },
+      "id": "fi-church-act-2023",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "2a7bde550cac5847547c0d27d5614294984ecbe55cf4012b6462a1e5769a1c22",
+            "7661c96cc0853dfb887169cdd905011876f6955b33754d593b92982c3cf9997d"
+          ],
+          "output_sha256": [
+            "02fefd6797920728e6d51e1d59551133fee924b460be843c2a4e2a60ac6fe8f9",
+            "a8fcdc3e2cad53ac9337b4aa04854ed49b3280fd9a5e23f55fbe8dae7f806fe9",
+            "bed19a0c73b54f9710cc5b2b5f410bc68e25c68133f158c1a62d9052a0589e75"
+          ],
+          "sequence": 1,
+          "summary": "Remove the trailing blank line from the Finland rule file after the substantive legal review, preserve the previously attested bytes in content-addressed derived provenance, and attest the whitespace-clean repository artifact without changing its rules or legal effect."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T18:06:19Z",
+      "title": "Church Act 652/2023, updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/2023/652"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "1b6e0df69c30f3f2288f10763c20d360f188e297d1154369a09721c7c22a5301",
+        "source_artifact_sha256": "82a567c26aabf6c7b245c40f7f08c3eeba008cf38f56e7ec504ba29452779a4a"
+      },
+      "id": "fi-church-order-2023",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "82a567c26aabf6c7b245c40f7f08c3eeba008cf38f56e7ec504ba29452779a4a"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Encode the current determination of church-holiday dates, including Midsummer Day and All Saints' Day, from 1 July 2023."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Church Order 657/2023, updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/2023/657"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "41de99821814e47d382c608654c69aabdd4187349442a21c0a73b3d05e39be74",
+        "private_manifest_sha256": "ec9149b75146389f6fa87e8f1dfa400a5078249f99ce494bcacf8119729dc421",
+        "source_artifact_sha256": "f47fde215663d2d155675e5db03d357ba4da9e42c6fb42a078d85ffe52ebc09a"
+      },
+      "id": "fi-eastern-uusimaa-merge-2011",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Source: Statistics Finland; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "f47fde215663d2d155675e5db03d357ba4da9e42c6fb42a078d85ffe52ebc09a"
+          ],
+          "output_sha256": [
+            "46f05bdc63ff0b0f08897381e0b7544b9387f5cc5f6fdc88eabd76a8b649321b",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Encode the 1 January 2011 merger of Eastern Uusimaa into Uusimaa and its successor relationship."
+        }
+      ],
+      "publisher": "Statistics Finland",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Sub-regional units 2011 classification change note",
+      "url": "https://stat.fi/en/luokitukset/seutukunta/seutukunta_1_20110101"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "e4389681875ab9191f404134b9f13089db78fca35573b4ac2ced6f243a30477b",
+        "source_artifact_sha256": "cd713e9f69d82cdba5830c9a20d42f75853138e1343887ab20e41b8433aff2cf"
+      },
+      "id": "fi-independence-day-act",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "cd713e9f69d82cdba5830c9a20d42f75853138e1343887ab20e41b8433aff2cf"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Encode 6 December as the separately legislated nationwide Independence Day and preserve its no-substitution effect."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Act on celebrating Independence Day as a general celebration and day off 388/1937",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1937/388"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "680e9f9ca658e3f378617e0b8360589da940cf74e23bb91c518aeab35c7d8ed2",
+        "source_artifact_sha256": "c9492ba6d6e11ad1d349410b33b5d3a1e3fd3be47d83edb9c848fae345d553f5"
+      },
+      "id": "fi-may-day-act",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "c9492ba6d6e11ad1d349410b33b5d3a1e3fd3be47d83edb9c848fae345d553f5"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Encode May Day with the Act's employee-specific day-off condition instead of flattening it into an unconditional entitlement."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Act on arranging May Day as a day off for employees in certain cases 272/1944",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1944/272"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "41de99821814e47d382c608654c69aabdd4187349442a21c0a73b3d05e39be74",
+        "private_manifest_sha256": "5eb226c68da3a2a9ace1271d172c3d2997c577d61ed2def8422529f04a64f76c",
+        "source_artifact_sha256": "ec7bfa91ef0169a643449380a6be0c220c3af4b14b85bf026494f8668e409705"
+      },
+      "id": "fi-regions-2007",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Source: Statistics Finland; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "ec7bfa91ef0169a643449380a6be0c220c3af4b14b85bf026494f8668e409705"
+          ],
+          "output_sha256": [
+            "46f05bdc63ff0b0f08897381e0b7544b9387f5cc5f6fdc88eabd76a8b649321b",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Preserve the first-order region set at the 2007 baseline, including Eastern Uusimaa and Åland."
+        }
+      ],
+      "publisher": "Statistics Finland",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Regions 2007 classification correspondence table",
+      "url": "https://stat.fi/en/luokitukset/corrmaps/maakunta_1_20070101%23suuralue_1_20030711"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "41de99821814e47d382c608654c69aabdd4187349442a21c0a73b3d05e39be74",
+        "private_manifest_sha256": "8e90408c3a4d8cf67202129920bf71c1bd6a8ea92b774e47ea7c177313970927",
+        "source_artifact_sha256": "a80722b2b3f825afdbbc6923524b331686c9fd342cf50a4a0aa37ed06ac3a4c5"
+      },
+      "id": "fi-regions-2026",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Source: Statistics Finland; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "a80722b2b3f825afdbbc6923524b331686c9fd342cf50a4a0aa37ed06ac3a4c5"
+          ],
+          "output_sha256": [
+            "46f05bdc63ff0b0f08897381e0b7544b9387f5cc5f6fdc88eabd76a8b649321b",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Preserve the current first-order region set and its published change history."
+        }
+      ],
+      "publisher": "Statistics Finland",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Regions 2026 classification",
+      "url": "https://stat.fi/en/luokitukset/maakunta/maakunta_1_20260101"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "52baaed102b6580a6d745b9b549197c533ed8a02bbe928173cfeb0006b70c6ed",
+        "source_artifact_sha256": "1c5712ab2eb71c27ec17f87650bd33fb248f9023821700ca70bbe02dc4329204"
+      },
+      "id": "fi-working-hours-act-1996",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "1c5712ab2eb71c27ec17f87650bd33fb248f9023821700ca70bbe02dc4329204"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Classify the employment-law effect of Sunday and church-holiday work through 31 December 2019."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Working Hours Act 605/1996, final updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/1996/605"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "1696d9fe62b24f9d41c520cf09957be96ec4a9e31f2014043b7df532c6c1b201",
+        "private_manifest_sha256": "175b62a95e935cc2597ac2746694c8fcfa3cc7e151a5c273c3e479177998a54f",
+        "source_artifact_sha256": "679e72fe691f5c397ce24f5e7458e1f7a4f3c4535d07a325381501806e1b2aca"
+      },
+      "id": "fi-working-hours-act-2019",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Finlex, Ministry of Justice of Finland and Legal Register Centre; source title and URL; CC BY 4.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.finlex.fi/en/data-protection",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "679e72fe691f5c397ce24f5e7458e1f7a4f3c4535d07a325381501806e1b2aca"
+          ],
+          "output_sha256": [
+            "6b5aab94f4e306b7ddcc5fb7cc1341320ffcc846f6b2d1794c2bc814f0160774",
+            "a6b8f11e92e1b0075b326bbe5706a4c7887b7d4a1dfc0926110bfc51b7098424",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Classify the employment-law effect of Sunday and church-holiday work from 1 January 2020."
+        }
+      ],
+      "publisher": "Ministry of Justice of Finland / Legal Register Centre",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "Working Hours Act 872/2019, updated text",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/2019/872"
+    },
+    {
+      "evidence": {
         "licence_evidence_sha256": "2ca11865de9902a03d38c771c8b25d544f54b0255dc2d97deb508f51ed5b8f4f",
         "private_manifest_sha256": "a3914627cc26f105a737be5bfd7776c253fb5d9397eb7bdd154038f591fb6026",
         "source_artifact_sha256": "2b9dd1c8a3f75a6ad40304b915405b0aa9949cc9c28e1d22dc47dfee1a423d08"
@@ -5281,6 +5891,288 @@
     },
     {
       "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "661d0ee8e4323d5ad850f81dcbee108ccc15e13c587e991a0691cffb5dac1af9",
+        "source_artifact_sha256": "1207c13f7c906756e2fdf946f2df7963c910a368c73a409e3f0daa63227ce39d"
+      },
+      "id": "it-constitution-regions",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Constitution Article 131, versions and retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "1207c13f7c906756e2fdf946f2df7963c910a368c73a409e3f0daa63227ce39d",
+            "ed63ad692d1957d4c66bd03090e332919129ad099836bf61307b34f8339c1cf6"
+          ],
+          "output_sha256": [
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400",
+            "ad99fa6250a5546283c9494d80176c33a89450c7c0ba87ef3f7e7520935ce503"
+          ],
+          "sequence": 1,
+          "summary": "Compare Article 131 at the baseline and review date, preserve the constitutional twenty-region set, and encode regional inheritance."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:05Z",
+      "title": "Constitution of the Italian Republic, Article 131, official 2007 and current versions",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;costituzione~art131!vig="
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "b526a0cc35e2ec7b947508b2a8777f41decacf4c4e98dffefa965d72af00a337",
+        "source_artifact_sha256": "47963cb9b0b90217b32299777c8b6aa406ae1ad66ae446117b07d171bf632fd3"
+      },
+      "id": "it-dpr-792-religious-holidays",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, DPR 28 December 1985 no. 792, retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "47963cb9b0b90217b32299777c8b6aa406ae1ad66ae446117b07d171bf632fd3"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400",
+            "ad99fa6250a5546283c9494d80176c33a89450c7c0ba87ef3f7e7520935ce503"
+          ],
+          "sequence": 1,
+          "summary": "Independently encode the recognised religious holidays and the express 29 June Rome-only rule."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:01Z",
+      "title": "Presidential Decree 28 December 1985 no. 792",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=085U0792&atto.dataPubblicazioneGazzetta=1985-12-31"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "01eed4ac92c740effa0a6a8e4c1d48252ed87270454d8dcf0ea7aa66f257b65d",
+        "private_manifest_sha256": "fc85a77cbee17a8a415d92e1603b525c63a72a53a77ff95e5631f3f7f93893ce",
+        "source_artifact_sha256": "83842076860450f7e482daecea6b7a769f5f93d0bf5b0d48802b44896d7a26d5"
+      },
+      "id": "it-istat-territorial-units-2026",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Istat, Elenco dei comuni italiani, retrieval date and independent transformation stated.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.istat.it/dati/open-data/",
+        "version": "Istat Open Data terms accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "83842076860450f7e482daecea6b7a769f5f93d0bf5b0d48802b44896d7a26d5"
+          ],
+          "output_sha256": [
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400",
+            "ad99fa6250a5546283c9494d80176c33a89450c7c0ba87ef3f7e7520935ce503"
+          ],
+          "sequence": 1,
+          "summary": "Read the official region code/name columns and Rome municipality code, then construct stable repository identifiers from those official numeric codes."
+        }
+      ],
+      "publisher": "Istituto nazionale di statistica (Istat)",
+      "retrieved_at": "2026-10-07T16:36:06Z",
+      "title": "Elenco dei comuni italiani and administrative-unit codes, current 2026 download",
+      "url": "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xlsx"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "8fbd8cc1c0f44b21cf79d5587243ba5f97ead2d3a71c5c9a2d6d82820475ae9a",
+        "source_artifact_sha256": "cab0ec7a6eac6070ccd5a87b2caa9b25a8485e42df20903f067e13510d4ea4f5"
+      },
+      "id": "it-law-260-historic-current",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Law 27 May 1949 no. 260, versions and retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "cab0ec7a6eac6070ccd5a87b2caa9b25a8485e42df20903f067e13510d4ea4f5",
+            "f6b0bf9e4ed76b70321053b6f994a6cb58b48b857062d3c530934d9881967c53"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400"
+          ],
+          "sequence": 1,
+          "summary": "Compare the official Article 2 text at the 2007 baseline with the current consolidated text, apply separately evidenced changes, and independently encode the nationwide rules and boundary vectors."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:00Z",
+      "title": "Law 27 May 1949 no. 260, Article 2, official versions at 1 January 2007 and 7 October 2026",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260~art2!vig="
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "fddd802b4f0acc7082d57b306665e4eb6fcf624eb79d623db03f825b8a2c6818",
+        "source_artifact_sha256": "582913115ab3358e4932ff98d3030d693c3cc65b916e29749eece723685ac74c"
+      },
+      "id": "it-law-336-republic-day",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Law 20 November 2000 no. 336, retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "582913115ab3358e4932ff98d3030d693c3cc65b916e29749eece723685ac74c"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400"
+          ],
+          "sequence": 1,
+          "summary": "Verify the restoration of 2 June from 2001 and encode its continuity across 2007--2035."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:02Z",
+      "title": "Law 20 November 2000 no. 336 restoring Republic Day",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=000G0390&atto.dataPubblicazioneGazzetta=2000-11-22&tipoDettaglio=vigente"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "103c27295c5087cc29a913a7e57ec269fc674b35e9151fa01923b69c82c5fce5",
+        "source_artifact_sha256": "c5db6ffe0366aa78b1325b9af4c84364874240542b01b8fd87ddf7ed40d2a774"
+      },
+      "id": "it-law-54-suppressed-holidays",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Law 5 March 1977 no. 54, retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "c5db6ffe0366aa78b1325b9af4c84364874240542b01b8fd87ddf7ed40d2a774"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400"
+          ],
+          "sequence": 1,
+          "summary": "Apply the exhaustive suppression and Sunday-movement provisions before reading later restoration acts; prevent omitted holidays from being revived by the still-visible base-law wording."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:41:00Z",
+      "title": "Law 5 March 1977 no. 54 on suppressed and moved public holidays",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=077U0054&atto.dataPubblicazioneGazzetta=1977-03-07&tipoDettaglio=vigente"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "45c9edd3b1ceb45573055621b6f002de302d4033a2cd1d1dac326de93d76fbdc",
+        "source_artifact_sha256": "6836a73d64fb04ea7100d8ca929b338c0de57910e6559b2db34c64b9fb818494"
+      },
+      "id": "it-san-francesco-2025",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Law 8 October 2025 no. 151, retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "6836a73d64fb04ea7100d8ca929b338c0de57910e6559b2db34c64b9fb818494"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400"
+          ],
+          "sequence": 1,
+          "summary": "Apply the 1 January 2026 commencement boundary and encode 4 October without back-projecting it into earlier years."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:04Z",
+      "title": "Law 8 October 2025 no. 151 establishing the national Feast of Saint Francis of Assisi",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=1&atto.codiceRedazionale=25G00153&atto.dataPubblicazioneGazzetta=2025-10-10"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "ea404f20b15c0bf16d1dd9c7e265963dde24314a71659a27dbfe22df1dc7c365",
+        "private_manifest_sha256": "20ab2d4a44745d8f7004783f31fdca9f76ed3fda3c46b45c2b8e3f3ef76ed39f",
+        "source_artifact_sha256": "0c5fd9ebbc9e1a4fb456167c04cd066f8a551e70e4d21dd923cff44c369b09d0"
+      },
+      "id": "it-unity-holiday-2011",
+      "jurisdiction": "IT",
+      "licence": {
+        "attribution": "Source: Normattiva, Decree-Law 22 February 2011 no. 5, retrieval date stated; independently encoded by schukai.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Italian official-act copyright exclusion under Law 633/1941 Article 5",
+        "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=5&atto.codiceRedazionale=041U0633&atto.dataPubblicazioneGazzetta=1941-07-16",
+        "version": "official consolidated Article 5 accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0c5fd9ebbc9e1a4fb456167c04cd066f8a551e70e4d21dd923cff44c369b09d0"
+          ],
+          "output_sha256": [
+            "117e53860288819bafba5baa5810bdc7a909fb53929cec47ba1cf9d25b0250df",
+            "4de02ffd1d7181510cdac225b12b2ea435fe2afa162f0ba800a6f205e505a25e",
+            "8f9b97b2b09a08aad80609f67088505f4d7ace8addd1f58fccd9abd03ea39a0b",
+            "98d92485eb6b8959193a57e3ebc2542a9fd0a44e0575f9a3692b3fac7895c400"
+          ],
+          "sequence": 1,
+          "summary": "Encode the expressly one-year 17 March 2011 civil holiday and lock both adjacent years."
+        }
+      ],
+      "publisher": "Presidenza del Consiglio dei ministri / Normattiva",
+      "retrieved_at": "2026-10-07T16:36:03Z",
+      "title": "Decree-Law 22 February 2011 no. 5, 17 March 2011 holiday",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=1&atto.codiceRedazionale=011G0045&atto.dataPubblicazioneGazzetta=2011-02-23"
+    },
+    {
+      "evidence": {
         "licence_evidence_sha256": "8eca98cbdf39851c6af2da23644c36130ea7d8214e6800cc10e92b958b15ca1b",
         "private_manifest_sha256": "3fe216cc57000bf917a65e7d3c071137bed719905c051810365a7f599b83d628",
         "source_artifact_sha256": "f739b20cd663844ba90efa04a2025410c2053330ae6b9d8af76f2e001451c29c"
@@ -5731,6 +6623,275 @@
     },
     {
       "evidence": {
+        "licence_evidence_sha256": "8a91310d15b04eaacba578cd9fe534f8f11c3289537f1e0f75cbfc8dd6953791",
+        "private_manifest_sha256": "11b2ba4c7657cb68cd74bbd6b7b8bba1fb7169d308f1f7c96e1547563bbdc952",
+        "source_artifact_sha256": "3beafa7bcc4d76358231667297ffcc0bb99c05ddfb30e5ff52f81167521fd6f6"
+      },
+      "id": "no-county-classification-2007-2035",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Statistics Norway, Standard for county classification, classification 104; transformed by adding NO- prefixes and converting API end boundaries to inclusive catalogue dates.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.ssb.no/en/diverse/lisens",
+        "version": "CC BY 4.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "3beafa7bcc4d76358231667297ffcc0bb99c05ddfb30e5ff52f81167521fd6f6"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5",
+            "cccb9f859887478ad47f5db40390f3b67a8632139d9157f30c4c4f23fb4734fc"
+          ],
+          "sequence": 1,
+          "summary": "Create temporal county jurisdictions, omit unknown-code 99, prefix county codes with NO-, convert the API's exclusive valid-to boundaries to inclusive dates, and preserve mergers, splits and official multilingual names."
+        }
+      ],
+      "publisher": "Statistics Norway (Statistisk sentralbyrå)",
+      "retrieved_at": "2026-10-07T16:40:04Z",
+      "title": "Standard for county classification, codes valid in requested range 2007-01-01 through 2035-12-31",
+      "url": "https://data.ssb.no/api/klass/v1/classifications/104/codes?from=2007-01-01&to=2035-12-31"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "7f2e9ddf50f6b66965d08fbf1d83ab849976283c5c75734e6710877cc0c592bd",
+        "private_manifest_sha256": "0ee7ac2862fe03b9a28ec463708776bfdc6370a2276ebbd9c5c31cc2c42d7347",
+        "source_artifact_sha256": "11697594c12ef2d94666bc099710fbe1e60a5ae2db408fa69ae3d9035e7bd8a4"
+      },
+      "id": "no-holidays-act-1995",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Lovdata, Lov om helligdager og helligdagsfred (LOV-1995-02-24-12), source URL; reused under NLOD 2.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Lovdata open-service reuse exception under NLOD 2.0",
+        "url": "https://lovdata.no/info/vilkar",
+        "version": "Lovdata terms dated 2025-10-31; NLOD 2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "11697594c12ef2d94666bc099710fbe1e60a5ae2db408fa69ae3d9035e7bd8a4"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5",
+            "c78cb41a1cc074d2187f6ec5f380beba5fa76127b85b5dcf631949415b1c9ffb"
+          ],
+          "sequence": 1,
+          "summary": "Independently encode only the named full-day holidays in section 2 for 2007-2035; omit ordinary Sundays and clock-time eve effects, and verify the 2012 wording amendment did not change Easter dates."
+        }
+      ],
+      "publisher": "Lovdata on behalf of the Norwegian Ministry of Justice and Public Security",
+      "retrieved_at": "2026-10-07T16:40:00Z",
+      "title": "Lov om helligdager og helligdagsfred (LOV-1995-02-24-12), consolidated text and amendment annotations",
+      "url": "https://lovdata.no/dokument/NL/lov/1995-02-24-12"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "7f2e9ddf50f6b66965d08fbf1d83ab849976283c5c75734e6710877cc0c592bd",
+        "private_manifest_sha256": "d3b2904f6ab4f685eae2012bb9e0bf5f8cf8e110407dafccba8639dba682167f",
+        "source_artifact_sha256": "27dabc8a28ae0598ef027b8569b111e4ffc40d601418b3811ca5180ba7153bea"
+      },
+      "id": "no-holidays-act-amendment-2011",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Lovdata, LOV-1995-02-24-12 as promulgated, LOV-2011-08-26-40 and FOR-2011-08-26-866, official Norsk Lovtidend texts; reused under NLOD 2.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Lovdata open-service reuse exception under NLOD 2.0",
+        "url": "https://lovdata.no/info/vilkar",
+        "version": "Lovdata terms dated 2025-10-31; NLOD 2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "27dabc8a28ae0598ef027b8569b111e4ffc40d601418b3811ca5180ba7153bea",
+            "55ee0e97658651e19bb01f6ee634f147d076ea37b95f35f9bd1a4228b0fa2d11",
+            "f77c7f6fe20433f2ad2ae6954618ca571d0914a7f70e3b3ec2a62235e684cba0"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5",
+            "c78cb41a1cc074d2187f6ec5f380beba5fa76127b85b5dcf631949415b1c9ffb"
+          ],
+          "sequence": 1,
+          "summary": "Compare the preserved promulgated 1995 section 2(e) wording with the preserved 2011 replacement text, and use the preserved commencement order to establish the 1 January 2012 boundary. The old text contains the leap-year 20 March parenthesis and the replacement deletes it. Within the supported pre-amendment years, 2008 is the only leap year and both the preserved wording and Gregorian computus result in Easter Sunday on 23 March, so one date rule is retained and locked by a 2008 vector."
+        }
+      ],
+      "publisher": "Lovdata on behalf of the Norwegian Ministry of Justice and Public Security",
+      "retrieved_at": "2026-10-07T16:58:59Z",
+      "title": "Promulgated 1995 Helligdagsfredloven section 2 wording compared with LOV-2011-08-26-40 part VI and commencement order FOR-2011-08-26-866",
+      "url": "https://lovdata.no/xml/LTI/nl-19950224-012.xml"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "7f2e9ddf50f6b66965d08fbf1d83ab849976283c5c75734e6710877cc0c592bd",
+        "private_manifest_sha256": "d19b8ceb3f365df1901276f410fc3573b7b521b73fa3b644c81b31653a13c948",
+        "source_artifact_sha256": "0611af7c835375a82b7e3796bea07caba417ce9d9db09ee51fc68573234e7963"
+      },
+      "id": "no-jan-mayen-act-1930",
+      "jurisdiction": "NO-22",
+      "licence": {
+        "attribution": "Lovdata, Lov om Jan Mayen (LOV-1930-02-27-2), source URL; reused under NLOD 2.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Lovdata open-service reuse exception under NLOD 2.0",
+        "url": "https://lovdata.no/info/vilkar",
+        "version": "Lovdata terms dated 2025-10-31; NLOD 2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0611af7c835375a82b7e3796bea07caba417ce9d9db09ee51fc68573234e7963"
+          ],
+          "output_sha256": [
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5"
+          ],
+          "sequence": 1,
+          "summary": "Assess section 2's territorial application rule and document why mainland holiday rules are not projected to Jan Mayen without a specific royal extension chain."
+        }
+      ],
+      "publisher": "Lovdata on behalf of the Norwegian Ministry of Justice and Public Security",
+      "retrieved_at": "2026-10-07T16:40:03Z",
+      "title": "Lov om Jan Mayen (LOV-1930-02-27-2), consolidated text",
+      "url": "https://lovdata.no/dokument/NL/lov/1930-02-27-2"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "7f2e9ddf50f6b66965d08fbf1d83ab849976283c5c75734e6710877cc0c592bd",
+        "private_manifest_sha256": "2712aaffdb26362a1a7e1d27807f217dab2ca039ef994bbb26b6f17a59b2dade",
+        "source_artifact_sha256": "90d4bd83887f03dea593d010efcce2e14178f7f531aa6f601539e0717cdff4fb"
+      },
+      "id": "no-may-days-act-1947",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Lovdata, Lov om 1 og 17 mai som høgtidsdager (LOV-1947-04-26-1), source URL; reused under NLOD 2.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Lovdata open-service reuse exception under NLOD 2.0",
+        "url": "https://lovdata.no/info/vilkar",
+        "version": "Lovdata terms dated 2025-10-31; NLOD 2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "90d4bd83887f03dea593d010efcce2e14178f7f531aa6f601539e0717cdff4fb"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5",
+            "c78cb41a1cc074d2187f6ec5f380beba5fa76127b85b5dcf631949415b1c9ffb"
+          ],
+          "sequence": 1,
+          "summary": "Encode 1 and 17 May as nationwide Sunday-equivalent high days while documenting, but not flattening into date applicability, section 3's conditional wage protection."
+        }
+      ],
+      "publisher": "Lovdata on behalf of the Norwegian Ministry of Justice and Public Security",
+      "retrieved_at": "2026-10-07T16:40:01Z",
+      "title": "Lov om 1 og 17 mai som høgtidsdager (LOV-1947-04-26-1), consolidated text and amendment annotations",
+      "url": "https://lovdata.no/dokument/NL/lov/1947-04-26-1"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "15ec6e593601a9cca8316bd232d6a59e7c90ec9ebbc5cbe31c35aff967426171",
+        "private_manifest_sha256": "e2f0c905561a64205212584f1e3ad2f6bb7db471db33953acb3f782b10c7e43c",
+        "source_artifact_sha256": "55108565e8ea81bfe7244e1022695c85d6acfdf71ce9a3c81de471dcc6c397bc"
+      },
+      "id": "no-norges-bank-settlement-days-2023-2024",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Norges Bank, Settlement days, 2023 and 2024 annual sections; archived capture supplied by Arquivo.pt.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Norges Bank copyright and liability terms",
+        "url": "https://www.norges-bank.no/en/disclaimer/",
+        "version": "Page edited 2020-08-22; retrieved 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "55108565e8ea81bfe7244e1022695c85d6acfdf71ce9a3c81de471dcc6c397bc",
+            "685fd0fa27b4baa1363e120aa2851f44d14f24969ad9ea5ea5e7a3e51767f8f3"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5"
+          ],
+          "sequence": 1,
+          "summary": "Compare the independently encoded 2023 and 2024 vector dates with the two annual official settlement-day sections. Treat the page only as a date cross-check: protected wording is not transformed into the dataset, Sunday holiday identities remain controlled by the Act, and the settlement-only Christmas Eve closure is excluded."
+        }
+      ],
+      "publisher": "Norges Bank",
+      "retrieved_at": "2026-10-07T16:49:22Z",
+      "title": "Settlement days: official annual public-holiday date lists for 2023 and 2024, captured 2023-03-21 by Arquivo.pt",
+      "url": "https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/Settlement-days/"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "15ec6e593601a9cca8316bd232d6a59e7c90ec9ebbc5cbe31c35aff967426171",
+        "private_manifest_sha256": "b9b32b9675b0401c8036bdc31115d5252711a86afe2729ec5647249ad0d7dbdd",
+        "source_artifact_sha256": "46566126b9e38471b21d7c1fa5992f229483284d33f253d92626408f2faf1452"
+      },
+      "id": "no-norges-bank-settlement-days-2026",
+      "jurisdiction": "NO",
+      "licence": {
+        "attribution": "Norges Bank, Settlement days, 2026 annual section.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Norges Bank copyright and liability terms",
+        "url": "https://www.norges-bank.no/en/disclaimer/",
+        "version": "Page edited 2020-08-22; retrieved 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "46566126b9e38471b21d7c1fa5992f229483284d33f253d92626408f2faf1452"
+          ],
+          "output_sha256": [
+            "2949e9eb97f041f75084b73682d3ad4634e9b8c4f83d8c643293029ca996dc9a",
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5"
+          ],
+          "sequence": 1,
+          "summary": "Compare the independently encoded 2026 vector dates with Norges Bank's current annual settlement-day list. Treat the page only as a date cross-check: protected wording is not transformed into the dataset, Sunday holiday identities remain controlled by the Act, and the settlement-only Christmas Eve closure is excluded."
+        }
+      ],
+      "publisher": "Norges Bank",
+      "retrieved_at": "2026-10-07T16:49:23Z",
+      "title": "Settlement days: official annual public-holiday date list for 2026",
+      "url": "https://www.norges-bank.no/en/topics/Norges-Banks-settlement-system/Settlement-days/"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "7f2e9ddf50f6b66965d08fbf1d83ab849976283c5c75734e6710877cc0c592bd",
+        "private_manifest_sha256": "d18fa16c9f7e70481c9adfcaf4cde60bdb30b31034ab0365564afd1e24bce3ca",
+        "source_artifact_sha256": "6867ebf41e9b333115afeead96c6e0e548208b76c8530ef3cd69927c1fa9e6f6"
+      },
+      "id": "no-svalbard-act-1925",
+      "jurisdiction": "NO-21",
+      "licence": {
+        "attribution": "Lovdata, Lov om Svalbard (LOV-1925-07-17-11), source URL; reused under NLOD 2.0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Lovdata open-service reuse exception under NLOD 2.0",
+        "url": "https://lovdata.no/info/vilkar",
+        "version": "Lovdata terms dated 2025-10-31; NLOD 2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "6867ebf41e9b333115afeead96c6e0e548208b76c8530ef3cd69927c1fa9e6f6"
+          ],
+          "output_sha256": [
+            "7b678ba03b61bda59063d3fe519355ca1a8bdb26bbe1c25977d15d390f05b1b5"
+          ],
+          "sequence": 1,
+          "summary": "Assess the territorial application rule in sections 2-4 and document why mainland holiday rules are not projected to Svalbard without a specific extension chain."
+        }
+      ],
+      "publisher": "Lovdata on behalf of the Norwegian Ministry of Justice and Public Security",
+      "retrieved_at": "2026-10-07T16:40:02Z",
+      "title": "Lov om Svalbard (LOV-1925-07-17-11), sections 1-4 and consolidated annotations",
+      "url": "https://lovdata.no/dokument/NL/lov/1925-07-17-11"
+    },
+    {
+      "evidence": {
         "licence_evidence_sha256": "1c2e9a082a66fad6e26bba1d4d01a22bd67871657416729cea62b4b9f71cff86",
         "private_manifest_sha256": "c79d79878bb1e801415a4341dec957b5fd66771f4d57b0caa0677bbb39edd1e1",
         "source_artifact_sha256": "ec3dd920be7342004902901101079ffba6ef26c6f623572406d24a32944af539"
@@ -6127,6 +7288,634 @@
       "retrieved_at": "2026-10-07T02:15:01Z",
       "title": "Act of 24 July 1998 introducing the basic three-level territorial division of the state (Dz.U. 1998 nr 96 poz. 603)",
       "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/603/text.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "630713eb82ce975942a115ad0b0ab0f966bceb5f4f5e8564e7f931cabb9f28e2",
+        "source_artifact_sha256": "16bdaf116f29ea14ca4cd59c9d5d9f812f6173dddcc540759f943ed839400278"
+      },
+      "id": "pt-azores-regional-day-1980",
+      "jurisdiction": "PT-20",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "16bdaf116f29ea14ca4cd59c9d5d9f812f6173dddcc540759f943ed839400278"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "8f5529da03b6f6f1cb3b127fafdde14c7dabe2417dcc73eb9537a36d72f3a7ed",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Encode the Monday of the Holy Spirit as the statutory regional holiday of the Azores and establish the regional jurisdiction."
+        }
+      ],
+      "publisher": "Assembleia Regional dos Açores / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Decreto Regional n.º 13/80/A, de 21 de agosto",
+      "url": "https://files.diariodarepublica.pt/1s/1980/08/19200/23042305.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "c3edb9ade296c1ce394fd648fdff78cb0e1ec03d0c5b4e634a6c9b9c3d931e0d",
+        "source_artifact_sha256": "1d52bce70e8c4ff1aaf953155efaf075f447592cf599e28f31127c42cf587114"
+      },
+      "id": "pt-constitution-district-continuity-2005",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "1d52bce70e8c4ff1aaf953155efaf075f447592cf599e28f31127c42cf587114"
+          ],
+          "output_sha256": [
+            "045dec95ccadbc6e23735adc7551ca81448cfd460cc026096ff4c74cad07ab93",
+            "7d37f268f78f0005f1fd77a20263ede9d16a7f8bc88fb3ece8a88d77cc36ddcb"
+          ],
+          "sequence": 1,
+          "summary": "Apply Constitution Article 291 as the legal continuity basis for the mainland district division."
+        }
+      ],
+      "publisher": "Assembleia da República / Diário da República",
+      "retrieved_at": "2026-10-07T16:55:10Z",
+      "title": "Lei Constitucional n.º 1/2005, official republication of the Constitution",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/2005/08/155a00.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "331760a7777c5619fcba90c40cfb59cf3470f01214c720fd5a6133010eb1ea01",
+        "source_artifact_sha256": "4350a937e47fc6d010ee90a887431d10c28b586fd8c23664361077bd27672296"
+      },
+      "id": "pt-holiday-restoration-2016",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "4350a937e47fc6d010ee90a887431d10c28b586fd8c23664361077bd27672296"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Establish restoration of the four national holidays from 2 April 2016."
+        }
+      ],
+      "publisher": "Assembleia da República / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Lei n.º 8/2016, de 1 de abril",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/2016/04/06400.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "e1d88d7afb1d14e8415986279107b351d2ef32216ecf9dd95e56789ec035a2c6",
+        "source_artifact_sha256": "a611465aabfb5e58921a4d5e4c806cc30f974ef659ea57fae3d63fcb52037e19"
+      },
+      "id": "pt-holiday-suspension-2012",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "a611465aabfb5e58921a4d5e4c806cc30f974ef659ea57fae3d63fcb52037e19"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Establish that four mandatory holidays were removed with effect from 1 January 2013."
+        }
+      ],
+      "publisher": "Assembleia da República / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Lei n.º 23/2012, de 25 de junho",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/2012/06/12100.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "5009abf5b8678c86732975a461b7395f5b65eb03d110fbfc2388e27c4655f4af",
+        "source_artifact_sha256": "10bb7151a059e1eb8edaf66ff9eb627d3a09b87d551c317d2f003861e9c6e54e"
+      },
+      "id": "pt-labour-code-2003",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "10bb7151a059e1eb8edaf66ff9eb627d3a09b87d551c317d2f003861e9c6e54e"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "8f5529da03b6f6f1cb3b127fafdde14c7dabe2417dcc73eb9537a36d72f3a7ed",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Establish the nationwide mandatory and optional holiday baseline applicable in 2007–2008 and continuity into the successor code."
+        }
+      ],
+      "publisher": "Assembleia da República / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Lei n.º 99/2003, de 27 de agosto — Código do Trabalho, Articles 208–210",
+      "url": "https://files.diariodarepublica.pt/1s/2003/08/197a00/55585656.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "335ad74d9a936c0b8e7f8d0507f5d7b0cdf5a586291ed246d5ecf2e584538bad",
+        "source_artifact_sha256": "3101272ae4b54bff247f7fc5854fe5a48f4732e5434e8fd9b6e6caa4c06cd859"
+      },
+      "id": "pt-labour-code-2009",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "3101272ae4b54bff247f7fc5854fe5a48f4732e5434e8fd9b6e6caa4c06cd859"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "8f5529da03b6f6f1cb3b127fafdde14c7dabe2417dcc73eb9537a36d72f3a7ed",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Encode the successor nationwide mandatory holidays, Good Friday substitution, and contract-dependent Carnival and municipal holidays."
+        }
+      ],
+      "publisher": "Assembleia da República / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Lei n.º 7/2009, de 12 de fevereiro — Código do Trabalho, Articles 234–236",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/2009/02/03000.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "d8988802292fec8dd3ec0c814e6069cc00ef795fe41162ccccca633bc62c60e8",
+        "source_artifact_sha256": "6d05ee84b08a3235a74b83abfaacee75599280c2cfed67880153336a0b12cade"
+      },
+      "id": "pt-madeira-autonomy-day-2024",
+      "jurisdiction": "PT-30",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "6d05ee84b08a3235a74b83abfaacee75599280c2cfed67880153336a0b12cade"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "8f5529da03b6f6f1cb3b127fafdde14c7dabe2417dcc73eb9537a36d72f3a7ed",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Encode 2 April as Madeira Autonomy Day from the first occurrence after the act entered into force."
+        }
+      ],
+      "publisher": "Assembleia Legislativa da Região Autónoma da Madeira / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Decreto Legislativo Regional n.º 17/2024/M, de 16 de dezembro",
+      "url": "https://files.diariodarepublica.pt/1s/2024/12/24300/0000900010.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "a809cc337cc2fdb4b090dafc012f5f9a01645eae7823640b1c9cff956d06f849",
+        "source_artifact_sha256": "d80982ec9d6e7bd2913c2581fc2a38e2cfec045ae437c3e43ec4ff4d2c3da3ad"
+      },
+      "id": "pt-madeira-labour-adaptation-2004",
+      "jurisdiction": "PT-30",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "d80982ec9d6e7bd2913c2581fc2a38e2cfec045ae437c3e43ec4ff4d2c3da3ad"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "045dec95ccadbc6e23735adc7551ca81448cfd460cc026096ff4c74cad07ab93",
+            "7d37f268f78f0005f1fd77a20263ede9d16a7f8bc88fb3ece8a88d77cc36ddcb",
+            "95e535115c058835927ffcae3db67a6d66385284cbb564ed65fff2980a9efe0d"
+          ],
+          "sequence": 1,
+          "summary": "Verify Article 7 in the complete official issue: Madeira adds 1 July and 26 December to Labour Code holidays."
+        }
+      ],
+      "publisher": "Assembleia Legislativa Regional da Madeira / Diário da República",
+      "retrieved_at": "2026-10-07T16:55:11Z",
+      "title": "Decreto Legislativo Regional n.º 3/2004/M, complete Diário da República issue",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/2004/03/066a00.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "c89af584da441081a4f5489b8786da645c73024f79723508d7e31522ddb431a1",
+        "source_artifact_sha256": "eee103f1ea5bb0ecc55c7d3308ea2ea973cbb3927d6cbb3c5846e2421e5f9297"
+      },
+      "id": "pt-madeira-labour-adaptation-2009",
+      "jurisdiction": "PT-30",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository rules are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "eee103f1ea5bb0ecc55c7d3308ea2ea973cbb3927d6cbb3c5846e2421e5f9297"
+          ],
+          "output_sha256": [
+            "03f4907498610cad26e6637c56d8f07a1a173c1d4b8fb51ea71ae976ed9fba42",
+            "276ff8031fe2cb4b74df797a9369ade208aed7b16c168b8671515840424aef2a",
+            "8f5529da03b6f6f1cb3b127fafdde14c7dabe2417dcc73eb9537a36d72f3a7ed",
+            "a9b560f8b302cdd974e6cf157aa64ceaf7d5368aeef4934e99b5889e3057400c"
+          ],
+          "sequence": 1,
+          "summary": "Prove successor-law continuity of Madeira's 1 July and 26 December regional holidays."
+        }
+      ],
+      "publisher": "Assembleia Legislativa da Região Autónoma da Madeira / Diário da República",
+      "retrieved_at": "2026-10-07T16:38:32Z",
+      "title": "Decreto Legislativo Regional n.º 21/2009/M, de 4 de agosto",
+      "url": "https://files.diariodarepublica.pt/1s/2009/08/14900/0506005061.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "3daf294fb59645fbc14dd0cdb24f3c58fe71a43b20f9ff5827ce7496ec169c94",
+        "source_artifact_sha256": "caee6a7c3f5f7e78031007f593d01604dc807951eda97d66bce2de33bf535c60"
+      },
+      "id": "pt-mainland-districts-1995",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository identifiers and aliases are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "caee6a7c3f5f7e78031007f593d01604dc807951eda97d66bce2de33bf535c60"
+          ],
+          "output_sha256": [
+            "276fa2c33023f78d71325437a59841d7479d2521612d14136e929f8bed9b059f",
+            "f89d81b9763acd18daff31304e45fd667cc3c18d839f535046a6f9eccb59410b"
+          ],
+          "sequence": 1,
+          "summary": "Correct the earlier scope claim: transcribe the 17 district names that actually appear in the annex's list of municipalities above the population threshold; do not use this source for Portalegre."
+        }
+      ],
+      "publisher": "Governo de Portugal / Diário da República",
+      "retrieved_at": "2026-10-07T17:20:01Z",
+      "title": "Decreto-Lei n.º 83/95, population-threshold annex naming 17 mainland districts",
+      "url": "https://files.diariodarepublica.pt/gratuitos/1s/1995/04/097a00.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+        "private_manifest_sha256": "d1e65444da5d5a602b219e5f0026935adfddad684d88fad5e9357d41af0638dc",
+        "source_artifact_sha256": "a6ee13f80ff1989c842aaba95f22df7572a5d8388ff7bde41e4c5dc1858830a3"
+      },
+      "id": "pt-mainland-districts-2024",
+      "jurisdiction": "PT",
+      "licence": {
+        "attribution": "Portuguese official source; publisher, instrument title, source URL and retrieval date. Repository identifiers and aliases are independently encoded.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Portuguese official-text copyright exclusion",
+        "url": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/06400.pdf",
+        "version": "Código do Direito de Autor e dos Direitos Conexos, Article 8, republication by Law 16/2008"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0d17d69f7bd3d5fa063bfd1a8de761c36d414f7419b0c64b9b5c5a7b3f3d2eac",
+            "a6ee13f80ff1989c842aaba95f22df7572a5d8388ff7bde41e4c5dc1858830a3"
+          ],
+          "output_sha256": [
+            "7522d979e402462f3b97bcb1d19e81b60aa0ad9e3b6e857b0635b9d5de33d549",
+            "f89d81b9763acd18daff31304e45fd667cc3c18d839f535046a6f9eccb59410b"
+          ],
+          "sequence": 1,
+          "summary": "Verify the complete current 18-district set, including Portalegre, and combine it with the constitutional continuity rule."
+        }
+      ],
+      "publisher": "Diário da República",
+      "retrieved_at": "2026-10-07T17:15:01Z",
+      "title": "Regulamento n.º 818/2024, Annex III complete mainland district list",
+      "url": "https://files.diariodarepublica.pt/2s/2024/08/148000000/0029000328.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d2489db1b4bbba3c9be503947e11e764c583439a15c47cddea2a5f7dc2892fe",
+        "private_manifest_sha256": "470affbef4cc703597e0ed00870e2ee50c952717b3c580a06098a86ef3dd6b64",
+        "source_artifact_sha256": "f82658c801563dc912180ec1f1ff167475f2bf3a47fa73c9df6669e75104b4c0"
+      },
+      "id": "se-counties-2007",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Källa: Statistiska centralbyrån (SCB), MIS 2007:1, official URL, retrieval date; independently transformed.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor",
+        "version": "SCB terms as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "f82658c801563dc912180ec1f1ff167475f2bf3a47fa73c9df6669e75104b4c0"
+          ],
+          "output_sha256": [
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba",
+            "d98262bdeae70c4072165a434c903f353cb4b68aa506ccc086736d732472cbee"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the official two-digit county codes and Swedish names to the first-order jurisdiction catalogue and compare them with the 2026 list."
+        }
+      ],
+      "publisher": "Statistiska centralbyrån (SCB)",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "MIS 2007:1 Regionala indelningar i Sverige den 1 januari 2007",
+      "url": "https://www.scb.se/contentassets/5f7f821206e24fc88501f4b6f5d1c559/mis-2007.1.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "0d2489db1b4bbba3c9be503947e11e764c583439a15c47cddea2a5f7dc2892fe",
+        "private_manifest_sha256": "5de676dcb0b24d3f089abcaf28d5b64820d796cfad7ea8b6f6966d7c921399ec",
+        "source_artifact_sha256": "5f8781357bcf88ddd2c7a03203ea9c1ed385dfe8a692be3e4bdb8138ceddc637"
+      },
+      "id": "se-counties-2026",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Källa: Statistiska centralbyrån (SCB), Län och kommuner i kodnummerordning 2026, official URL, retrieval date; independently transformed.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Creative Commons Attribution 4.0 International",
+        "url": "https://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor",
+        "version": "SCB terms as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "5f8781357bcf88ddd2c7a03203ea9c1ed385dfe8a692be3e4bdb8138ceddc637"
+          ],
+          "output_sha256": [
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba",
+            "d98262bdeae70c4072165a434c903f353cb4b68aa506ccc086736d732472cbee"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe and compare the official 2026 two-digit county codes and Swedish names against the 2007 baseline for the first-order jurisdiction catalogue."
+        }
+      ],
+      "publisher": "Statistiska centralbyrån (SCB)",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "Län och kommuner i kodnummerordning 2026",
+      "url": "https://www.scb.se/contentassets/7a89e48960f741e08918e489ea36354a/kommunlankod-2026.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "76cc3c02185b0ccf9ca6dcaeeb914249ecb5d3c366f1503787dc2b60b66c930a",
+        "private_manifest_sha256": "d8c25c77dd051708af68e16ad978340b26152107a448ccbed2c93fea7956196a",
+        "source_artifact_sha256": "2b1d654fbf9a14de24c824eebe0db3b6b4a4a29b4a693221ea0050d45cd46769"
+      },
+      "id": "se-public-holidays-act",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Källa: Sveriges riksdag. Identify SFS 1989:253, the official URL, retrieval date and independent encoding; do not imply Riksdag endorsement.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Riksdag open-data terms and Swedish Copyright Act section 9",
+        "url": "https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/anvandarstod/anvandningsvillkor/",
+        "version": "terms and law as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "2b1d654fbf9a14de24c824eebe0db3b6b4a4a29b4a693221ea0050d45cd46769",
+            "97fe42c7088a5095fb39c2547509563af4a608b8f0e9f0a6dd94b90668935cc2"
+          ],
+          "output_sha256": [
+            "13b073bb88bf363056513880f24ba06aa7d7f2dc751718360b58eb74f61b4e37",
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba",
+            "d98262bdeae70c4072165a434c903f353cb4b68aa506ccc086736d732472cbee"
+          ],
+          "sequence": 1,
+          "summary": "Independently encode the thirteen named annual general public holidays, their recurrence and their statutory calendar classification; do not expand every ordinary Sunday or infer paid employee leave."
+        }
+      ],
+      "publisher": "Sveriges riksdag / Regeringskansliet",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "Lag (1989:253) om allmänna helgdagar, current consolidated text",
+      "url": "https://data.riksdagen.se/dokument/sfs-1989-253.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "97fe42c7088a5095fb39c2547509563af4a608b8f0e9f0a6dd94b90668935cc2",
+        "private_manifest_sha256": "833a5e3b5eb2c3168ed53e39a99ac8fd1c2377d638914af4aa5d42b376493679",
+        "source_artifact_sha256": "ce0c7cc858ff455c7784ebfce17831fad6374a538eb1d0e29678a48c7cd8dc05"
+      },
+      "id": "se-public-holidays-amendment-2004",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Regeringskansliet, SFS 2004:1320, official URL, retrieval date and independent encoding.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Copyright-free enactment under Lag (1960:729) 9 §",
+        "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+        "version": "law as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "ce0c7cc858ff455c7784ebfce17831fad6374a538eb1d0e29678a48c7cd8dc05",
+            "d412ba457937049d35af6601effd98b9d8488680aa012a98f5e539718294b041"
+          ],
+          "output_sha256": [
+            "13b073bb88bf363056513880f24ba06aa7d7f2dc751718360b58eb74f61b4e37",
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba"
+          ],
+          "sequence": 1,
+          "summary": "Verify that SFS 2004:1320 took effect on 1 April 2005, introduced National Day, removed Whit Monday and is the sole amendment recorded for the controlling act before the 2007 baseline."
+        }
+      ],
+      "publisher": "Regeringskansliet",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "SFS 2004:1320 and official amendment register for SFS 1989:253",
+      "url": "https://rkrattsdb.gov.se/SFSdoc/04/041320.PDF"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "97fe42c7088a5095fb39c2547509563af4a608b8f0e9f0a6dd94b90668935cc2",
+        "private_manifest_sha256": "c7afdb6d6a460454eee8aa9ed9548b548b5acebb756ef4404051c756c9971298",
+        "source_artifact_sha256": "182fbcee2952f2cfa803610513792f23764de69f132c87bbc6edaa94095db8ef"
+      },
+      "id": "se-public-holidays-calendar-2025",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Government Offices of Sweden, Ministry for Foreign Affairs, circular-note title, year, official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of official authority document under Lag (1960:729) 26 a §; statutory content additionally excluded under 9 §",
+        "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+        "version": "law as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "182fbcee2952f2cfa803610513792f23764de69f132c87bbc6edaa94095db8ef"
+          ],
+          "output_sha256": [
+            "13b073bb88bf363056513880f24ba06aa7d7f2dc751718360b58eb74f61b4e37",
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba"
+          ],
+          "sequence": 1,
+          "summary": "Check the independently calculated 2025 statutory subset against the official circular; exclude listed eves and equivalent ministry days that are absent from SFS 1989:253."
+        }
+      ],
+      "publisher": "Government Offices of Sweden, Ministry for Foreign Affairs",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "Circular note 2/2024: Public holidays and equivalent days in Sweden 2025",
+      "url": "https://www.government.se/contentassets/18369e60ed344a838307575caa49a3b5/circular-note-2---2024-public-holidays-in-2025.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "97fe42c7088a5095fb39c2547509563af4a608b8f0e9f0a6dd94b90668935cc2",
+        "private_manifest_sha256": "476dc660fdf28cff81264d28d4fa4a68448026de3a14b52be3363077ecbc913d",
+        "source_artifact_sha256": "b026d8561a310a87bcdcb06fd3c33e717b7a93665df3fa944d8493beb041ee69"
+      },
+      "id": "se-public-holidays-calendar-2026",
+      "jurisdiction": "SE",
+      "licence": {
+        "attribution": "Government Offices of Sweden, Ministry for Foreign Affairs, circular-note title, year, official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of official authority document under Lag (1960:729) 26 a §; statutory content additionally excluded under 9 §",
+        "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+        "version": "law as accessed 2026-10-07"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "b026d8561a310a87bcdcb06fd3c33e717b7a93665df3fa944d8493beb041ee69"
+          ],
+          "output_sha256": [
+            "13b073bb88bf363056513880f24ba06aa7d7f2dc751718360b58eb74f61b4e37",
+            "18707f6b47cf690b101010004fdb56f4ba9a815913fa1c366b53fe94fcdfe0d4",
+            "234a7cbdae84af75473869784b0ed85113f681a7ce00217b83cb2c8adc3fb3ba"
+          ],
+          "sequence": 1,
+          "summary": "Check the independently calculated 2026 statutory subset against the official circular; exclude listed eves and equivalent ministry days that are absent from SFS 1989:253."
+        }
+      ],
+      "publisher": "Government Offices of Sweden, Ministry for Foreign Affairs",
+      "retrieved_at": "2026-10-07T16:35:00Z",
+      "title": "Circular note 2/2025: Public holidays and equivalent days in Sweden 2026",
+      "url": "https://www.government.se/contentassets/71dfa63dd47749ea96e0cb7c3dedb18c/circular-note-2_2025---public-holidays-2026.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "b4c0ae8ef04f7059f96ce5bbe0467f9fe6f6d81bbe13517701dfeb961fb4d0b6",
+        "private_manifest_sha256": "4a7103b7c5e4d6816cc7bd328a913540ffb733f0e5c115a0ecd02dc4feae3b3a",
+        "source_artifact_sha256": "997a14da1144bb66f36a829db1783afe41f7529e33070afbe964bdd8e387b1d2"
+      },
+      "id": "unicode-cldr-48-fi-subdivisions",
+      "jurisdiction": "FI",
+      "licence": {
+        "attribution": "Copyright © 1991-2025 Unicode, Inc.; Unicode License v3; CLDR release 48 subdivision names.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Unicode License v3",
+        "url": "https://www.unicode.org/license.txt",
+        "version": "Unicode License V3"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "997a14da1144bb66f36a829db1783afe41f7529e33070afbe964bdd8e387b1d2"
+          ],
+          "output_sha256": [
+            "46f05bdc63ff0b0f08897381e0b7544b9387f5cc5f6fdc88eabd76a8b649321b",
+            "d5bcd11466e246115b9fcf8ceaa0c8c92a6687f5fa17db478ef1da6745dafe57"
+          ],
+          "sequence": 1,
+          "summary": "Mechanically map CLDR's lowercase Finnish subdivision identifiers to uppercase hyphenated ISO 3166-2 codes and join them by region name to Statistics Finland."
+        }
+      ],
+      "publisher": "Unicode Consortium",
+      "retrieved_at": "2026-10-07T16:35:36Z",
+      "title": "CLDR 48 English subdivision names for Finland",
+      "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-48/common/subdivisions/en.xml"
     },
     {
       "evidence": {

@@ -374138,6 +374138,526 @@
     },
     {
       "schema_version": 2,
+      "country": "FI",
+      "source_ids": [
+        "fi-autonomy-act",
+        "fi-regions-2007",
+        "fi-regions-2026",
+        "fi-eastern-uusimaa-merge-2011",
+        "unicode-cldr-48-fi-subdivisions"
+      ],
+      "jurisdictions": [
+        {
+          "code": "FI",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Finland",
+              "aliases": [
+                "fi",
+                "finland",
+                "suomi"
+              ],
+              "source_ids": [
+                "fi-autonomy-act",
+                "fi-regions-2007",
+                "fi-regions-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-02",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "South Karelia",
+              "aliases": [
+                "09",
+                "south karelia",
+                "etelä-karjala",
+                "södra karelen"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-03",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "South Ostrobothnia",
+              "aliases": [
+                "14",
+                "south ostrobothnia",
+                "etelä-pohjanmaa",
+                "södra österbotten"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-04",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "South Savo",
+              "aliases": [
+                "10",
+                "south savo",
+                "southern savonia",
+                "etelä-savo",
+                "södra savolax"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-05",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Kainuu",
+              "aliases": [
+                "18",
+                "kainuu",
+                "kajanaland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-06",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Kanta-Häme",
+              "aliases": [
+                "05",
+                "kanta-häme",
+                "tavastia proper",
+                "egentliga tavastland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-07",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Central Ostrobothnia",
+              "aliases": [
+                "16",
+                "central ostrobothnia",
+                "keski-pohjanmaa",
+                "mellersta österbotten"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-08",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Central Finland",
+              "aliases": [
+                "13",
+                "central finland",
+                "keski-suomi",
+                "mellersta finland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-09",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Kymenlaakso",
+              "aliases": [
+                "08",
+                "kymenlaakso",
+                "kymmenedalen"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-10",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Lapland",
+              "aliases": [
+                "19",
+                "lapland",
+                "lappi"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-11",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Pirkanmaa",
+              "aliases": [
+                "06",
+                "pirkanmaa",
+                "birkaland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-12",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Ostrobothnia",
+              "aliases": [
+                "15",
+                "ostrobothnia",
+                "pohjanmaa",
+                "österbotten"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-13",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "North Karelia",
+              "aliases": [
+                "12",
+                "north karelia",
+                "pohjois-karjala",
+                "norra karelen"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-14",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "North Ostrobothnia",
+              "aliases": [
+                "17",
+                "north ostrobothnia",
+                "pohjois-pohjanmaa",
+                "norra österbotten"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-15",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "North Savo",
+              "aliases": [
+                "11",
+                "north savo",
+                "northern savonia",
+                "pohjois-savo",
+                "norra savolax"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-16",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Päijät-Häme",
+              "aliases": [
+                "07",
+                "päijät-häme",
+                "päijänne tavastia",
+                "päijänne-tavastland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-17",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Satakunta",
+              "aliases": [
+                "04",
+                "satakunta",
+                "satakunda"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-18",
+          "type": "state",
+          "predecessors": [
+            "FI-REG-20"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Uusimaa",
+              "aliases": [
+                "01",
+                "uusimaa",
+                "nyland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "fi-eastern-uusimaa-merge-2011",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-19",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Southwest Finland",
+              "aliases": [
+                "02",
+                "southwest finland",
+                "varsinais-suomi",
+                "egentliga finland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-ALAND",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "FI",
+              "name": "Åland",
+              "aliases": [
+                "åland",
+                "aland",
+                "ahvenanmaa",
+                "ax",
+                "fi-01",
+                "21"
+              ],
+              "source_ids": [
+                "fi-autonomy-act",
+                "fi-regions-2007",
+                "fi-regions-2026",
+                "unicode-cldr-48-fi-subdivisions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "FI-REG-20",
+          "type": "state",
+          "predecessors": [],
+          "successors": [
+            "FI-18"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2010-12-31",
+              "parent": "FI",
+              "name": "Eastern Uusimaa",
+              "aliases": [
+                "20",
+                "eastern uusimaa",
+                "itä-uusimaa",
+                "östra nyland"
+              ],
+              "source_ids": [
+                "fi-regions-2007",
+                "fi-eastern-uusimaa-merge-2011"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
       "country": "FR",
       "source_ids": [
         "fr-insee-metropolitan-regions",
@@ -376493,6 +377013,494 @@
     },
     {
       "schema_version": 2,
+      "country": "IT",
+      "source_ids": [
+        "it-constitution-regions",
+        "it-istat-territorial-units-2026"
+      ],
+      "jurisdictions": [
+        {
+          "code": "IT",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Italia",
+              "aliases": [
+                "it",
+                "italia",
+                "italy",
+                "italien"
+              ],
+              "source_ids": [
+                "it-constitution-regions"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-01",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Piemonte",
+              "aliases": [
+                "01",
+                "piemonte",
+                "piedmont"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-02",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Valle d'Aosta/Vallée d'Aoste",
+              "aliases": [
+                "02",
+                "valle d'aosta",
+                "vallée d'aoste",
+                "vallee d'aoste",
+                "aosta valley"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-03",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Lombardia",
+              "aliases": [
+                "03",
+                "lombardia",
+                "lombardy"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-04",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Trentino-Alto Adige/Südtirol",
+              "aliases": [
+                "04",
+                "trentino-alto adige",
+                "trentino-alto adige/südtirol",
+                "südtirol",
+                "sudtirol"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-05",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Veneto",
+              "aliases": [
+                "05",
+                "veneto"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-06",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Friuli-Venezia Giulia",
+              "aliases": [
+                "06",
+                "friuli-venezia giulia",
+                "friuli venezia giulia"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-07",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Liguria",
+              "aliases": [
+                "07",
+                "liguria"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-08",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Emilia-Romagna",
+              "aliases": [
+                "08",
+                "emilia-romagna",
+                "emilia romagna"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-09",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Toscana",
+              "aliases": [
+                "09",
+                "toscana",
+                "tuscany"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-10",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Umbria",
+              "aliases": [
+                "10",
+                "umbria"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-11",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Marche",
+              "aliases": [
+                "11",
+                "marche"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-12",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Lazio",
+              "aliases": [
+                "12",
+                "lazio",
+                "latium"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-12-058091",
+          "type": "municipality",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT-12",
+              "name": "Roma",
+              "aliases": [
+                "roma",
+                "rome",
+                "058091"
+              ],
+              "source_ids": [
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-13",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Abruzzo",
+              "aliases": [
+                "13",
+                "abruzzo"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-14",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Molise",
+              "aliases": [
+                "14",
+                "molise"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-15",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Campania",
+              "aliases": [
+                "15",
+                "campania"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-16",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Puglia",
+              "aliases": [
+                "16",
+                "puglia",
+                "apulia"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-17",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Basilicata",
+              "aliases": [
+                "17",
+                "basilicata"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-18",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Calabria",
+              "aliases": [
+                "18",
+                "calabria"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-19",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Sicilia",
+              "aliases": [
+                "19",
+                "sicilia",
+                "sicily"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "IT-20",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "IT",
+              "name": "Sardegna",
+              "aliases": [
+                "20",
+                "sardegna",
+                "sardinia"
+              ],
+              "source_ids": [
+                "it-constitution-regions",
+                "it-istat-territorial-units-2026"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
       "country": "LI",
       "source_ids": [
         "li-employment-act-2007",
@@ -377113,6 +378121,871 @@
     },
     {
       "schema_version": 2,
+      "country": "NO",
+      "source_ids": [
+        "no-holidays-act-1995",
+        "no-may-days-act-1947",
+        "no-county-classification-2007-2035"
+      ],
+      "jurisdictions": [
+        {
+          "code": "NO",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Norway",
+              "aliases": [
+                "no",
+                "norway",
+                "norge",
+                "noreg"
+              ],
+              "source_ids": [
+                "no-holidays-act-1995",
+                "no-may-days-act-1947",
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-01",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-30"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Østfold",
+              "aliases": [
+                "01",
+                "østfold",
+                "ostfold"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-02",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-30"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Akershus",
+              "aliases": [
+                "02",
+                "akershus"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-03",
+          "type": "county",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2025-12-31",
+              "parent": "NO",
+              "name": "Oslo",
+              "aliases": [
+                "03",
+                "oslo"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            },
+            {
+              "valid_from": "2026-01-01",
+              "parent": "NO",
+              "name": "Oslo - Oslove",
+              "aliases": [
+                "03",
+                "oslo",
+                "osló",
+                "oslove"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-04",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-34"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Hedmark",
+              "aliases": [
+                "04",
+                "hedmark"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-05",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-34"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Oppland",
+              "aliases": [
+                "05",
+                "oppland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-06",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-30"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Buskerud",
+              "aliases": [
+                "06",
+                "buskerud"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-07",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-38"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Vestfold",
+              "aliases": [
+                "07",
+                "vestfold"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-08",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-38"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Telemark",
+              "aliases": [
+                "08",
+                "telemark"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-09",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-42"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Aust-Agder",
+              "aliases": [
+                "09",
+                "aust-agder",
+                "aust agder"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-10",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-42"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Vest-Agder",
+              "aliases": [
+                "10",
+                "vest-agder",
+                "vest agder"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-11",
+          "type": "county",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "NO",
+              "name": "Rogaland",
+              "aliases": [
+                "11",
+                "rogaland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-12",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-46"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Hordaland",
+              "aliases": [
+                "12",
+                "hordaland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-14",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-46"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Sogn og Fjordane",
+              "aliases": [
+                "14",
+                "sogn og fjordane"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-15",
+          "type": "county",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "NO",
+              "name": "Møre og Romsdal",
+              "aliases": [
+                "15",
+                "møre og romsdal",
+                "more og romsdal"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-16",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-50"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2017-12-31",
+              "parent": "NO",
+              "name": "Sør-Trøndelag",
+              "aliases": [
+                "16",
+                "sør-trøndelag",
+                "sor-trondelag"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-17",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-50"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2017-12-31",
+              "parent": "NO",
+              "name": "Nord-Trøndelag",
+              "aliases": [
+                "17",
+                "nord-trøndelag",
+                "nord-trondelag"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-18",
+          "type": "county",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Nordland",
+              "aliases": [
+                "18",
+                "nordland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            },
+            {
+              "valid_from": "2020-01-01",
+              "valid_to": "2021-12-31",
+              "parent": "NO",
+              "name": "Nordland",
+              "aliases": [
+                "18",
+                "nordland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            },
+            {
+              "valid_from": "2022-01-01",
+              "parent": "NO",
+              "name": "Nordland - Nordlánnda",
+              "aliases": [
+                "18",
+                "nordland",
+                "nordlánnda",
+                "nordlannda"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-19",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-54"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Troms - Romsa",
+              "aliases": [
+                "19",
+                "troms",
+                "romsa"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-20",
+          "type": "county",
+          "predecessors": [],
+          "successors": [
+            "NO-54"
+          ],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Finnmark - Finnmárku",
+              "aliases": [
+                "20",
+                "finnmark",
+                "finnmárku",
+                "finnmarku"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-30",
+          "type": "county",
+          "predecessors": [
+            "NO-01",
+            "NO-02",
+            "NO-06"
+          ],
+          "successors": [
+            "NO-31",
+            "NO-32",
+            "NO-33"
+          ],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "valid_to": "2023-12-31",
+              "parent": "NO",
+              "name": "Viken",
+              "aliases": [
+                "30",
+                "viken"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-31",
+          "type": "county",
+          "predecessors": [
+            "NO-30"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Østfold",
+              "aliases": [
+                "31",
+                "østfold",
+                "ostfold"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-32",
+          "type": "county",
+          "predecessors": [
+            "NO-30"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Akershus",
+              "aliases": [
+                "32",
+                "akershus"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-33",
+          "type": "county",
+          "predecessors": [
+            "NO-30"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Buskerud",
+              "aliases": [
+                "33",
+                "buskerud"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-34",
+          "type": "county",
+          "predecessors": [
+            "NO-04",
+            "NO-05"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "parent": "NO",
+              "name": "Innlandet",
+              "aliases": [
+                "34",
+                "innlandet"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-38",
+          "type": "county",
+          "predecessors": [
+            "NO-07",
+            "NO-08"
+          ],
+          "successors": [
+            "NO-39",
+            "NO-40"
+          ],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "valid_to": "2023-12-31",
+              "parent": "NO",
+              "name": "Vestfold og Telemark",
+              "aliases": [
+                "38",
+                "vestfold og telemark"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-39",
+          "type": "county",
+          "predecessors": [
+            "NO-38"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Vestfold",
+              "aliases": [
+                "39",
+                "vestfold"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-40",
+          "type": "county",
+          "predecessors": [
+            "NO-38"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Telemark",
+              "aliases": [
+                "40",
+                "telemark"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-42",
+          "type": "county",
+          "predecessors": [
+            "NO-09",
+            "NO-10"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "parent": "NO",
+              "name": "Agder",
+              "aliases": [
+                "42",
+                "agder"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-46",
+          "type": "county",
+          "predecessors": [
+            "NO-12",
+            "NO-14"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "parent": "NO",
+              "name": "Vestland",
+              "aliases": [
+                "46",
+                "vestland"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-50",
+          "type": "county",
+          "predecessors": [
+            "NO-16",
+            "NO-17"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2018-01-01",
+              "valid_to": "2019-12-31",
+              "parent": "NO",
+              "name": "Trøndelag",
+              "aliases": [
+                "50",
+                "trøndelag",
+                "trondelag"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            },
+            {
+              "valid_from": "2020-01-01",
+              "parent": "NO",
+              "name": "Trøndelag - Trööndelage",
+              "aliases": [
+                "50",
+                "trøndelag",
+                "trondelag",
+                "trööndelage",
+                "troondelage"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-54",
+          "type": "county",
+          "predecessors": [
+            "NO-19",
+            "NO-20"
+          ],
+          "successors": [
+            "NO-55",
+            "NO-56"
+          ],
+          "periods": [
+            {
+              "valid_from": "2020-01-01",
+              "valid_to": "2023-12-31",
+              "parent": "NO",
+              "name": "Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku",
+              "aliases": [
+                "54",
+                "troms og finnmark",
+                "romsa ja finnmárku",
+                "tromssa ja finmarkku"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-55",
+          "type": "county",
+          "predecessors": [
+            "NO-54"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Troms - Romsa - Tromssa",
+              "aliases": [
+                "55",
+                "troms",
+                "romsa",
+                "tromssa"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NO-56",
+          "type": "county",
+          "predecessors": [
+            "NO-54"
+          ],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2024-01-01",
+              "parent": "NO",
+              "name": "Finnmark - Finnmárku - Finmarkku",
+              "aliases": [
+                "56",
+                "finnmark",
+                "finnmárku",
+                "finmarkku"
+              ],
+              "source_ids": [
+                "no-county-classification-2007-2035"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
       "country": "PL",
       "source_ids": [
         "pl-days-off-work-2015",
@@ -377467,6 +379340,1039 @@
               ],
               "source_ids": [
                 "pl-territorial-division-1998"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
+      "country": "PT",
+      "source_ids": [
+        "pt-labour-code-2003",
+        "pt-labour-code-2009",
+        "pt-mainland-districts-1995",
+        "pt-mainland-districts-2024",
+        "pt-constitution-district-continuity-2005",
+        "pt-azores-regional-day-1980",
+        "pt-madeira-labour-adaptation-2004",
+        "pt-madeira-labour-adaptation-2009",
+        "pt-madeira-autonomy-day-2024"
+      ],
+      "jurisdictions": [
+        {
+          "code": "PT",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Portugal",
+              "aliases": [
+                "pt",
+                "portugal"
+              ],
+              "source_ids": [
+                "pt-labour-code-2003",
+                "pt-labour-code-2009"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-01",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Aveiro",
+              "aliases": [
+                "01",
+                "aveiro",
+                "distrito de aveiro"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-02",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Beja",
+              "aliases": [
+                "02",
+                "beja",
+                "distrito de beja"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-03",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Braga",
+              "aliases": [
+                "03",
+                "braga",
+                "distrito de braga"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-04",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Bragança",
+              "aliases": [
+                "04",
+                "bragança",
+                "braganca",
+                "distrito de bragança"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-05",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Castelo Branco",
+              "aliases": [
+                "05",
+                "castelo branco",
+                "distrito de castelo branco"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-06",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Coimbra",
+              "aliases": [
+                "06",
+                "coimbra",
+                "distrito de coimbra"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-07",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Évora",
+              "aliases": [
+                "07",
+                "évora",
+                "evora",
+                "distrito de évora"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-08",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Faro",
+              "aliases": [
+                "08",
+                "faro",
+                "distrito de faro"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-09",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Guarda",
+              "aliases": [
+                "09",
+                "guarda",
+                "distrito da guarda"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-10",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Leiria",
+              "aliases": [
+                "10",
+                "leiria",
+                "distrito de leiria"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-11",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Lisboa",
+              "aliases": [
+                "11",
+                "lisboa",
+                "lisbon",
+                "distrito de lisboa"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-12",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Portalegre",
+              "aliases": [
+                "12",
+                "portalegre",
+                "distrito de portalegre"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-13",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Porto",
+              "aliases": [
+                "13",
+                "porto",
+                "oporto",
+                "distrito do porto"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-14",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Santarém",
+              "aliases": [
+                "14",
+                "santarém",
+                "santarem",
+                "distrito de santarém"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-15",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Setúbal",
+              "aliases": [
+                "15",
+                "setúbal",
+                "setubal",
+                "distrito de setúbal"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-16",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Viana do Castelo",
+              "aliases": [
+                "16",
+                "viana do castelo",
+                "distrito de viana do castelo"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-17",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Vila Real",
+              "aliases": [
+                "17",
+                "vila real",
+                "distrito de vila real"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-18",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Viseu",
+              "aliases": [
+                "18",
+                "viseu",
+                "distrito de viseu"
+              ],
+              "source_ids": [
+                "pt-mainland-districts-1995",
+                "pt-mainland-districts-2024",
+                "pt-constitution-district-continuity-2005"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-20",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Região Autónoma dos Açores",
+              "aliases": [
+                "20",
+                "açores",
+                "acores",
+                "azores",
+                "região autónoma dos açores"
+              ],
+              "source_ids": [
+                "pt-azores-regional-day-1980"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PT-30",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "PT",
+              "name": "Região Autónoma da Madeira",
+              "aliases": [
+                "30",
+                "madeira",
+                "região autónoma da madeira"
+              ],
+              "source_ids": [
+                "pt-madeira-labour-adaptation-2004",
+                "pt-madeira-labour-adaptation-2009",
+                "pt-madeira-autonomy-day-2024"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
+      "country": "SE",
+      "source_ids": [
+        "se-public-holidays-act",
+        "se-counties-2007",
+        "se-counties-2026"
+      ],
+      "jurisdictions": [
+        {
+          "code": "SE",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Sweden",
+              "aliases": [
+                "se",
+                "sweden",
+                "sverige"
+              ],
+              "source_ids": [
+                "se-public-holidays-act",
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-01",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Stockholms län",
+              "aliases": [
+                "01",
+                "stockholm",
+                "stockholms län",
+                "stockholm county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-03",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Uppsala län",
+              "aliases": [
+                "03",
+                "uppsala",
+                "uppsala län",
+                "uppsala county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-04",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Södermanlands län",
+              "aliases": [
+                "04",
+                "södermanland",
+                "södermanlands län",
+                "sodermanland",
+                "södermanland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-05",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Östergötlands län",
+              "aliases": [
+                "05",
+                "östergötland",
+                "östergötlands län",
+                "ostergotland",
+                "östergötland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-06",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Jönköpings län",
+              "aliases": [
+                "06",
+                "jönköping",
+                "jönköpings län",
+                "jonkoping",
+                "jönköping county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-07",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Kronobergs län",
+              "aliases": [
+                "07",
+                "kronoberg",
+                "kronobergs län",
+                "kronoberg county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-08",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Kalmar län",
+              "aliases": [
+                "08",
+                "kalmar",
+                "kalmar län",
+                "kalmar county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-09",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Gotlands län",
+              "aliases": [
+                "09",
+                "gotland",
+                "gotlands län",
+                "gotland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-10",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Blekinge län",
+              "aliases": [
+                "10",
+                "blekinge",
+                "blekinge län",
+                "blekinge county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-12",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Skåne län",
+              "aliases": [
+                "12",
+                "skåne",
+                "skåne län",
+                "skane",
+                "scania",
+                "skåne county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-13",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Hallands län",
+              "aliases": [
+                "13",
+                "halland",
+                "hallands län",
+                "halland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-14",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Västra Götalands län",
+              "aliases": [
+                "14",
+                "västra götaland",
+                "västra götalands län",
+                "vastra gotaland",
+                "västra götaland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-17",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Värmlands län",
+              "aliases": [
+                "17",
+                "värmland",
+                "värmlands län",
+                "varmland",
+                "värmland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-18",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Örebro län",
+              "aliases": [
+                "18",
+                "örebro",
+                "örebro län",
+                "orebro",
+                "örebro county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-19",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Västmanlands län",
+              "aliases": [
+                "19",
+                "västmanland",
+                "västmanlands län",
+                "vastmanland",
+                "västmanland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-20",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Dalarnas län",
+              "aliases": [
+                "20",
+                "dalarna",
+                "dalarnas län",
+                "dalarna county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-21",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Gävleborgs län",
+              "aliases": [
+                "21",
+                "gävleborg",
+                "gävleborgs län",
+                "gavleborg",
+                "gävleborg county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-22",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Västernorrlands län",
+              "aliases": [
+                "22",
+                "västernorrland",
+                "västernorrlands län",
+                "vasternorrland",
+                "västernorrland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-23",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Jämtlands län",
+              "aliases": [
+                "23",
+                "jämtland",
+                "jämtlands län",
+                "jamtland",
+                "jämtland county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-24",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Västerbottens län",
+              "aliases": [
+                "24",
+                "västerbotten",
+                "västerbottens län",
+                "vasterbotten",
+                "västerbotten county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SE-25",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "SE",
+              "name": "Norrbottens län",
+              "aliases": [
+                "25",
+                "norrbotten",
+                "norrbottens län",
+                "norrbotten county"
+              ],
+              "source_ids": [
+                "se-counties-2007",
+                "se-counties-2026"
               ]
             }
           ]
