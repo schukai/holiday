@@ -1,4 +1,4 @@
-# holiday data 0.2.1
+# holiday data 0.2.2
 
 Source-cited public holiday data for Austria, Belgium, Germany, France, the United Kingdom, Hungary, Ireland, Liechtenstein, Luxembourg, Poland, covering
 2007–2035. The release is an independently generated data
@@ -20,6 +20,9 @@ archived source material.
   evidence hashes used for this release.
 - `ATTRIBUTIONS.md` records the required source credits.
 - `SHA256SUMS` covers every other file in the projection.
+- `RELEASE.json` marks a final projection as `published`, records its release
+  date and names both the content checksum file and the archive checksum
+  sidecar.
 
 Verify the downloaded projection with:
 
