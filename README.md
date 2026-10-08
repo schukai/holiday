@@ -1,6 +1,6 @@
-# holiday data 0.3.0
+# holiday data 0.4.0
 
-Source-cited public holiday data for Austria, Belgium, Germany, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, covering
+Source-cited public holiday data for Austria, Belgium, Germany, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
 2007–2035. The release is an independently generated data
 projection; it does not contain the private development history, generators or
 archived source material.
@@ -29,6 +29,7 @@ claiming legal effects that sit outside that scope.
 | Poland (PL) | high | 2007–2035 | Statutory layer and all sixteen voivodeships |
 | Portugal (PT) | high | 2007–2035 | National layer, all eighteen mainland districts, Azores and Madeira; municipal holidays are outside scope |
 | Sweden (SE) | high | 2007–2035 | Thirteen named holidays and all twenty-one counties; ordinary weekly Sundays are outside the event catalogue |
+| United States (US) | high | 2007–2035 | Federal statutory employee calendar; state holidays and territories are outside the declared scope |
 
 The following programme countries are deliberately not part of this release:
 
@@ -40,6 +41,7 @@ The following programme countries are deliberately not part of this release:
 | Andorra (AD) | research / evidence-and-model-blocked | Historic annual and parish instruments plus a sector-calendar variant model are still required |
 | Spain (ES) | research | First-order calendars are normalized through 2026, but 2027–2035 have not yet been officially appointed |
 | Vatican City (VA) | research / rights-and-evidence-blocked | Reusable evidence for a general civil calendar has not been established |
+| Canada (CA) | research overall; CA-FED, CA-AB, CA-BC and CA-MB high | The remaining provincial and territorial employment-standards calendars are not yet complete |
 
 ## Files
 

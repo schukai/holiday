@@ -2359,3 +2359,91 @@ Sources used to independently encode, scope and verify the released data:
 - Licence/status: Unicode License v3 v3
 - Licence URL: https://www.unicode.org/license.txt
 - Attribution: Copyright © 1991-2026 Unicode, Inc. All rights reserved. Distributed under the Terms of Use in https://www.unicode.org/copyright.html.
+
+## us-census-county-codes
+
+- Publisher: U.S. Census Bureau
+- Title: 2023 Gazetteer Files — Counties
+- Jurisdiction: US
+- Official source: https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_counties_national.zip
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Census Bureau; 2023 Gazetteer Files — Counties; official URL and retrieval date.
+
+## us-census-state-codes
+
+- Publisher: U.S. Census Bureau
+- Title: ANSI and FIPS Codes for States
+- Jurisdiction: US
+- Official source: https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Census Bureau; ANSI and FIPS Codes for States; official URL and retrieval date.
+
+## us-dol-private-holiday-scope
+
+- Publisher: U.S. Department of Labor
+- Title: Fair Labor Standards Act Advisor — vacation, sick and holiday pay
+- Jurisdiction: US
+- Official source: https://webapps.dol.gov/elaws/faq/esa/flsa/006.htm
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Department of Labor; Fair Labor Standards Act Advisor — vacation, sick and holiday pay; official URL and retrieval date.
+
+## us-opm-holiday-work-schedules
+
+- Publisher: U.S. Office of Personnel Management
+- Title: Holidays Work Schedules and Pay
+- Jurisdiction: US
+- Official source: https://piv.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay/
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Office of Personnel Management; Holidays Work Schedules and Pay; official URL and retrieval date.
+
+## us-opm-inauguration-2021
+
+- Publisher: U.S. Office of Personnel Management
+- Title: Federal Holidays and Human Resources Flexibilities for Employees Located in the Washington, DC, Area during the Week of Inauguration
+- Jurisdiction: US
+- Official source: https://www.opm.gov/chcoc/transmittals/2020/federal-holidays-and-human-resources-flexibilities-employees-located-washington-dc-area-508.pdf
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Office of Personnel Management; Federal Holidays and Human Resources Flexibilities for Employees Located in the Washington, DC, Area during the Week of Inauguration; official URL and retrieval date.
+
+## us-public-law-117-17
+
+- Publisher: United States Congress
+- Title: Juneteenth National Independence Day Act, Public Law 117-17
+- Jurisdiction: US
+- Official source: https://www.congress.gov/117/plaws/publ17/PLAW-117publ17.pdf
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: United States Congress; Juneteenth National Independence Day Act, Public Law 117-17; official URL and retrieval date.
+
+## us-title-5-section-6103-2016
+
+- Publisher: U.S. Government Publishing Office
+- Title: Title 5, United States Code, 2016 edition, Subpart E
+- Jurisdiction: US
+- Official source: https://www.govinfo.gov/content/pkg/USCODE-2016-title5/pdf/USCODE-2016-title5-partIII-subpartE.pdf
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Government Publishing Office; Title 5, United States Code, 2016 edition, Subpart E; official URL and retrieval date.
+
+## us-title-5-section-6103-2024
+
+- Publisher: U.S. Government Publishing Office
+- Title: 5 U.S.C. 6103 — Holidays, 2024 edition
+- Jurisdiction: US
+- Official source: https://www.govinfo.gov/content/pkg/USCODE-2024-title5/pdf/USCODE-2024-title5-partIII-subpartE-chap61-subchapI-sec6103.pdf
+- Retrieved: 2026-10-07T19:29:02Z
+- Licence/status: United States Government work; not eligible for copyright protection under 17 U.S.C. 105 2024 United States Code edition
+- Licence URL: https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf
+- Attribution: U.S. Government Publishing Office; 5 U.S.C. 6103 — Holidays, 2024 edition; official URL and retrieval date.

@@ -1,5 +1,5 @@
 {
-  "release_version": "0.3.0",
+  "release_version": "0.4.0",
   "schema_version": 2,
   "source_sets": {
     "jurisdiction": [
@@ -97,7 +97,11 @@
       "se-counties-2026",
       "se-public-holidays-act",
       "unicode-cldr-48-fi-subdivisions",
-      "unicode-cldr-48-li-subdivisions"
+      "unicode-cldr-48-li-subdivisions",
+      "us-census-county-codes",
+      "us-census-state-codes",
+      "us-opm-inauguration-2021",
+      "us-title-5-section-6103-2024"
     ],
     "rule": [
       "at-arbeitsruhegesetz-section-7-2007",
@@ -215,7 +219,12 @@
       "se-public-holidays-act",
       "se-public-holidays-amendment-2004",
       "se-public-holidays-calendar-2025",
-      "se-public-holidays-calendar-2026"
+      "se-public-holidays-calendar-2026",
+      "us-opm-holiday-work-schedules",
+      "us-opm-inauguration-2021",
+      "us-public-law-117-17",
+      "us-title-5-section-6103-2016",
+      "us-title-5-section-6103-2024"
     ],
     "union": [
       "at-arbeitsruhegesetz-section-7-2007",
@@ -431,7 +440,15 @@
       "se-public-holidays-calendar-2025",
       "se-public-holidays-calendar-2026",
       "unicode-cldr-48-fi-subdivisions",
-      "unicode-cldr-48-li-subdivisions"
+      "unicode-cldr-48-li-subdivisions",
+      "us-census-county-codes",
+      "us-census-state-codes",
+      "us-dol-private-holiday-scope",
+      "us-opm-holiday-work-schedules",
+      "us-opm-inauguration-2021",
+      "us-public-law-117-17",
+      "us-title-5-section-6103-2016",
+      "us-title-5-section-6103-2024"
     ],
     "verification": [
       "at-arbeitsruhegesetz-section-7-2007",
@@ -647,7 +664,15 @@
       "se-public-holidays-calendar-2025",
       "se-public-holidays-calendar-2026",
       "unicode-cldr-48-fi-subdivisions",
-      "unicode-cldr-48-li-subdivisions"
+      "unicode-cldr-48-li-subdivisions",
+      "us-census-county-codes",
+      "us-census-state-codes",
+      "us-dol-private-holiday-scope",
+      "us-opm-holiday-work-schedules",
+      "us-opm-inauguration-2021",
+      "us-public-law-117-17",
+      "us-title-5-section-6103-2016",
+      "us-title-5-section-6103-2024"
     ]
   },
   "sources": [
@@ -7951,6 +7976,277 @@
       "retrieved_at": "2026-10-07T02:13:44Z",
       "title": "Unicode CLDR 48 English subdivision names for Liechtenstein",
       "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-48/common/subdivisions/en.xml"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "54a9f4ef7cac8541efef5aa3285df641d52d8c155129c9a261ce70e784e9319f",
+        "source_artifact_sha256": "919df59ba90759cce85468c0337e898e4b39c08eaffce86ddd88fa41f1f7f0c8"
+      },
+      "id": "us-census-county-codes",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Census Bureau; 2023 Gazetteer Files — Counties; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "919df59ba90759cce85468c0337e898e4b39c08eaffce86ddd88fa41f1f7f0c8"
+          ],
+          "output_sha256": [
+            "2bd3cb63a133a299b41a32557e5ba81203201058e437ce9c711b8fa62d392ee2",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Extract the seven county or county-equivalent GEOIDs required for the statutory Inauguration Day Area and join them to the legal names."
+        }
+      ],
+      "publisher": "U.S. Census Bureau",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "2023 Gazetteer Files — Counties",
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_counties_national.zip"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "b595ac468426ff3238f953cfc8589637bcb9aaa32dd45e08f5f317c42b55786d",
+        "source_artifact_sha256": "7e839ba8acf578a53a1c4492cff73499beb76a2539d7120805d148c6379eaa1f"
+      },
+      "id": "us-census-state-codes",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Census Bureau; ANSI and FIPS Codes for States; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "7e839ba8acf578a53a1c4492cff73499beb76a2539d7120805d148c6379eaa1f"
+          ],
+          "output_sha256": [
+            "2bd3cb63a133a299b41a32557e5ba81203201058e437ce9c711b8fa62d392ee2",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be"
+          ],
+          "sequence": 1,
+          "summary": "Map the fifty state names, postal abbreviations and District of Columbia into repository jurisdiction codes."
+        }
+      ],
+      "publisher": "U.S. Census Bureau",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "ANSI and FIPS Codes for States",
+      "url": "https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "5a7e0f7ce3c4a6dfb6f40c84bcb2f175918070b0feab8cd4e73ad4bde031efc0",
+        "source_artifact_sha256": "aa5406b11a2ba39e0f610084130ab50f3e3ce05f37c15155cbbdafa26539d0d6"
+      },
+      "id": "us-dol-private-holiday-scope",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Department of Labor; Fair Labor Standards Act Advisor — vacation, sick and holiday pay; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "aa5406b11a2ba39e0f610084130ab50f3e3ce05f37c15155cbbdafa26539d0d6"
+          ],
+          "output_sha256": [
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be"
+          ],
+          "sequence": 1,
+          "summary": "Document that the FLSA does not create a general private-employer entitlement to holiday pay, supporting the declared federal-employee scope."
+        }
+      ],
+      "publisher": "U.S. Department of Labor",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "Fair Labor Standards Act Advisor — vacation, sick and holiday pay",
+      "url": "https://webapps.dol.gov/elaws/faq/esa/flsa/006.htm"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "c7eb8a396f600e2209b247643b04ac5f4ba205719e96e7fe97b40e0ecb96a956",
+        "source_artifact_sha256": "338b5c47f8b66a1fff954cb4d1e759dfe896a1786b272c2469829b9e8145f56a"
+      },
+      "id": "us-opm-holiday-work-schedules",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Office of Personnel Management; Holidays Work Schedules and Pay; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "338b5c47f8b66a1fff954cb4d1e759dfe896a1786b272c2469829b9e8145f56a"
+          ],
+          "output_sha256": [
+            "2a7d30fd8e874e03b49e8e89e947af8a36892f63402da0f5ad48d9bef80695a1",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Verify standard Monday-Friday observance dates and encode Inauguration Day eligibility, Sunday, Saturday and collision behaviour."
+        }
+      ],
+      "publisher": "U.S. Office of Personnel Management",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "Holidays Work Schedules and Pay",
+      "url": "https://piv.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay/"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "97f4ad77f03c3f0f13757780f21fb9b373734cccc0b1f82feebfbd81b4292328",
+        "source_artifact_sha256": "7d37d80f789639f2b171b0319c6b5462a438bdd887062802483aecd82aceff99"
+      },
+      "id": "us-opm-inauguration-2021",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Office of Personnel Management; Federal Holidays and Human Resources Flexibilities for Employees Located in the Washington, DC, Area during the Week of Inauguration; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "7d37d80f789639f2b171b0319c6b5462a438bdd887062802483aecd82aceff99"
+          ],
+          "output_sha256": [
+            "2a7d30fd8e874e03b49e8e89e947af8a36892f63402da0f5ad48d9bef80695a1",
+            "2bd3cb63a133a299b41a32557e5ba81203201058e437ce9c711b8fa62d392ee2",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Encode the exceptional 2021 telework condition and confirm that City of Fairfax is treated as part of Fairfax County."
+        }
+      ],
+      "publisher": "U.S. Office of Personnel Management",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "Federal Holidays and Human Resources Flexibilities for Employees Located in the Washington, DC, Area during the Week of Inauguration",
+      "url": "https://www.opm.gov/chcoc/transmittals/2020/federal-holidays-and-human-resources-flexibilities-employees-located-washington-dc-area-508.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "7bf410f8277f62bf68b7fdb4d8d6c622655efaa61a82e8d14eff296a3df0c84e",
+        "source_artifact_sha256": "e62b23b6a3327d65981ac4b0c9052f6090a9040ed139ad6abe7eb52ce41ceca9"
+      },
+      "id": "us-public-law-117-17",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "United States Congress; Juneteenth National Independence Day Act, Public Law 117-17; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "e62b23b6a3327d65981ac4b0c9052f6090a9040ed139ad6abe7eb52ce41ceca9"
+          ],
+          "output_sha256": [
+            "2a7d30fd8e874e03b49e8e89e947af8a36892f63402da0f5ad48d9bef80695a1",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Encode Juneteenth from enactment on 17 June 2021 and lock the 2020/2021 vector boundary."
+        }
+      ],
+      "publisher": "United States Congress",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "Juneteenth National Independence Day Act, Public Law 117-17",
+      "url": "https://www.congress.gov/117/plaws/publ17/PLAW-117publ17.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "8e594e3689740d55fb379cf03883c4a82f9656d997912b02721877e05dd35465",
+        "source_artifact_sha256": "131b16c6bda0ad2a3f9d23b62867a86010b496fcb9ada7ebf415e49bddff978f"
+      },
+      "id": "us-title-5-section-6103-2016",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Government Publishing Office; Title 5, United States Code, 2016 edition, Subpart E; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "131b16c6bda0ad2a3f9d23b62867a86010b496fcb9ada7ebf415e49bddff978f"
+          ],
+          "output_sha256": [
+            "2a7d30fd8e874e03b49e8e89e947af8a36892f63402da0f5ad48d9bef80695a1",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Verify the 2007-2020 statutory baseline and the absence of Juneteenth before Public Law 117-17."
+        }
+      ],
+      "publisher": "U.S. Government Publishing Office",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "Title 5, United States Code, 2016 edition, Subpart E",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2016-title5/pdf/USCODE-2016-title5-partIII-subpartE.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "fd70ce92c086d0f32683d2999fedb397f330ee10f438c99e8852f5e0474d8068",
+        "private_manifest_sha256": "8508a08fb75daec0a6dd28a0c91cefae73014268f4c055220703a6df773cb66c",
+        "source_artifact_sha256": "22757bf4e0ac9090cd0bcb4401a8802932c1e6c38e28a70de941ecf2e74c0af4"
+      },
+      "id": "us-title-5-section-6103-2024",
+      "jurisdiction": "US",
+      "licence": {
+        "attribution": "U.S. Government Publishing Office; 5 U.S.C. 6103 — Holidays, 2024 edition; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "United States Government work; not eligible for copyright protection under 17 U.S.C. 105",
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title17/pdf/USCODE-2024-title17-chap1-sec105.pdf",
+        "version": "2024 United States Code edition"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "22757bf4e0ac9090cd0bcb4401a8802932c1e6c38e28a70de941ecf2e74c0af4"
+          ],
+          "output_sha256": [
+            "2a7d30fd8e874e03b49e8e89e947af8a36892f63402da0f5ad48d9bef80695a1",
+            "2bd3cb63a133a299b41a32557e5ba81203201058e437ce9c711b8fa62d392ee2",
+            "981da8c3b80f6d9ebc482c54bb834f9ea1e67eb0869cb8091a73fd33c69bf1be",
+            "e3b1e0c443f61a6b144e70a32fdde4ed85651ca8d44339056f413e2694d426b7"
+          ],
+          "sequence": 1,
+          "summary": "Independently encode the statutory holiday names, recurrences, standard Monday-Friday in-lieu rules and Inauguration Day area; compare derived dates against OPM guidance."
+        }
+      ],
+      "publisher": "U.S. Government Publishing Office",
+      "retrieved_at": "2026-10-07T19:29:02Z",
+      "title": "5 U.S.C. 6103 — Holidays, 2024 edition",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/pdf/USCODE-2024-title5-partIII-subpartE-chap61-subchapI-sec6103.pdf"
     }
   ]
 }
