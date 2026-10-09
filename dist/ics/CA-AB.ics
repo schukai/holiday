@@ -1,0 +1,3398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//schukai//holiday//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20070101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070101
+DTEND;VALUE=DATE:20070102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20070219-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070219
+DTEND;VALUE=DATE:20070220
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20070406-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070406
+DTEND;VALUE=DATE:20070407
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20070521-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070521
+DTEND;VALUE=DATE:20070522
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20070702-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070702
+DTEND;VALUE=DATE:20070703
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20070903-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20070903
+DTEND;VALUE=DATE:20070904
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20071008-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20071008
+DTEND;VALUE=DATE:20071009
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20071111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20071111
+DTEND;VALUE=DATE:20071112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20071225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20071225
+DTEND;VALUE=DATE:20071226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080101
+DTEND;VALUE=DATE:20080102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080218-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080218
+DTEND;VALUE=DATE:20080219
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080321-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080321
+DTEND;VALUE=DATE:20080322
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080519-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080519
+DTEND;VALUE=DATE:20080520
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080701
+DTEND;VALUE=DATE:20080702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20080901-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20080901
+DTEND;VALUE=DATE:20080902
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20081013-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20081013
+DTEND;VALUE=DATE:20081014
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20081111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20081111
+DTEND;VALUE=DATE:20081112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20081225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20081225
+DTEND;VALUE=DATE:20081226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090101
+DTEND;VALUE=DATE:20090102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090216-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090216
+DTEND;VALUE=DATE:20090217
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090410-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090410
+DTEND;VALUE=DATE:20090411
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090518-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090518
+DTEND;VALUE=DATE:20090519
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090701
+DTEND;VALUE=DATE:20090702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20090907-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20090907
+DTEND;VALUE=DATE:20090908
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20091012-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20091012
+DTEND;VALUE=DATE:20091013
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20091111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20091111
+DTEND;VALUE=DATE:20091112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20091225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20091225
+DTEND;VALUE=DATE:20091226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100101
+DTEND;VALUE=DATE:20100102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100215-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100215
+DTEND;VALUE=DATE:20100216
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100402-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100402
+DTEND;VALUE=DATE:20100403
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100524-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100524
+DTEND;VALUE=DATE:20100525
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100701
+DTEND;VALUE=DATE:20100702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20100906-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20100906
+DTEND;VALUE=DATE:20100907
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20101011-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20101011
+DTEND;VALUE=DATE:20101012
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20101111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20101111
+DTEND;VALUE=DATE:20101112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20101225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20101225
+DTEND;VALUE=DATE:20101226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110101
+DTEND;VALUE=DATE:20110102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110221-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110221
+DTEND;VALUE=DATE:20110222
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110422-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110422
+DTEND;VALUE=DATE:20110423
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110523-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110523
+DTEND;VALUE=DATE:20110524
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110701
+DTEND;VALUE=DATE:20110702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20110905-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20110905
+DTEND;VALUE=DATE:20110906
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20111010-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20111010
+DTEND;VALUE=DATE:20111011
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20111111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20111111
+DTEND;VALUE=DATE:20111112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20111225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20111225
+DTEND;VALUE=DATE:20111226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120101
+DTEND;VALUE=DATE:20120102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120220-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120220
+DTEND;VALUE=DATE:20120221
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120406-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120406
+DTEND;VALUE=DATE:20120407
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120521-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120521
+DTEND;VALUE=DATE:20120522
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120702-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120702
+DTEND;VALUE=DATE:20120703
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20120903-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20120903
+DTEND;VALUE=DATE:20120904
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20121008-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20121008
+DTEND;VALUE=DATE:20121009
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20121111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20121111
+DTEND;VALUE=DATE:20121112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20121225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20121225
+DTEND;VALUE=DATE:20121226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130101
+DTEND;VALUE=DATE:20130102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130218-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130218
+DTEND;VALUE=DATE:20130219
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130329-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130329
+DTEND;VALUE=DATE:20130330
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130520-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130520
+DTEND;VALUE=DATE:20130521
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130701
+DTEND;VALUE=DATE:20130702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20130902-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20130902
+DTEND;VALUE=DATE:20130903
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20131014-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20131014
+DTEND;VALUE=DATE:20131015
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20131111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20131111
+DTEND;VALUE=DATE:20131112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20131225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20131225
+DTEND;VALUE=DATE:20131226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140217-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140217
+DTEND;VALUE=DATE:20140218
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140418-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140519-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140519
+DTEND;VALUE=DATE:20140520
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140701
+DTEND;VALUE=DATE:20140702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20140901-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20140901
+DTEND;VALUE=DATE:20140902
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20141013-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20141013
+DTEND;VALUE=DATE:20141014
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20141111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20141111
+DTEND;VALUE=DATE:20141112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20141225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150101
+DTEND;VALUE=DATE:20150102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150216-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150216
+DTEND;VALUE=DATE:20150217
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150403-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150403
+DTEND;VALUE=DATE:20150404
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150518-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150518
+DTEND;VALUE=DATE:20150519
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150701
+DTEND;VALUE=DATE:20150702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20150907-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20150907
+DTEND;VALUE=DATE:20150908
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20151012-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20151012
+DTEND;VALUE=DATE:20151013
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20151111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20151225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160215-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160215
+DTEND;VALUE=DATE:20160216
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160325-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160523-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160523
+DTEND;VALUE=DATE:20160524
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160701
+DTEND;VALUE=DATE:20160702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20160905-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20161010-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20161010
+DTEND;VALUE=DATE:20161011
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20161111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20161111
+DTEND;VALUE=DATE:20161112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20161225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170101
+DTEND;VALUE=DATE:20170102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170220-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170220
+DTEND;VALUE=DATE:20170221
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170414-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170522-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170522
+DTEND;VALUE=DATE:20170523
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170701
+DTEND;VALUE=DATE:20170702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20170904-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20170904
+DTEND;VALUE=DATE:20170905
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20171009-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20171009
+DTEND;VALUE=DATE:20171010
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20171111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20171111
+DTEND;VALUE=DATE:20171112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20171225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20171225
+DTEND;VALUE=DATE:20171226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180101
+DTEND;VALUE=DATE:20180102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180219-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180219
+DTEND;VALUE=DATE:20180220
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180330-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180521-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180521
+DTEND;VALUE=DATE:20180522
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180702-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180702
+DTEND;VALUE=DATE:20180703
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20180903-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20180903
+DTEND;VALUE=DATE:20180904
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20181008-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20181008
+DTEND;VALUE=DATE:20181009
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20181111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20181111
+DTEND;VALUE=DATE:20181112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20181225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20181225
+DTEND;VALUE=DATE:20181226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190101
+DTEND;VALUE=DATE:20190102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190218-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190419-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190419
+DTEND;VALUE=DATE:20190420
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190520-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20190902-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20191014-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20191014
+DTEND;VALUE=DATE:20191015
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20191111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20191225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20191225
+DTEND;VALUE=DATE:20191226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200101
+DTEND;VALUE=DATE:20200102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200217-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200217
+DTEND;VALUE=DATE:20200218
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200410-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200410
+DTEND;VALUE=DATE:20200411
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200518-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200518
+DTEND;VALUE=DATE:20200519
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200701
+DTEND;VALUE=DATE:20200702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20200907-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20200907
+DTEND;VALUE=DATE:20200908
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20201012-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20201012
+DTEND;VALUE=DATE:20201013
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20201111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20201111
+DTEND;VALUE=DATE:20201112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20201225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20201225
+DTEND;VALUE=DATE:20201226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210215-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210216
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210402-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210403
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210524-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210524
+DTEND;VALUE=DATE:20210525
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210701
+DTEND;VALUE=DATE:20210702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20210906-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20210906
+DTEND;VALUE=DATE:20210907
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20211011-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211012
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20211111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20211111
+DTEND;VALUE=DATE:20211112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20211225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220221-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220415-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220523-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220524
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220701
+DTEND;VALUE=DATE:20220702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20220905-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20220905
+DTEND;VALUE=DATE:20220906
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20221010-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20221010
+DTEND;VALUE=DATE:20221011
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20221111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20221225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20221225
+DTEND;VALUE=DATE:20221226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230220-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230220
+DTEND;VALUE=DATE:20230221
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230407-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230408
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230522-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230523
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20230904-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20230904
+DTEND;VALUE=DATE:20230905
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20231009-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20231009
+DTEND;VALUE=DATE:20231010
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20231111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20231225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240219-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240220
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240329-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240520-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240521
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240701
+DTEND;VALUE=DATE:20240702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240903
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20241014-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241015
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20241111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20241225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250217-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250418-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250519-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250520
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250901-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251013-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251014
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260216-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260403-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260518-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270215-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270326-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270524-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270906-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20271011-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20271111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20271225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280221-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280414-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280522-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280522
+DTEND;VALUE=DATE:20280523
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20280904-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20281009-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20281111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20281225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290219-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290220
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290330-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290521-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290702-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290703
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20290903-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20291008-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20291111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20291225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300218-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300419-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300520-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300520
+DTEND;VALUE=DATE:20300521
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20300902-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20301014-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301014
+DTEND;VALUE=DATE:20301015
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20301111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20301225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310217-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310217
+DTEND;VALUE=DATE:20310218
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310411-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310519-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310519
+DTEND;VALUE=DATE:20310520
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310701
+DTEND;VALUE=DATE:20310702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20310901-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20311013-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311013
+DTEND;VALUE=DATE:20311014
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20311111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311111
+DTEND;VALUE=DATE:20311112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20311225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320216-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320216
+DTEND;VALUE=DATE:20320217
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320326-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320326
+DTEND;VALUE=DATE:20320327
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320524-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320524
+DTEND;VALUE=DATE:20320525
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320701
+DTEND;VALUE=DATE:20320702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20320906-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320906
+DTEND;VALUE=DATE:20320907
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20321011-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20321011
+DTEND;VALUE=DATE:20321012
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20321111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20321111
+DTEND;VALUE=DATE:20321112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20321225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330221-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330221
+DTEND;VALUE=DATE:20330222
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330415-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330523-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330523
+DTEND;VALUE=DATE:20330524
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330701
+DTEND;VALUE=DATE:20330702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20330905-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330905
+DTEND;VALUE=DATE:20330906
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20331010-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20331010
+DTEND;VALUE=DATE:20331011
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20331111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20331111
+DTEND;VALUE=DATE:20331112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20331225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20331225
+DTEND;VALUE=DATE:20331226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340101
+DTEND;VALUE=DATE:20340102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340220-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340407-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340407
+DTEND;VALUE=DATE:20340408
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340522-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340522
+DTEND;VALUE=DATE:20340523
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340701-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340701
+DTEND;VALUE=DATE:20340702
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20340904-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340904
+DTEND;VALUE=DATE:20340905
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20341009-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20341009
+DTEND;VALUE=DATE:20341010
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20341111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20341111
+DTEND;VALUE=DATE:20341112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20341225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20341225
+DTEND;VALUE=DATE:20341226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350101-CA-AB-NEW_YEAR@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350219-CA-AB-ALBERTA_FAMILY_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350219
+DTEND;VALUE=DATE:20350220
+SUMMARY:Alberta Family Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350323-CA-AB-GOOD_FRIDAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350323
+DTEND;VALUE=DATE:20350324
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350521-CA-AB-VICTORIA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350521
+DTEND;VALUE=DATE:20350522
+SUMMARY:Victoria Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350702-CA-AB-CANADA_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350702
+DTEND;VALUE=DATE:20350703
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. The official Alberta table places Canada Day on July 2 when July 1 is Sunday. Coverage\, eligibility\, exemptions and any other substituted day remain employee-specific.
+END:VEVENT
+BEGIN:VEVENT
+UID:20350903-CA-AB-LABOUR_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350903
+DTEND;VALUE=DATE:20350904
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20351008-CA-AB-THANKSGIVING@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20351008
+DTEND;VALUE=DATE:20351009
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20351111-CA-AB-REMEMBRANCE_DAY@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20351111
+DTEND;VALUE=DATE:20351112
+SUMMARY:Remembrance Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+BEGIN:VEVENT
+UID:20351225-CA-AB-CHRISTMAS@holiday.schukai
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20351225
+DTEND;VALUE=DATE:20351226
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+CATEGORIES:PUBLIC,FULL,CONDITIONAL
+X-HOLIDAY-APPLICABILITY:CONDITIONAL
+X-HOLIDAY-CONFIRMATION:CONFIRMED
+X-HOLIDAY-LEGAL-STATUS:STATUTORY
+DESCRIPTION:Select the Alberta regime only for employment governed by the Alberta Employment Standards Code. Coverage\, eligibility\, exemptions\, work schedules and any substituted day can change an employee's entitlement\; this record is the named legal holiday date.
+END:VEVENT
+END:VCALENDAR

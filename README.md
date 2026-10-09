@@ -1,6 +1,6 @@
-# holiday data 0.4.0
+# holiday data 0.5.0
 
-Source-cited public holiday data for Austria, Belgium, Germany, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
+Source-cited public holiday data for Austria, Belgium, Canada, Germany, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
 2007–2035. The release is an independently generated data
 projection; it does not contain the private development history, generators or
 archived source material.
@@ -16,6 +16,7 @@ claiming legal effects that sit outside that scope.
 |---|---|---|---|
 | Austria (AT) | high | 2007–2035 | Nationwide statutory layer and all nine states; historic Good Friday is conditional through 2018 |
 | Belgium (BE) | high | 2007–2035 | National private-sector layer, regions and provinces |
+| Canada (CA) | high | 2007–2035 | Six alternative employment-standards calendars: federal, Alberta, British Columbia, Manitoba, New Brunswick and Ontario; the country root and unreleased provinces and territories contain no holiday records |
 | Germany (DE) | high | 2007–2035 | All states and evidence-backed local branches |
 | Finland (FI) | high | 2007–2035 | Named national holidays, all first-order regions, Åland and historic Eastern Uusimaa |
 | France (FR) | high | 2007–2035 | FR legal regime including FR-971–978; NC, PF and WF are not included |
@@ -31,7 +32,8 @@ claiming legal effects that sit outside that scope.
 | Sweden (SE) | high | 2007–2035 | Thirteen named holidays and all twenty-one counties; ordinary weekly Sundays are outside the event catalogue |
 | United States (US) | high | 2007–2035 | Federal statutory employee calendar; state holidays and territories are outside the declared scope |
 
-The following programme countries are deliberately not part of this release:
+The following programme countries or country scopes are deliberately not part
+of this release:
 
 | Country | Current quality | Remaining blocker |
 |---|---|---|
@@ -41,7 +43,13 @@ The following programme countries are deliberately not part of this release:
 | Andorra (AD) | research / evidence-and-model-blocked | Historic annual and parish instruments plus a sector-calendar variant model are still required |
 | Spain (ES) | research | First-order calendars are normalized through 2026, but 2027–2035 have not yet been officially appointed |
 | Vatican City (VA) | research / rights-and-evidence-blocked | Reusable evidence for a general civil calendar has not been established |
-| Canada (CA) | research overall; CA-FED, CA-AB, CA-BC and CA-MB high | The remaining provincial and territorial employment-standards calendars are not yet complete |
+| Canada (remaining regimes) | research / rights-blocked | Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Québec, Saskatchewan and the three territories are not released; the `CA` root intentionally has no holidays |
+
+For Canada, consumers must choose exactly one governing employment regime.
+`CA-FED`, `CA-AB`, `CA-BC`, `CA-MB`, `CA-NB` and `CA-ON` replace rather than
+supplement one another. Empty files for the unreleased selectors are catalogue
+placeholders, not evidence that those jurisdictions have no statutory
+holidays.
 
 ## Files
 

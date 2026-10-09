@@ -1,5 +1,5 @@
 {
-  "release_version": "0.4.0",
+  "release_version": "0.5.0",
   "schema_version": 2,
   "source_sets": {
     "jurisdiction": [
@@ -9,6 +9,8 @@
       "be-fps-employment-public-holidays",
       "be-public-holidays-decree-1974",
       "be-regions-provinces-2026",
+      "ca-federal-labour-code",
+      "ca-province-territory-codes",
       "de-destatis-boundary-changes-2007",
       "de-destatis-boundary-changes-2008",
       "de-destatis-boundary-changes-2009-01",
@@ -110,6 +112,29 @@
       "be-ascension-collision-2008",
       "be-fps-employment-public-holidays",
       "be-public-holidays-decree-1974",
+      "ca-alberta-employment-standards-code",
+      "ca-alberta-general-holidays-2023",
+      "ca-bc-day-act",
+      "ca-bc-employment-standards-2007",
+      "ca-bc-employment-standards-current",
+      "ca-bc-family-day-act-2012",
+      "ca-bc-family-day-regulation",
+      "ca-bc-family-day-regulation-historic",
+      "ca-bc-truth-reconciliation-2023",
+      "ca-federal-holiday-recurrences",
+      "ca-federal-holidays-act-2002",
+      "ca-federal-labour-code",
+      "ca-federal-labour-code-2005",
+      "ca-federal-truth-reconciliation-2021",
+      "ca-manitoba-employment-standards",
+      "ca-manitoba-july-first-2019",
+      "ca-manitoba-louis-riel-2007",
+      "ca-manitoba-orange-shirt-2023",
+      "ca-new-brunswick-day-act",
+      "ca-new-brunswick-employment-standards",
+      "ca-new-brunswick-family-day-2017",
+      "ca-ontario-employment-standards",
+      "ca-ontario-family-day-2007",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -239,6 +264,30 @@
       "be-fps-employment-public-holidays",
       "be-public-holidays-decree-1974",
       "be-regions-provinces-2026",
+      "ca-alberta-employment-standards-code",
+      "ca-alberta-general-holidays-2023",
+      "ca-bc-day-act",
+      "ca-bc-employment-standards-2007",
+      "ca-bc-employment-standards-current",
+      "ca-bc-family-day-act-2012",
+      "ca-bc-family-day-regulation",
+      "ca-bc-family-day-regulation-historic",
+      "ca-bc-truth-reconciliation-2023",
+      "ca-federal-holiday-recurrences",
+      "ca-federal-holidays-act-2002",
+      "ca-federal-labour-code",
+      "ca-federal-labour-code-2005",
+      "ca-federal-truth-reconciliation-2021",
+      "ca-manitoba-employment-standards",
+      "ca-manitoba-july-first-2019",
+      "ca-manitoba-louis-riel-2007",
+      "ca-manitoba-orange-shirt-2023",
+      "ca-new-brunswick-day-act",
+      "ca-new-brunswick-employment-standards",
+      "ca-new-brunswick-family-day-2017",
+      "ca-ontario-employment-standards",
+      "ca-ontario-family-day-2007",
+      "ca-province-territory-codes",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -463,6 +512,30 @@
       "be-fps-employment-public-holidays",
       "be-public-holidays-decree-1974",
       "be-regions-provinces-2026",
+      "ca-alberta-employment-standards-code",
+      "ca-alberta-general-holidays-2023",
+      "ca-bc-day-act",
+      "ca-bc-employment-standards-2007",
+      "ca-bc-employment-standards-current",
+      "ca-bc-family-day-act-2012",
+      "ca-bc-family-day-regulation",
+      "ca-bc-family-day-regulation-historic",
+      "ca-bc-truth-reconciliation-2023",
+      "ca-federal-holiday-recurrences",
+      "ca-federal-holidays-act-2002",
+      "ca-federal-labour-code",
+      "ca-federal-labour-code-2005",
+      "ca-federal-truth-reconciliation-2021",
+      "ca-manitoba-employment-standards",
+      "ca-manitoba-july-first-2019",
+      "ca-manitoba-louis-riel-2007",
+      "ca-manitoba-orange-shirt-2023",
+      "ca-new-brunswick-day-act",
+      "ca-new-brunswick-employment-standards",
+      "ca-new-brunswick-family-day-2017",
+      "ca-ontario-employment-standards",
+      "ca-ontario-family-day-2007",
+      "ca-province-territory-codes",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -1082,6 +1155,828 @@
       "retrieved_at": "2026-10-07T13:00:02Z",
       "title": "Population movement by regions and provinces",
       "url": "https://statbel.fgov.be/en/themes/population/population-movement"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "39a382ec3128bf47ba2ef2ec8b615edb9c9cef80379500c77dfdc7bb00014132",
+        "private_manifest_sha256": "7b849d9260a9d284aabf621de1c87bb6a73cf619b53b1a3901c56e7155d62d8e",
+        "source_artifact_sha256": "6e28a01122ff5500338236e85372f1ea99df70406e7f6ff0cdeedc71c3510177"
+      },
+      "id": "ca-alberta-employment-standards-code",
+      "jurisdiction": "CA-AB",
+      "licence": {
+        "attribution": "Contains information reproduced from the Employment Standards Code, RSA 2000 c E-9. Crown copyright, Government of Alberta; reproduced accurately from Alberta King's Printer.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Alberta King's Printer statute and regulation reproduction permission",
+        "url": "https://open.alberta.ca/blog/?p=12",
+        "version": "Government of Alberta statement published 16 February 2017, accessed 7 October 2026"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "6e28a01122ff5500338236e85372f1ea99df70406e7f6ff0cdeedc71c3510177"
+          ],
+          "output_sha256": [
+            "05b9c3af88d902382f31fb72e5d3542f4c593bd85f12fd04a957166f08e0fb1a",
+            "3657b945b95ce080860e3f07ea3a3838bc946da3b6d1cb778051c4670523082f",
+            "dc68930088da426ac0c8dcf62691e826e3c76f61261d16eec3d2fa8989a72250"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the nine statutory general-holiday names from section 25 and use its unamended 1996 source note to establish continuity throughout 2007--2035; encode only the named legal dates and mark employment applicability conditional."
+        }
+      ],
+      "publisher": "Alberta King's Printer",
+      "retrieved_at": "2026-10-07T23:45:01Z",
+      "title": "Employment Standards Code, RSA 2000 c E-9, current as of 26 November 2025",
+      "url": "https://kings-printer.alberta.ca/1266.cfm?display=html&isbncln=9780779858644&leg_type=Acts&page=e09.cfm"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "34133e2906385bffc93df74c341708ad384e836477acee301d3f76998893081b",
+        "private_manifest_sha256": "02ce8fbe4f4e48287443dd51d2a443de5fcceb5b8c04dedd38bbc9ecd28d2090",
+        "source_artifact_sha256": "c2a3888f728eb97d3f9aa778ad07bfa114f24921e25ad674f2be1a73047ea2b7"
+      },
+      "id": "ca-alberta-general-holidays-2023",
+      "jurisdiction": "CA-AB",
+      "licence": {
+        "attribution": "Contains information licensed under the Open Government Licence — Alberta.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Open Government Licence — Alberta",
+        "url": "https://open.alberta.ca/licence",
+        "version": "2.2"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "c2a3888f728eb97d3f9aa778ad07bfa114f24921e25ad674f2be1a73047ea2b7"
+          ],
+          "output_sha256": [
+            "05b9c3af88d902382f31fb72e5d3542f4c593bd85f12fd04a957166f08e0fb1a",
+            "3657b945b95ce080860e3f07ea3a3838bc946da3b6d1cb778051c4670523082f",
+            "dc68930088da426ac0c8dcf62691e826e3c76f61261d16eec3d2fa8989a72250"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the official recurrence table for Alberta's nine statutory general holidays, including the Sunday rule for Canada Day, and exclude the separately described employer-option holidays."
+        }
+      ],
+      "publisher": "Government of Alberta, Jobs, Economy and Trade",
+      "retrieved_at": "2026-10-07T23:45:01Z",
+      "title": "Employment Standards Tool Kit for Employers: Module 6 — General Holidays",
+      "url": "https://open.alberta.ca/dataset/06084a7e-dcfb-4aaa-b142-259f91370c76/resource/d01a72b5-7a62-449f-ae8b-58c2630682d4/download/jet-es-tool-kit-module-6-general-holidays-2023-08.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "6a2b3dc3fca1056f1b0c2b0b1289fd827e281f944a04c929416094fc78639e31",
+        "source_artifact_sha256": "ba657ce73483c243ed4d8fee810dacddc84ee7da897338fce63f68df0efa982a"
+      },
+      "id": "ca-bc-day-act",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "ba657ce73483c243ed4d8fee810dacddc84ee7da897338fce63f68df0efa982a"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Encode British Columbia Day as the first Monday in August throughout the supported interval and cross-check its inclusion in the historic and current Employment Standards Act definitions."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "British Columbia Day Act, RSBC 1996 c 34, current to 22 September 2026",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96034_01"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "c4e1eb1eb3472c519d2deb96607d29c67861db0726fd45113b6fcc27b721aaea",
+        "source_artifact_sha256": "7e55a85c6194458ceee9a69f60243079dc2dfeeb384a65aacb6b92b60c4c9e01"
+      },
+      "id": "ca-bc-employment-standards-2007",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "7e55a85c6194458ceee9a69f60243079dc2dfeeb384a65aacb6b92b60c4c9e01"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the nine-holiday statutory baseline that predates the 2012 Family Day amendment and apply the independently evidenced date recurrences; encode only named dates and conditional employment applicability."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "Employment Standards Act, RSBC 1996 c 113, Point in Time content for the historic statutory-holiday definition",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/consol38/consol38/96113_pit"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "e1c86a4d8c4484a3c55bbd85dc1459438092ec90b58bb2cf96c26de774d13b5d",
+        "source_artifact_sha256": "b2c136c27dbc674f084bd20f76026b2e5e38b84549bdf916deb5b1176fbe1a49"
+      },
+      "id": "ca-bc-employment-standards-current",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "b2c136c27dbc674f084bd20f76026b2e5e38b84549bdf916deb5b1176fbe1a49"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Verify the current eleven-holiday statutory definition and the employment coverage, eligibility, collective-agreement and substitution conditions; encode only named legal dates."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "Employment Standards Act, RSBC 1996 c 113, current to 22 September 2026",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96113_01"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "f246ebfe027ddd5d3c60d3e6da3446f934840f32eb9cb62326f9804f45469bae",
+        "source_artifact_sha256": "d741e2ce0974132736e80f0fd0630ddf8bedceb3060d341cd87dd3caa93ca71c"
+      },
+      "id": "ca-bc-family-day-act-2012",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "d741e2ce0974132736e80f0fd0630ddf8bedceb3060d341cd87dd3caa93ca71c"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Establish Family Day as a public and Employment Standards Act holiday from the 2012 enactment; use the official regulations to determine the first applicable annual date and recurrence periods."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "Family Day Act, SBC 2012 c 24",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/12024_01"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "55a684f3f86dd63ac278212288cfe2eb91ab8d182863251e80320f65e4891f9f",
+        "source_artifact_sha256": "14e120a69f2daeadcf6b98e38dc16aae0b70f2776dbcac613877e0cc8f67f916"
+      },
+      "id": "ca-bc-family-day-regulation",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "14e120a69f2daeadcf6b98e38dc16aae0b70f2776dbcac613877e0cc8f67f916"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Encode Family Day on the third Monday of February beginning in 2019 because BC Reg 75/2018 took effect after the 2018 occurrence."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "Family Day Regulation, BC Reg 149/2012, current to 6 October 2026",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/149_2012"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "4e58b8cf9cad9c5aeed9f7e44739c227cce8efbaa6f023c2ef47ba46a73052e5",
+        "source_artifact_sha256": "bad7298e54366e984967eb0c2f269f6540f197852eddfde60d2318553583ede3"
+      },
+      "id": "ca-bc-family-day-regulation-historic",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "bad7298e54366e984967eb0c2f269f6540f197852eddfde60d2318553583ede3"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Encode Family Day on the second Monday of February from its first annual occurrence in 2013 through 2018, the last occurrence before the 2018 amendment became effective."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "Family Day Regulation, BC Reg 149/2012, section 1 before BC Reg 75/2018",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/149_2012_pit"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "719bcdacd9b56bee881d8b95ba350cad94e87e1c3f1e248a89ac57c15bbcdba2",
+        "private_manifest_sha256": "73e97398f958df5b3b8c32f333d68f584a1f8c222d2de1bac00fc4c348100627",
+        "source_artifact_sha256": "48097a186c503c2235d9c1b4d2fbf0c16e2eae03497742b24d672365e0a9ec64"
+      },
+      "id": "ca-bc-truth-reconciliation-2023",
+      "jurisdiction": "CA-BC",
+      "licence": {
+        "attribution": "These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "King's Printer Licence – British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/standards/Licence.html",
+        "version": "1.1"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "48097a186c503c2235d9c1b4d2fbf0c16e2eae03497742b24d672365e0a9ec64"
+          ],
+          "output_sha256": [
+            "1d3407e37bf79027a5ab498d931c8dd9436e840717ba6dca61f5c09fa8fe124a",
+            "4a47d7795ac4c69ce33b2781d4bed59895553e6d442fb33857bbccd4e7f17c6e",
+            "a052c2bc8952da789a943520194c079283157ea899de80e0ac9c4a5dd8f4a2fc"
+          ],
+          "sequence": 1,
+          "summary": "Encode September 30 as a British Columbia Employment Standards Act statutory holiday from the Act's Royal Assent and commencement on 9 March 2023."
+        }
+      ],
+      "publisher": "British Columbia King's Printer",
+      "retrieved_at": "2026-10-07T23:50:40Z",
+      "title": "National Day for Truth and Reconciliation Act, SBC 2023 c 4",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/hstats/hstats/468174704"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "d7648d6d694d66a0891502f85c3383f9263d5e541b47e14fbf33450974af158f",
+        "private_manifest_sha256": "49c034e8e635241d03f99e070399421f07f76124394fcbceae17d4f7308c432f",
+        "source_artifact_sha256": "d316fc4844b869756c5ff10d1003bc4c97fee227b465e3d72d0dbf86d823862e"
+      },
+      "id": "ca-federal-holiday-recurrences",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Contains information licensed under the Open Government Licence — Canada.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Open Government Licence — Canada",
+        "url": "https://open.canada.ca/en/open-government-licence-canada",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "d316fc4844b869756c5ff10d1003bc4c97fee227b465e3d72d0dbf86d823862e"
+          ],
+          "output_sha256": [
+            "93f2de34d6a817c5b0bb881eff74a9338972c1e1e28f04f6d881882e61a412bc",
+            "f64b81e98be657b15806dcccdd9304c0b7c63b6ce1a177dcfa28347550d58287"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the official fixed and weekday-relative calendar recurrences for the federal general-holiday names established by the Canada Labour Code."
+        }
+      ],
+      "publisher": "Immigration, Refugees and Citizenship Canada",
+      "retrieved_at": "2026-10-07T23:33:48Z",
+      "title": "Discover Canada — National Public Holidays and Other Important Dates",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadian-symbols.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "dde99fee2e3bca9db068c3351cf214e97c30198af8c96544aa61470e3cc07dcb",
+        "private_manifest_sha256": "650441207f370a7e2a0e8a8aeab82ff65f7e69dca3c8f7dc0eadd3c05a291711",
+        "source_artifact_sha256": "3bdd3c9651569e3c2c89d31dabe5c276eeb0e1392b411ba1f9602917f6df08d7"
+      },
+      "id": "ca-federal-holidays-act-2002",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Department of Justice Canada; Holidays Act, R.S.C. 1985, c. H-5; reproduced accurately as an unofficial copy; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of Federal Law Order",
+        "url": "https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf",
+        "version": "SI/97-5, consolidation current to 21 September 2026"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "3bdd3c9651569e3c2c89d31dabe5c276eeb0e1392b411ba1f9602917f6df08d7"
+          ],
+          "output_sha256": [
+            "93f2de34d6a817c5b0bb881eff74a9338972c1e1e28f04f6d881882e61a412bc",
+            "f64b81e98be657b15806dcccdd9304c0b7c63b6ce1a177dcfa28347550d58287"
+          ],
+          "sequence": 1,
+          "summary": "Establish the deterministic Canada Day Sunday rule and the statutory Victoria Day and Remembrance Day dates in force throughout 2007."
+        }
+      ],
+      "publisher": "Department of Justice Canada",
+      "retrieved_at": "2026-10-07T23:33:48Z",
+      "title": "Holidays Act, version from 31 December 2002 to 28 February 2018",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/h-5/20021231/P1TT3xt3.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "dde99fee2e3bca9db068c3351cf214e97c30198af8c96544aa61470e3cc07dcb",
+        "private_manifest_sha256": "899f8eae1da518f8279838a0266c3f9d1e7ab9dd01b08a03d291e7877ee8bbe3",
+        "source_artifact_sha256": "4d2ad38a542a5d7eb01835b26ef7f6302755813d7779a1d5682efd04f5e145f9"
+      },
+      "id": "ca-federal-labour-code",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Department of Justice Canada; Canada Labour Code, R.S.C. 1985, c. L-2; reproduced accurately as an unofficial copy; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of Federal Law Order",
+        "url": "https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf",
+        "version": "SI/97-5, consolidation current to 21 September 2026"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "4d2ad38a542a5d7eb01835b26ef7f6302755813d7779a1d5682efd04f5e145f9"
+          ],
+          "output_sha256": [
+            "93bef1e6bdb1d3777e441806a90ddf3ebd801451a168db7462d8caa695422e5b",
+            "d7a08932a66e2e2e3a885cd0f4196952835b8bc71b8f0b4b8b91ff579a2fb76f",
+            "ee83d575c88b484b2f4bed0680a540cc8f3f53019071a8d81143e5d5f8f8df04",
+            "f314c45d1a48b1ed68a73de50adef91d992fdf2d2f90f9f81e18be327cfa72e7"
+          ],
+          "sequence": 1,
+          "summary": "Independently encode the named general holidays, scope, statutory recurrence and substitution limitations of Part III; define the federal employment-standards calendar variant and verify locked boundary vectors."
+        }
+      ],
+      "publisher": "Department of Justice Canada",
+      "retrieved_at": "2026-10-07T23:12:00Z",
+      "title": "Canada Labour Code, R.S.C. 1985, c. L-2, current to 21 September 2026",
+      "url": "https://laws-lois.justice.gc.ca/pdf/l-2.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "dde99fee2e3bca9db068c3351cf214e97c30198af8c96544aa61470e3cc07dcb",
+        "private_manifest_sha256": "8a4ed4fe59429faf9ccc0449fa2c27cd2d332be676a4f36ccaf8f66f55037530",
+        "source_artifact_sha256": "c991b4f51fce26ecd6778ca6be1ba94d7dc914261718df357d920b688642bb7e"
+      },
+      "id": "ca-federal-labour-code-2005",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Department of Justice Canada; Canada Labour Code, R.S.C. 1985, c. L-2; reproduced accurately as an unofficial copy; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of Federal Law Order",
+        "url": "https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf",
+        "version": "SI/97-5, consolidation current to 21 September 2026"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "c991b4f51fce26ecd6778ca6be1ba94d7dc914261718df357d920b688642bb7e"
+          ],
+          "output_sha256": [
+            "93f2de34d6a817c5b0bb881eff74a9338972c1e1e28f04f6d881882e61a412bc",
+            "f64b81e98be657b15806dcccdd9304c0b7c63b6ce1a177dcfa28347550d58287"
+          ],
+          "sequence": 1,
+          "summary": "Establish the nine named federal general holidays continuously in force throughout 2007 and link that historic baseline to the independently encoded federal calendar."
+        }
+      ],
+      "publisher": "Department of Justice Canada",
+      "retrieved_at": "2026-10-07T23:33:48Z",
+      "title": "Canada Labour Code section 166, version from 5 October 2005 to 11 December 2013",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/L-2/section-166-20051005.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "dde99fee2e3bca9db068c3351cf214e97c30198af8c96544aa61470e3cc07dcb",
+        "private_manifest_sha256": "941e850ceb231617c13de287f1f0309f056b6216495bfe78467c83f4d4828276",
+        "source_artifact_sha256": "14d5023fe8ecc0671191f299aa1da015afc93252857f2bb49e6960811c10ebc9"
+      },
+      "id": "ca-federal-truth-reconciliation-2021",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Department of Justice Canada; S.C. 2021, c. 11; reproduced accurately as an unofficial copy; official URL and retrieval date.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Reproduction of Federal Law Order",
+        "url": "https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf",
+        "version": "SI/97-5, consolidation current to 21 September 2026"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "14d5023fe8ecc0671191f299aa1da015afc93252857f2bb49e6960811c10ebc9"
+          ],
+          "output_sha256": [
+            "93bef1e6bdb1d3777e441806a90ddf3ebd801451a168db7462d8caa695422e5b",
+            "d7a08932a66e2e2e3a885cd0f4196952835b8bc71b8f0b4b8b91ff579a2fb76f",
+            "f314c45d1a48b1ed68a73de50adef91d992fdf2d2f90f9f81e18be327cfa72e7"
+          ],
+          "sequence": 1,
+          "summary": "Establish the 3 August 2021 commencement boundary and independently encode the September 30 federal general holiday."
+        }
+      ],
+      "publisher": "Department of Justice Canada",
+      "retrieved_at": "2026-10-07T23:12:00Z",
+      "title": "S.C. 2021, c. 11 — National Day for Truth and Reconciliation amendments",
+      "url": "https://laws-lois.justice.gc.ca/PDF/N-4.5.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "50ca4d7aa0ff9d2a8eebfe6acd1fb4faaca4c4225c78ff3c0a7dbfcd159f5bae",
+        "private_manifest_sha256": "d0e7de7f2d7e7c0ea8015ac6472a15965ec9a6b02161becefaaf87e9ada69a56",
+        "source_artifact_sha256": "3a4ddbee5dd1a4c7b5f7387e11aeb119526dd0268a421271e915a70e21c71359"
+      },
+      "id": "ca-manitoba-employment-standards",
+      "jurisdiction": "CA-MB",
+      "licence": {
+        "attribution": "Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "OpenMB Information and Data Use License",
+        "url": "https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf",
+        "version": "1.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "3a4ddbee5dd1a4c7b5f7387e11aeb119526dd0268a421271e915a70e21c71359",
+            "d1fffc6894d3bc380c9be643c12632f46250647b9f3d92cec9158f653f10f8cc"
+          ],
+          "output_sha256": [
+            "35ac4bf34ba43ff0f275b5f746d7e57347916cf1051625f7b478a08ac09e8ec7",
+            "84238a49aeeff42c4e467c2067323ae026ea25a4d75987fc9d14c52e8e390cd2",
+            "8e7263a1abf6cd3262e0ebd1613e06008bbbe2b6f50ffb177e8939ec66d7c8bf"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the current general-holiday definition and employment conditions, use the legislative-history annotations and separate amending-Act intakes to reconstruct 2007--2035, and encode only named legal dates."
+        }
+      ],
+      "publisher": "Manitoba King's Printer",
+      "retrieved_at": "2026-10-08T01:31:01Z",
+      "title": "The Employment Standards Code, C.C.S.M. c. E110, current from 1 October 2026 to 5 October 2026",
+      "url": "https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=e110"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "50ca4d7aa0ff9d2a8eebfe6acd1fb4faaca4c4225c78ff3c0a7dbfcd159f5bae",
+        "private_manifest_sha256": "3ec044255f69000db52818f39d036e5416da1ff84cdcc5c1f269904af283748c",
+        "source_artifact_sha256": "2b8c9cef5254d2566020e8d07a7afd2af302bba939b115f21138167a31f8c1b6"
+      },
+      "id": "ca-manitoba-july-first-2019",
+      "jurisdiction": "CA-MB",
+      "licence": {
+        "attribution": "Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "OpenMB Information and Data Use License",
+        "url": "https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf",
+        "version": "1.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "2b8c9cef5254d2566020e8d07a7afd2af302bba939b115f21138167a31f8c1b6",
+            "d1fffc6894d3bc380c9be643c12632f46250647b9f3d92cec9158f653f10f8cc"
+          ],
+          "output_sha256": [
+            "35ac4bf34ba43ff0f275b5f746d7e57347916cf1051625f7b478a08ac09e8ec7",
+            "84238a49aeeff42c4e467c2067323ae026ea25a4d75987fc9d14c52e8e390cd2",
+            "8e7263a1abf6cd3262e0ebd1613e06008bbbe2b6f50ffb177e8939ec66d7c8bf"
+          ],
+          "sequence": 1,
+          "summary": "Split the Manitoba Canada Day rule at 2019: retain the federal Sunday-to-July-2 rule through 2018, then encode the expressly fixed July 1 date from the 2019 amendment onward."
+        }
+      ],
+      "publisher": "Manitoba King's Printer",
+      "retrieved_at": "2026-10-08T01:31:01Z",
+      "title": "The Statutes Correction and Minor Amendments Act, 2019, S.M. 2019 c. 11",
+      "url": "https://web2.gov.mb.ca/laws/statutes/2019/pdf/c01119.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "50ca4d7aa0ff9d2a8eebfe6acd1fb4faaca4c4225c78ff3c0a7dbfcd159f5bae",
+        "private_manifest_sha256": "c6560881e1c0856c889f48a5546c7f8509280e6dc1bdbada9292cb01287657c3",
+        "source_artifact_sha256": "c811e6932fa5ea58378f50f2b4b99cc227830fdb187d7b809ad8e1449f8724b9"
+      },
+      "id": "ca-manitoba-louis-riel-2007",
+      "jurisdiction": "CA-MB",
+      "licence": {
+        "attribution": "Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "OpenMB Information and Data Use License",
+        "url": "https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf",
+        "version": "1.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "c811e6932fa5ea58378f50f2b4b99cc227830fdb187d7b809ad8e1449f8724b9",
+            "d1fffc6894d3bc380c9be643c12632f46250647b9f3d92cec9158f653f10f8cc"
+          ],
+          "output_sha256": [
+            "35ac4bf34ba43ff0f275b5f746d7e57347916cf1051625f7b478a08ac09e8ec7",
+            "84238a49aeeff42c4e467c2067323ae026ea25a4d75987fc9d14c52e8e390cd2",
+            "8e7263a1abf6cd3262e0ebd1613e06008bbbe2b6f50ffb177e8939ec66d7c8bf"
+          ],
+          "sequence": 1,
+          "summary": "Encode Louis Riel Day on the third Monday of February from 2008 because the Act took effect on 8 November 2007, after that year's possible February occurrence."
+        }
+      ],
+      "publisher": "Manitoba King's Printer",
+      "retrieved_at": "2026-10-08T01:31:01Z",
+      "title": "The Statutory Holidays Act (Various Acts Amended), S.M. 2007 c. 18",
+      "url": "https://web2.gov.mb.ca/laws/statutes/2007/c01807e.php"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "50ca4d7aa0ff9d2a8eebfe6acd1fb4faaca4c4225c78ff3c0a7dbfcd159f5bae",
+        "private_manifest_sha256": "ef1b38b38329379ac50dc71323943dfdd35882217099464170f6cda476ac874c",
+        "source_artifact_sha256": "61728a1f0e2f204e5334f6882261e03022b193bcac6660d68a2ed3737b9ef142"
+      },
+      "id": "ca-manitoba-orange-shirt-2023",
+      "jurisdiction": "CA-MB",
+      "licence": {
+        "attribution": "Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "OpenMB Information and Data Use License",
+        "url": "https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf",
+        "version": "1.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "61728a1f0e2f204e5334f6882261e03022b193bcac6660d68a2ed3737b9ef142",
+            "d1fffc6894d3bc380c9be643c12632f46250647b9f3d92cec9158f653f10f8cc"
+          ],
+          "output_sha256": [
+            "35ac4bf34ba43ff0f275b5f746d7e57347916cf1051625f7b478a08ac09e8ec7",
+            "84238a49aeeff42c4e467c2067323ae026ea25a4d75987fc9d14c52e8e390cd2",
+            "8e7263a1abf6cd3262e0ebd1613e06008bbbe2b6f50ffb177e8939ec66d7c8bf"
+          ],
+          "sequence": 1,
+          "summary": "Encode Orange Shirt Day on September 30 from 2024 because the Act was assented to after the 2023 date, and preserve the statutory prohibition on substituting another observation date."
+        }
+      ],
+      "publisher": "Manitoba King's Printer",
+      "retrieved_at": "2026-10-08T01:31:01Z",
+      "title": "The Employment Standards Code Amendment and Interpretation Amendment Act (Orange Shirt Day), S.M. 2023 c. 50",
+      "url": "https://web2.gov.mb.ca/laws/statutes/2023/pdf/c05023.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47",
+        "private_manifest_sha256": "b9d67e78bc010da6572589ef898008c4bad9459671353cab277b7874874cd577",
+        "source_artifact_sha256": "ba831dc1b22ff72172cfdc990e85062cf7092739d330344b35b7d6bb23f3b94e"
+      },
+      "id": "ca-new-brunswick-day-act",
+      "jurisdiction": "CA-NB",
+      "licence": {
+        "attribution": "The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "New Brunswick Acts and regulations reproduction licence",
+        "url": "https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html",
+        "version": "accessed 2026-10-09"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47",
+            "ba831dc1b22ff72172cfdc990e85062cf7092739d330344b35b7d6bb23f3b94e"
+          ],
+          "output_sha256": [
+            "638cf88a27af7f80f3aa5e656544b952f3bbc8a3611c52520f634e3295d8cf87",
+            "da582d355ca8dc643178210515609bd73e2bfb1f5a9de5566300b0699688c5bd",
+            "eb506e677aeaed686ed8b2f1d6186269d6bee0efb7be9ef26f9b82c6292d06a4"
+          ],
+          "sequence": 1,
+          "summary": "Record New Brunswick Day as the first Monday in August and encode that recurrence across the supported interval; the consolidation identifies the underlying 1975 enactment."
+        }
+      ],
+      "publisher": "King's Printer for New Brunswick",
+      "retrieved_at": "2026-10-09T14:05:56Z",
+      "title": "New Brunswick Day Act, SNB 2014, c 121",
+      "url": "https://laws.gnb.ca/en/ShowPdf/cs/2014-c.121.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47",
+        "private_manifest_sha256": "9dd7dbb2846b4542e098dcbda7cc858ebd19aa67917458e88b94707a80e78435",
+        "source_artifact_sha256": "a8f804402587affd697c882630221dc0164c616759384609cbc9cb443b583591"
+      },
+      "id": "ca-new-brunswick-employment-standards",
+      "jurisdiction": "CA-NB",
+      "licence": {
+        "attribution": "The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "New Brunswick Acts and regulations reproduction licence",
+        "url": "https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html",
+        "version": "accessed 2026-10-09"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "a8f804402587affd697c882630221dc0164c616759384609cbc9cb443b583591",
+            "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47"
+          ],
+          "output_sha256": [
+            "638cf88a27af7f80f3aa5e656544b952f3bbc8a3611c52520f634e3295d8cf87",
+            "da582d355ca8dc643178210515609bd73e2bfb1f5a9de5566300b0699688c5bd",
+            "eb506e677aeaed686ed8b2f1d6186269d6bee0efb7be9ef26f9b82c6292d06a4"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the seven baseline public holidays and employment conditions, combine the separate Family Day and New Brunswick Day intakes with official federal recurrence evidence, and encode only named legal dates for New Brunswick."
+        }
+      ],
+      "publisher": "King's Printer for New Brunswick",
+      "retrieved_at": "2026-10-09T13:52:47Z",
+      "title": "Employment Standards Act, SNB 1982, c E-7.2, current consolidation",
+      "url": "https://laws.gnb.ca/en/ShowPdf/cs/E-7.2.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47",
+        "private_manifest_sha256": "df43e9ce4911582dbf4e115dd111f0d08c8a71cc5c2d37d7a7d9c03fb8bc360d",
+        "source_artifact_sha256": "d64e3b5dabb073868b0565fc951ee9358af40f53f17b1f4ef91f0e7227db1ad6"
+      },
+      "id": "ca-new-brunswick-family-day-2017",
+      "jurisdiction": "CA-NB",
+      "licence": {
+        "attribution": "The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "New Brunswick Acts and regulations reproduction licence",
+        "url": "https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html",
+        "version": "accessed 2026-10-09"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "b56d360301e58ab5260b8510ad139ac3698f2548c42e48d1154c716c1aa55a47",
+            "d64e3b5dabb073868b0565fc951ee9358af40f53f17b1f4ef91f0e7227db1ad6"
+          ],
+          "output_sha256": [
+            "638cf88a27af7f80f3aa5e656544b952f3bbc8a3611c52520f634e3295d8cf87",
+            "da582d355ca8dc643178210515609bd73e2bfb1f5a9de5566300b0699688c5bd",
+            "eb506e677aeaed686ed8b2f1d6186269d6bee0efb7be9ef26f9b82c6292d06a4"
+          ],
+          "sequence": 1,
+          "summary": "Record the third-Monday recurrence and 1 January 2018 commencement, then encode Family Day from 2018."
+        }
+      ],
+      "publisher": "King's Printer for New Brunswick",
+      "retrieved_at": "2026-10-09T14:07:25Z",
+      "title": "An Act Respecting Family Day, SNB 2017, c 38",
+      "url": "https://laws.gnb.ca/en/ShowPdf/as/2017-c.38.pdf"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "07124eebe1c4944e252051f326e285b4fe1a7d761f2e3de3857b0f2ce2d99f36",
+        "private_manifest_sha256": "65656aa83ab47ebebb29de700f1bdacd58a20f36748cff7b69bf1c978e07d033",
+        "source_artifact_sha256": "18c1546e8bbbbcef2e0eaba4cc15058853f91a068ee50b05dc40964f137cc0ef"
+      },
+      "id": "ca-ontario-employment-standards",
+      "jurisdiction": "CA-ON",
+      "licence": {
+        "attribution": "© King's Printer for Ontario, 2000. This reproduction is not an official version.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Ontario policy on copyright on legal materials",
+        "url": "https://www.ontario.ca/page/copyright-information",
+        "version": "updated 2022-09-29"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "07124eebe1c4944e252051f326e285b4fe1a7d761f2e3de3857b0f2ce2d99f36",
+            "18c1546e8bbbbcef2e0eaba4cc15058853f91a068ee50b05dc40964f137cc0ef"
+          ],
+          "output_sha256": [
+            "91e8e72b1298a83b3798a5686567d612b8dc30e37aa8aa68a967ad714aa8d415",
+            "b15a527f2fd59e4e21ef0b38b106be26b2ff953d55078c1700df9ce52b00b30a",
+            "d3e59e0d9be76ef54485cab92fa398aa83d1f9214a95ca7871a84c0a5e84b629"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the eight baseline public holidays and employment conditions, combine the separate 2007 Family Day intake with official federal recurrence evidence, and encode only named legal dates for Ontario."
+        }
+      ],
+      "publisher": "King's Printer for Ontario",
+      "retrieved_at": "2026-10-09T13:46:11Z",
+      "title": "Employment Standards Act, 2000, S.O. 2000, c. 41, current consolidation",
+      "url": "https://www.ontario.ca/laws/statute/00e41"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "00f4a6805419950655f8358b9f954de1d0715cea8e9f33497a7bdfaf4f18f6f9",
+        "private_manifest_sha256": "94698432f11507f92b0f7aa3f0003b03c9c5da4d5dc8f38abaaf7ca00b74e563",
+        "source_artifact_sha256": "1c51e17efc586f4dfe8c48752fcdf385d1dec0ab0da479291eec1ccce9b698e1"
+      },
+      "id": "ca-ontario-family-day-2007",
+      "jurisdiction": "CA-ON",
+      "licence": {
+        "attribution": "© King's Printer for Ontario, 2007. This reproduction is not an official version.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Ontario policy on copyright on legal materials",
+        "url": "https://www.ontario.ca/page/copyright-information",
+        "version": "updated 2022-09-29"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "00f4a6805419950655f8358b9f954de1d0715cea8e9f33497a7bdfaf4f18f6f9",
+            "1c51e17efc586f4dfe8c48752fcdf385d1dec0ab0da479291eec1ccce9b698e1"
+          ],
+          "output_sha256": [
+            "91e8e72b1298a83b3798a5686567d612b8dc30e37aa8aa68a967ad714aa8d415",
+            "b15a527f2fd59e4e21ef0b38b106be26b2ff953d55078c1700df9ce52b00b30a",
+            "d3e59e0d9be76ef54485cab92fa398aa83d1f9214a95ca7871a84c0a5e84b629"
+          ],
+          "sequence": 1,
+          "summary": "Record the filing date and third-Monday recurrence, infer the first possible annual occurrence as 2008, and encode the Ontario Family Day validity interval."
+        }
+      ],
+      "publisher": "King's Printer for Ontario",
+      "retrieved_at": "2026-10-09T13:46:12Z",
+      "title": "O. Reg. 547/07: Exemptions, Special Rules and Establishment of Minimum Wage",
+      "url": "https://www.ontario.ca/laws/regulation/r07547"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "d7648d6d694d66a0891502f85c3383f9263d5e541b47e14fbf33450974af158f",
+        "private_manifest_sha256": "f79084b0e760c1659dc03ecd01e716f2508772ff308309b6718b65ba021bdc05",
+        "source_artifact_sha256": "df499e1b8096b58889569e37a1e05cdb6bea15207bd590d757a4c894c1d410ef"
+      },
+      "id": "ca-province-territory-codes",
+      "jurisdiction": "CA",
+      "licence": {
+        "attribution": "Contains information licensed under the Open Government Licence — Canada.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Open Government Licence — Canada",
+        "url": "https://open.canada.ca/en/open-government-licence-canada",
+        "version": "2.0"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "df499e1b8096b58889569e37a1e05cdb6bea15207bd590d757a4c894c1d410ef"
+          ],
+          "output_sha256": [
+            "93bef1e6bdb1d3777e441806a90ddf3ebd801451a168db7462d8caa695422e5b",
+            "ee83d575c88b484b2f4bed0680a540cc8f3f53019071a8d81143e5d5f8f8df04"
+          ],
+          "sequence": 1,
+          "summary": "Transcribe the official two-letter province and territory codes into the jurisdiction catalogue and add human aliases without importing another holiday dataset."
+        }
+      ],
+      "publisher": "Canada Revenue Agency",
+      "retrieved_at": "2026-10-07T23:12:00Z",
+      "title": "Provincial and territorial codes",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/completing-slips-summaries/financial-slips-summaries/return-investment-income-t5/provincial-territorial-codes.html?wbdisable=true"
     },
     {
       "evidence": {

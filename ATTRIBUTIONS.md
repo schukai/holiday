@@ -138,6 +138,270 @@ Sources used to independently encode, scope and verify the released data:
 - Licence URL: https://statbel.fgov.be/en/cc-40
 - Attribution: Source: Statbel; identify the source URL, retrieval date and independent encoding.
 
+## ca-alberta-employment-standards-code
+
+- Publisher: Alberta King's Printer
+- Title: Employment Standards Code, RSA 2000 c E-9, current as of 26 November 2025
+- Jurisdiction: CA-AB
+- Official source: https://kings-printer.alberta.ca/1266.cfm?display=html&isbncln=9780779858644&leg_type=Acts&page=e09.cfm
+- Retrieved: 2026-10-07T23:45:01Z
+- Licence/status: Alberta King's Printer statute and regulation reproduction permission Government of Alberta statement published 16 February 2017, accessed 7 October 2026
+- Licence URL: https://open.alberta.ca/blog/?p=12
+- Attribution: Contains information reproduced from the Employment Standards Code, RSA 2000 c E-9. Crown copyright, Government of Alberta; reproduced accurately from Alberta King's Printer.
+
+## ca-alberta-general-holidays-2023
+
+- Publisher: Government of Alberta, Jobs, Economy and Trade
+- Title: Employment Standards Tool Kit for Employers: Module 6 — General Holidays
+- Jurisdiction: CA-AB
+- Official source: https://open.alberta.ca/dataset/06084a7e-dcfb-4aaa-b142-259f91370c76/resource/d01a72b5-7a62-449f-ae8b-58c2630682d4/download/jet-es-tool-kit-module-6-general-holidays-2023-08.pdf
+- Retrieved: 2026-10-07T23:45:01Z
+- Licence/status: Open Government Licence — Alberta 2.2
+- Licence URL: https://open.alberta.ca/licence
+- Attribution: Contains information licensed under the Open Government Licence — Alberta.
+
+## ca-bc-day-act
+
+- Publisher: British Columbia King's Printer
+- Title: British Columbia Day Act, RSBC 1996 c 34, current to 22 September 2026
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96034_01
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-employment-standards-2007
+
+- Publisher: British Columbia King's Printer
+- Title: Employment Standards Act, RSBC 1996 c 113, Point in Time content for the historic statutory-holiday definition
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/consol38/consol38/96113_pit
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-employment-standards-current
+
+- Publisher: British Columbia King's Printer
+- Title: Employment Standards Act, RSBC 1996 c 113, current to 22 September 2026
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96113_01
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-family-day-act-2012
+
+- Publisher: British Columbia King's Printer
+- Title: Family Day Act, SBC 2012 c 24
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/12024_01
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-family-day-regulation
+
+- Publisher: British Columbia King's Printer
+- Title: Family Day Regulation, BC Reg 149/2012, current to 6 October 2026
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/149_2012
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-family-day-regulation-historic
+
+- Publisher: British Columbia King's Printer
+- Title: Family Day Regulation, BC Reg 149/2012, section 1 before BC Reg 75/2018
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/149_2012_pit
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-bc-truth-reconciliation-2023
+
+- Publisher: British Columbia King's Printer
+- Title: National Day for Truth and Reconciliation Act, SBC 2023 c 4
+- Jurisdiction: CA-BC
+- Official source: https://www.bclaws.gov.bc.ca/civix/document/id/hstats/hstats/468174704
+- Retrieved: 2026-10-07T23:50:40Z
+- Licence/status: King's Printer Licence – British Columbia 1.1
+- Licence URL: https://www.bclaws.gov.bc.ca/standards/Licence.html
+- Attribution: These materials contain information that has been derived from information originally made available by the Province of British Columbia at: http://www.bclaws.gov.bc.ca and this information is being used in accordance with the King's Printer Licence – British Columbia available at: https://www.bclaws.gov.bc.ca/standards/Licence.html . They have not, however, been produced in affiliation with, or with the endorsement of, the Province of British Columbia and THESE MATERIALS ARE NOT AN OFFICIAL VERSION.
+
+## ca-federal-holiday-recurrences
+
+- Publisher: Immigration, Refugees and Citizenship Canada
+- Title: Discover Canada — National Public Holidays and Other Important Dates
+- Jurisdiction: CA
+- Official source: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadian-symbols.html
+- Retrieved: 2026-10-07T23:33:48Z
+- Licence/status: Open Government Licence — Canada 2.0
+- Licence URL: https://open.canada.ca/en/open-government-licence-canada
+- Attribution: Contains information licensed under the Open Government Licence — Canada.
+
+## ca-federal-holidays-act-2002
+
+- Publisher: Department of Justice Canada
+- Title: Holidays Act, version from 31 December 2002 to 28 February 2018
+- Jurisdiction: CA
+- Official source: https://laws-lois.justice.gc.ca/eng/acts/h-5/20021231/P1TT3xt3.html
+- Retrieved: 2026-10-07T23:33:48Z
+- Licence/status: Reproduction of Federal Law Order SI/97-5, consolidation current to 21 September 2026
+- Licence URL: https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf
+- Attribution: Department of Justice Canada; Holidays Act, R.S.C. 1985, c. H-5; reproduced accurately as an unofficial copy; official URL and retrieval date.
+
+## ca-federal-labour-code
+
+- Publisher: Department of Justice Canada
+- Title: Canada Labour Code, R.S.C. 1985, c. L-2, current to 21 September 2026
+- Jurisdiction: CA
+- Official source: https://laws-lois.justice.gc.ca/pdf/l-2.pdf
+- Retrieved: 2026-10-07T23:12:00Z
+- Licence/status: Reproduction of Federal Law Order SI/97-5, consolidation current to 21 September 2026
+- Licence URL: https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf
+- Attribution: Department of Justice Canada; Canada Labour Code, R.S.C. 1985, c. L-2; reproduced accurately as an unofficial copy; official URL and retrieval date.
+
+## ca-federal-labour-code-2005
+
+- Publisher: Department of Justice Canada
+- Title: Canada Labour Code section 166, version from 5 October 2005 to 11 December 2013
+- Jurisdiction: CA
+- Official source: https://laws-lois.justice.gc.ca/eng/acts/L-2/section-166-20051005.html
+- Retrieved: 2026-10-07T23:33:48Z
+- Licence/status: Reproduction of Federal Law Order SI/97-5, consolidation current to 21 September 2026
+- Licence URL: https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf
+- Attribution: Department of Justice Canada; Canada Labour Code, R.S.C. 1985, c. L-2; reproduced accurately as an unofficial copy; official URL and retrieval date.
+
+## ca-federal-truth-reconciliation-2021
+
+- Publisher: Department of Justice Canada
+- Title: S.C. 2021, c. 11 — National Day for Truth and Reconciliation amendments
+- Jurisdiction: CA
+- Official source: https://laws-lois.justice.gc.ca/PDF/N-4.5.pdf
+- Retrieved: 2026-10-07T23:12:00Z
+- Licence/status: Reproduction of Federal Law Order SI/97-5, consolidation current to 21 September 2026
+- Licence URL: https://laws-lois.justice.gc.ca/pdf/SI-97-5.pdf
+- Attribution: Department of Justice Canada; S.C. 2021, c. 11; reproduced accurately as an unofficial copy; official URL and retrieval date.
+
+## ca-manitoba-employment-standards
+
+- Publisher: Manitoba King's Printer
+- Title: The Employment Standards Code, C.C.S.M. c. E110, current from 1 October 2026 to 5 October 2026
+- Jurisdiction: CA-MB
+- Official source: https://web2.gov.mb.ca/laws/statutes/ccsm/_pdf.php?cap=e110
+- Retrieved: 2026-10-08T01:31:01Z
+- Licence/status: OpenMB Information and Data Use License 1.0
+- Licence URL: https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf
+- Attribution: Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)
+
+## ca-manitoba-july-first-2019
+
+- Publisher: Manitoba King's Printer
+- Title: The Statutes Correction and Minor Amendments Act, 2019, S.M. 2019 c. 11
+- Jurisdiction: CA-MB
+- Official source: https://web2.gov.mb.ca/laws/statutes/2019/pdf/c01119.pdf
+- Retrieved: 2026-10-08T01:31:01Z
+- Licence/status: OpenMB Information and Data Use License 1.0
+- Licence URL: https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf
+- Attribution: Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)
+
+## ca-manitoba-louis-riel-2007
+
+- Publisher: Manitoba King's Printer
+- Title: The Statutory Holidays Act (Various Acts Amended), S.M. 2007 c. 18
+- Jurisdiction: CA-MB
+- Official source: https://web2.gov.mb.ca/laws/statutes/2007/c01807e.php
+- Retrieved: 2026-10-08T01:31:01Z
+- Licence/status: OpenMB Information and Data Use License 1.0
+- Licence URL: https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf
+- Attribution: Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)
+
+## ca-manitoba-orange-shirt-2023
+
+- Publisher: Manitoba King's Printer
+- Title: The Employment Standards Code Amendment and Interpretation Amendment Act (Orange Shirt Day), S.M. 2023 c. 50
+- Jurisdiction: CA-MB
+- Official source: https://web2.gov.mb.ca/laws/statutes/2023/pdf/c05023.pdf
+- Retrieved: 2026-10-08T01:31:01Z
+- Licence/status: OpenMB Information and Data Use License 1.0
+- Licence URL: https://www.gov.mb.ca/asset_library/en/legal/OpenMB-Information-Data-Use-Licence.pdf
+- Attribution: Contains information from the Government of Manitoba, licensed under the OpenMB Information and Data Use License (Manitoba.ca/OpenMB)
+
+## ca-new-brunswick-day-act
+
+- Publisher: King's Printer for New Brunswick
+- Title: New Brunswick Day Act, SNB 2014, c 121
+- Jurisdiction: CA-NB
+- Official source: https://laws.gnb.ca/en/ShowPdf/cs/2014-c.121.pdf
+- Retrieved: 2026-10-09T14:05:56Z
+- Licence/status: New Brunswick Acts and regulations reproduction licence accessed 2026-10-09
+- Licence URL: https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html
+- Attribution: The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General
+
+## ca-new-brunswick-employment-standards
+
+- Publisher: King's Printer for New Brunswick
+- Title: Employment Standards Act, SNB 1982, c E-7.2, current consolidation
+- Jurisdiction: CA-NB
+- Official source: https://laws.gnb.ca/en/ShowPdf/cs/E-7.2.pdf
+- Retrieved: 2026-10-09T13:52:47Z
+- Licence/status: New Brunswick Acts and regulations reproduction licence accessed 2026-10-09
+- Licence URL: https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html
+- Attribution: The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General
+
+## ca-new-brunswick-family-day-2017
+
+- Publisher: King's Printer for New Brunswick
+- Title: An Act Respecting Family Day, SNB 2017, c 38
+- Jurisdiction: CA-NB
+- Official source: https://laws.gnb.ca/en/ShowPdf/as/2017-c.38.pdf
+- Retrieved: 2026-10-09T14:07:25Z
+- Licence/status: New Brunswick Acts and regulations reproduction licence accessed 2026-10-09
+- Licence URL: https://www2.gnb.ca/content/gnb/en/departments/public-safety/attorney-general/content/acts_regulations/content/disclaimer_and_copyright.html
+- Attribution: The Crown in right of the Province of New Brunswick retains title to all rights, including copyright, in New Brunswick Acts and regulations and assumes no responsibility for the accuracy, reliability or currency of this unofficial reproduction or any materials derived therefrom. The official New Brunswick Acts and regulations can be found on the Province’s website: Acts and Regulations - Attorney General
+
+## ca-ontario-employment-standards
+
+- Publisher: King's Printer for Ontario
+- Title: Employment Standards Act, 2000, S.O. 2000, c. 41, current consolidation
+- Jurisdiction: CA-ON
+- Official source: https://www.ontario.ca/laws/statute/00e41
+- Retrieved: 2026-10-09T13:46:11Z
+- Licence/status: Ontario policy on copyright on legal materials updated 2022-09-29
+- Licence URL: https://www.ontario.ca/page/copyright-information
+- Attribution: © King's Printer for Ontario, 2000. This reproduction is not an official version.
+
+## ca-ontario-family-day-2007
+
+- Publisher: King's Printer for Ontario
+- Title: O. Reg. 547/07: Exemptions, Special Rules and Establishment of Minimum Wage
+- Jurisdiction: CA-ON
+- Official source: https://www.ontario.ca/laws/regulation/r07547
+- Retrieved: 2026-10-09T13:46:12Z
+- Licence/status: Ontario policy on copyright on legal materials updated 2022-09-29
+- Licence URL: https://www.ontario.ca/page/copyright-information
+- Attribution: © King's Printer for Ontario, 2007. This reproduction is not an official version.
+
+## ca-province-territory-codes
+
+- Publisher: Canada Revenue Agency
+- Title: Provincial and territorial codes
+- Jurisdiction: CA
+- Official source: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/completing-slips-summaries/financial-slips-summaries/return-investment-income-t5/provincial-territorial-codes.html?wbdisable=true
+- Retrieved: 2026-10-07T23:12:00Z
+- Licence/status: Open Government Licence — Canada 2.0
+- Licence URL: https://open.canada.ca/en/open-government-licence-canada
+- Attribution: Contains information licensed under the Open Government Licence — Canada.
+
 ## de-baden-wuerttemberg-holiday-act
 
 - Publisher: Landtag von Baden-Württemberg

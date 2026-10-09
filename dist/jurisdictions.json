@@ -569,6 +569,331 @@
     },
     {
       "schema_version": 2,
+      "country": "CA",
+      "source_ids": [
+        "ca-province-territory-codes",
+        "ca-federal-labour-code"
+      ],
+      "jurisdictions": [
+        {
+          "code": "CA",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Canada",
+              "aliases": [
+                "ca",
+                "canada"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes",
+                "ca-federal-labour-code"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-FED",
+          "type": "calendar_variant",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Federal employment standards",
+              "aliases": [
+                "fed",
+                "federal",
+                "federal employment standards",
+                "canada labour code"
+              ],
+              "source_ids": [
+                "ca-federal-labour-code"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-AB",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Alberta",
+              "aliases": [
+                "ab",
+                "alberta"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-BC",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "British Columbia",
+              "aliases": [
+                "bc",
+                "british columbia",
+                "colombie-britannique"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-MB",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Manitoba",
+              "aliases": [
+                "mb",
+                "manitoba"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-NB",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "New Brunswick",
+              "aliases": [
+                "nb",
+                "new brunswick",
+                "nouveau-brunswick"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-NL",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Newfoundland and Labrador",
+              "aliases": [
+                "nl",
+                "newfoundland and labrador",
+                "terre-neuve-et-labrador"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-NS",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Nova Scotia",
+              "aliases": [
+                "ns",
+                "nova scotia",
+                "nouvelle-écosse",
+                "nouvelle-ecosse"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-NT",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Northwest Territories",
+              "aliases": [
+                "nt",
+                "nwt",
+                "northwest territories",
+                "territoires du nord-ouest"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-NU",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Nunavut",
+              "aliases": [
+                "nu",
+                "nunavut"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-ON",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Ontario",
+              "aliases": [
+                "on",
+                "ontario"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-PE",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Prince Edward Island",
+              "aliases": [
+                "pe",
+                "pei",
+                "prince edward island",
+                "île-du-prince-édouard",
+                "ile-du-prince-edouard"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-QC",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Quebec",
+              "aliases": [
+                "qc",
+                "quebec",
+                "québec"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-SK",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Saskatchewan",
+              "aliases": [
+                "sk",
+                "saskatchewan"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA-YT",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CA",
+              "name": "Yukon",
+              "aliases": [
+                "yt",
+                "yukon",
+                "yukon territory"
+              ],
+              "source_ids": [
+                "ca-province-territory-codes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
       "country": "DE",
       "source_ids": [
         "de-destatis-municipalities-2006",
