@@ -402,6 +402,17 @@ Sources used to independently encode, scope and verify the released data:
 - Licence URL: https://open.canada.ca/en/open-government-licence-canada
 - Attribution: Contains information licensed under the Open Government Licence — Canada.
 
+## cz-statutory-calendar-2007-2035
+
+- Publisher: Parliament of the Czech Republic / e-Sbírka, Ministry of the Interior
+- Title: cz-statutory-calendar-2007-2035
+- Jurisdiction: CZ
+- Official source: https://e-sbirka.gov.cz/sb/2000/245
+- Retrieved: 2026-10-24T12:11:22Z
+- Licence/status: Czech Copyright Act 121/2000 section 3(a): official works excluded from copyright Consolidated version effective 2025-07-01, retrieved 2026-10-24
+- Licence URL: https://e-sbirka.gov.cz/sb/2000/121
+- Attribution: Identify e-Sbírka and the controlling acts. Reuse is limited to official legislative text and factual legal metadata; no website software, designs, logos or taxonomy is incorporated. The two licence pages are preserved; section 3(a) is on page 0.
+
 ## de-baden-wuerttemberg-holiday-act
 
 - Publisher: Landtag von Baden-Württemberg
@@ -1248,6 +1259,28 @@ Sources used to independently encode, scope and verify the released data:
 - Licence/status: German official work under § 5 UrhG § 5 as accessed 2026-10-06
 - Licence URL: https://www.gesetze-im-internet.de/urhg/__5.html
 - Attribution: Name the issuing public body, source title, source URL, retrieval date, and describe the independent encoding.
+
+## ee-statutory-calendar-2007-2035
+
+- Publisher: Riigikogu and Vabariigi Valitsus / Riigi Teataja
+- Title: ee-statutory-calendar-2007-2035
+- Jurisdiction: EE
+- Official source: https://www.riigiteataja.ee/akt/120122022005
+- Retrieved: 2026-10-24T12:24:18Z
+- Licence/status: Estonian Copyright Act section 5(3) and 5(7): legislation, administrative documents and facts excluded from protection Consolidated version effective 2025-10-01, retrieved 2026-10-24
+- Licence URL: https://www.riigiteataja.ee/akt/112072025009
+- Attribution: Identify Riigi Teataja, Riigikogu and Vabariigi Valitsus and the cited original instruments. Only official legislative text and its independently encoded legal facts are admitted. Statistics Estonia material is excluded from all intended derivatives.
+
+## eu-ee-cz-verification-2025-2026
+
+- Publisher: European Commission / Publications Office of the European Union
+- Title: eu-ee-cz-verification-2025-2026
+- Jurisdiction: Estonia and Czechia: independent verification only
+- Official source: https://publications.europa.eu/resource/oj/C_202506771.ENG.xhtml
+- Retrieved: 2026-10-24T13:14:20Z
+- Licence/status: Commission Decision 2011/833/EU on reuse of Commission documents 2011/833/EU, OJ L 330, 14 December 2011, retrieved 2026-10-24
+- Licence URL: https://publications.europa.eu/resource/celex/32011D0833.ENG.xhtml
+- Attribution: European Union, European Commission, Public holidays 2025 (C/2024/7517) and 2026 (C/2025/6771); source and changes must be acknowledged. The full calendars remain private verification evidence only; no holiday dataset is imported into rules or redistributed.
 
 ## fi-almanac-holidays-2025
 

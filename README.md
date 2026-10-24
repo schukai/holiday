@@ -1,6 +1,6 @@
-# holiday data 0.5.0
+# holiday data 0.6.0
 
-Source-cited public holiday data for Austria, Belgium, Canada, Germany, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
+Source-cited public holiday data for Austria, Belgium, Canada, Czechia, Germany, Estonia, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
 2007–2035. The release is an independently generated data
 projection; it does not contain the private development history, generators or
 archived source material.
@@ -17,7 +17,9 @@ claiming legal effects that sit outside that scope.
 | Austria (AT) | high | 2007–2035 | Nationwide statutory layer and all nine states; historic Good Friday is conditional through 2018 |
 | Belgium (BE) | high | 2007–2035 | National private-sector layer, regions and provinces |
 | Canada (CA) | high | 2007–2035 | Six alternative employment-standards calendars: federal, Alberta, British Columbia, Manitoba, New Brunswick and Ontario; the country root and unreleased provinces and territories contain no holiday records |
+| Czechia (CZ) | high | 2007–2035 | Nationwide statutory calendar and all fourteen regional selectors; Good Friday begins in 2016; regional codes are product mnemonics |
 | Germany (DE) | high | 2007–2035 | All states and evidence-backed local branches |
+| Estonia (EE) | high | 2007–2035 | Nationwide statutory calendar and all fifteen counties; ordinary weekly Sundays and shortened working days are excluded; regional codes are product mnemonics |
 | Finland (FI) | high | 2007–2035 | Named national holidays, all first-order regions, Åland and historic Eastern Uusimaa |
 | France (FR) | high | 2007–2035 | FR legal regime including FR-971–978; NC, PF and WF are not included |
 | United Kingdom (GB) | high | 2007–2035 | Four nations; appointment-dependent dates after 2028 are marked `projected` |
@@ -41,7 +43,7 @@ of this release:
 | Netherlands (NL) | current | Official classification evidence for 2007–2015 remains unavailable |
 | Monaco (MC) | research / rights-blocked | Official reuse permission is still required |
 | Andorra (AD) | research / evidence-and-model-blocked | Historic annual and parish instruments plus a sector-calendar variant model are still required |
-| Spain (ES) | research | First-order calendars are normalized through 2026, but 2027–2035 have not yet been officially appointed |
+| Spain (ES) | research | First-order calendars are normalized through 2026; official 2027 evidence is preserved but not normalized; later appointments and territorial gaps remain |
 | Vatican City (VA) | research / rights-and-evidence-blocked | Reusable evidence for a general civil calendar has not been established |
 | Canada (remaining regimes) | research / rights-blocked | Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Québec, Saskatchewan and the three territories are not released; the `CA` root intentionally has no holidays |
 

@@ -2236,6 +2236,374 @@ date;country;region;id;kind;legal_status;scope;applicability;confirmation;condit
 2035-10-08;CA;CA-ON;THANKSGIVING;public;statutory;full;conditional;confirmed;"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";Thanksgiving Day;Thanksgiving Day;https://www.ontario.ca/laws/statute/00e41
 2035-12-25;CA;CA-ON;CHRISTMAS;public;statutory;full;conditional;confirmed;"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";Christmas Day;Christmas Day;https://www.ontario.ca/laws/statute/00e41
 2035-12-26;CA;CA-ON;BOXING_DAY;public;statutory;full;conditional;confirmed;"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";"Select the Ontario regime only for employment governed by the Employment Standards Act, 2000. Coverage, eligibility, exemptions, work schedules and any substituted day can change an employee's entitlement; this record is the named public-holiday date.";December 26 (Boxing Day);December 26 (Boxing Day);https://www.ontario.ca/laws/statute/00e41
+2007-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2007-04-09;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2007-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2007-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2007-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2007-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2007-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2007-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2007-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2007-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2007-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2007-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2008-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2008-03-24;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2008-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2008-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2008-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2008-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2008-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2008-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2008-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2008-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2008-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2008-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2009-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2009-04-13;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2009-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2009-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2009-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2009-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2009-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2009-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2009-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2009-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2009-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2009-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2010-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2010-04-05;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2010-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2010-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2010-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2010-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2010-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2010-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2010-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2010-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2010-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2010-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2011-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2011-04-25;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2011-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2011-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2011-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2011-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2011-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2011-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2011-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2011-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2011-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2011-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2012-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2012-04-09;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2012-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2012-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2012-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2012-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2012-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2012-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2012-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2012-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2012-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2012-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2013-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2013-04-01;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2013-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2013-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2013-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2013-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2013-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2013-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2013-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2013-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2013-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2013-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2014-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2014-04-21;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2014-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2014-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2014-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2014-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2014-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2014-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2014-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2014-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2014-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2014-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2015-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2015-04-06;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2015-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2015-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2015-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2015-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2015-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2015-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2015-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2015-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2015-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2015-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2016-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2016-03-25;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2016-03-28;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2016-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2016-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2016-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2016-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2016-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2016-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2016-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2016-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2016-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2016-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2017-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2017-04-14;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2017-04-17;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2017-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2017-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2017-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2017-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2017-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2017-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2017-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2017-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2017-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2017-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2018-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2018-03-30;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2018-04-02;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2018-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2018-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2018-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2018-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2018-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2018-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2018-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day;Den boje za svobodu a demokracii;https://e-sbirka.gov.cz/sb/2000/245
+2018-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2018-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2018-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2019-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2019-04-19;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2019-04-22;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2019-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2019-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2019-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2019-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2019-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2019-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2019-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2019-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2019-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2019-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2020-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2020-04-10;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2020-04-13;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2020-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2020-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2020-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2020-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2020-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2020-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2020-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2020-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2020-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2020-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2021-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2021-04-02;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2021-04-05;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2021-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2021-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2021-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2021-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2021-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2021-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2021-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2021-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2021-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2021-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2022-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2022-04-15;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2022-04-18;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2022-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2022-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2022-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2022-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2022-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2022-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2022-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2022-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2022-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2022-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2023-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2023-04-07;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2023-04-10;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2023-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2023-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2023-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2023-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2023-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2023-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2023-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2023-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2023-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2023-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2024-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2024-03-29;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2024-04-01;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2024-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2024-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2024-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2024-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2024-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2024-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2024-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2024-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2024-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2024-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2025-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2025-04-18;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2025-04-21;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2025-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2025-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2025-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2025-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2025-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2025-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2025-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2025-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2025-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2025-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2026-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2026-04-03;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2026-04-06;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2026-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2026-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2026-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2026-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2026-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2026-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2026-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2026-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2026-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2026-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2027-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2027-03-26;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2027-03-29;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2027-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2027-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2027-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2027-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2027-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2027-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2027-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2027-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2027-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2027-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2028-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2028-04-14;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2028-04-17;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2028-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2028-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2028-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2028-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2028-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2028-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2028-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2028-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2028-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2028-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2029-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2029-03-30;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2029-04-02;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2029-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2029-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2029-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2029-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2029-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2029-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2029-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2029-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2029-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2029-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2030-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2030-04-19;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2030-04-22;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2030-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2030-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2030-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2030-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2030-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2030-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2030-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2030-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2030-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2030-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2031-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2031-04-11;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2031-04-14;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2031-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2031-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2031-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2031-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2031-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2031-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2031-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2031-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2031-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2031-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2032-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2032-03-26;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2032-03-29;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2032-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2032-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2032-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2032-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2032-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2032-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2032-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2032-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2032-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2032-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2033-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2033-04-15;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2033-04-18;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2033-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2033-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2033-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2033-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2033-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2033-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2033-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2033-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2033-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2033-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2034-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2034-04-07;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2034-04-10;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2034-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2034-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2034-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2034-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2034-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2034-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2034-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2034-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2034-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2034-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2035-01-01;CZ;*;NEW_YEAR_AND_RESTORATION;public;statutory;full;unconditional;confirmed;;;New Year's Day and Restoration Day of the Independent Czech State;Den obnovy samostatného českého státu / Nový rok;https://e-sbirka.gov.cz/sb/2000/245
+2035-03-23;CZ;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Velký pátek;https://e-sbirka.gov.cz/sb/2000/245
+2035-03-26;CZ;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Velikonoční pondělí;https://e-sbirka.gov.cz/sb/2000/245
+2035-05-01;CZ;*;LABOUR_DAY;public;statutory;full;unconditional;confirmed;;;Labour Day;Svátek práce;https://e-sbirka.gov.cz/sb/2000/245
+2035-05-08;CZ;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;Den vítězství;https://e-sbirka.gov.cz/sb/2000/245
+2035-07-05;CZ;*;CYRIL_METHODIUS;public;statutory;full;unconditional;confirmed;;;Saints Cyril and Methodius Day;Den slovanských věrozvěstů Cyrila a Metoděje;https://e-sbirka.gov.cz/sb/2000/245
+2035-07-06;CZ;*;JAN_HUS;public;statutory;full;unconditional;confirmed;;;Jan Hus Day;Den upálení mistra Jana Husa;https://e-sbirka.gov.cz/sb/2000/245
+2035-09-28;CZ;*;STATEHOOD_DAY;public;statutory;full;unconditional;confirmed;;;Czech Statehood Day;Den české státnosti;https://e-sbirka.gov.cz/sb/2000/245
+2035-10-28;CZ;*;INDEPENDENT_STATE_DAY;public;statutory;full;unconditional;confirmed;;;Independent Czechoslovak State Day;Den vzniku samostatného československého státu;https://e-sbirka.gov.cz/sb/2000/245
+2035-11-17;CZ;*;FREEDOM_DEMOCRACY;public;statutory;full;unconditional;confirmed;;;Struggle for Freedom and Democracy Day and International Students' Day;Den boje za svobodu a demokracii a Mezinárodní den studentstva;https://e-sbirka.gov.cz/sb/2000/245
+2035-12-24;CZ;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;Štědrý den;https://e-sbirka.gov.cz/sb/2000/245
+2035-12-25;CZ;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;First Christmas Day;1. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
+2035-12-26;CZ;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Christmas Day;2. svátek vánoční;https://e-sbirka.gov.cz/sb/2000/245
 2007-01-01;DE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;Neujahr;https://www.bundesbank.de/resource/blob/749314/df7b628542f7ec41a477d46130345c64/mL/feiertage-in-deutschland-1-data.pdf
 2007-04-06;DE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Karfreitag;https://www.bundesbank.de/resource/blob/749314/df7b628542f7ec41a477d46130345c64/mL/feiertage-in-deutschland-1-data.pdf
 2007-04-09;DE;*;EASTER_MONDAY;public;statutory;full;unconditional;confirmed;;;Easter Monday;Ostermontag;https://www.bundesbank.de/resource/blob/749314/df7b628542f7ec41a477d46130345c64/mL/feiertage-in-deutschland-1-data.pdf
@@ -54297,6 +54665,354 @@ date;country;region;id;kind;legal_status;scope;applicability;confirmation;condit
 2033-06-16;DE;DE-TH-16064074-L-LENGENFELD;CORPUS_CHRISTI;public;statutory;full;unconditional;confirmed;;;Corpus Christi;Fronleichnam;https://parldok.thueringer-landtag.de/ParlDok/dokument/11487/gesetz-und-verordnungsblatt-nr-35-1994.pdf
 2034-06-08;DE;DE-TH-16064074-L-LENGENFELD;CORPUS_CHRISTI;public;statutory;full;unconditional;confirmed;;;Corpus Christi;Fronleichnam;https://parldok.thueringer-landtag.de/ParlDok/dokument/11487/gesetz-und-verordnungsblatt-nr-35-1994.pdf
 2035-05-24;DE;DE-TH-16064074-L-LENGENFELD;CORPUS_CHRISTI;public;statutory;full;unconditional;confirmed;;;Corpus Christi;Fronleichnam;https://parldok.thueringer-landtag.de/ParlDok/dokument/11487/gesetz-und-verordnungsblatt-nr-35-1994.pdf
+2007-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2007-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2007-04-06;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2007-04-08;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2007-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2007-05-27;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2007-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2007-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2007-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2007-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2007-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2007-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2008-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2008-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2008-03-21;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2008-03-23;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2008-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2008-05-11;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2008-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2008-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2008-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2008-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2008-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2008-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2009-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2009-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2009-04-10;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2009-04-12;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2009-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2009-05-31;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2009-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2009-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2009-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2009-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2009-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2009-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2010-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2010-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2010-04-02;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2010-04-04;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2010-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2010-05-23;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2010-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2010-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2010-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2010-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2010-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2010-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2011-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2011-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2011-04-22;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2011-04-24;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2011-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2011-06-12;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2011-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2011-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2011-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2011-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2011-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2011-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2012-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2012-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2012-04-06;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2012-04-08;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2012-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2012-05-27;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2012-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2012-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2012-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2012-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2012-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2012-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2013-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2013-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2013-03-29;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2013-03-31;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2013-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2013-05-19;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2013-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2013-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2013-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2013-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2013-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2013-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2014-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2014-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2014-04-18;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2014-04-20;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2014-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2014-06-08;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2014-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2014-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2014-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2014-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2014-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2014-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2015-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2015-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2015-04-03;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2015-04-05;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2015-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2015-05-24;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2015-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2015-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2015-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2015-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2015-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2015-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2016-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2016-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2016-03-25;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2016-03-27;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2016-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2016-05-15;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2016-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2016-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2016-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2016-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2016-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2016-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2017-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2017-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2017-04-14;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2017-04-16;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2017-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2017-06-04;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2017-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2017-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2017-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2017-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2017-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2017-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2018-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2018-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2018-03-30;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2018-04-01;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2018-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2018-05-20;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2018-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2018-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2018-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2018-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2018-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2018-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2019-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2019-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2019-04-19;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2019-04-21;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2019-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2019-06-09;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2019-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2019-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2019-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2019-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2019-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2019-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2020-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2020-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2020-04-10;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2020-04-12;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2020-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2020-05-31;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2020-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2020-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2020-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2020-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2020-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2020-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2021-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2021-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2021-04-02;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2021-04-04;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2021-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2021-05-23;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2021-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2021-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2021-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2021-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2021-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2021-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2022-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2022-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2022-04-15;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2022-04-17;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2022-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2022-06-05;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2022-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2022-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2022-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2022-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2022-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2022-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2023-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2023-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2023-04-07;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2023-04-09;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2023-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2023-05-28;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2023-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2023-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2023-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2023-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2023-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2023-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2024-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2024-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2024-03-29;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2024-03-31;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2024-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2024-05-19;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2024-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2024-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2024-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2024-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2024-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2024-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2025-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2025-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2025-04-18;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2025-04-20;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2025-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2025-06-08;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2025-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2025-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2025-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2025-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2025-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2025-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2026-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2026-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2026-04-03;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2026-04-05;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2026-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2026-05-24;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2026-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2026-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2026-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2026-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2026-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2026-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2027-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2027-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2027-03-26;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2027-03-28;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2027-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2027-05-16;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2027-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2027-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2027-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2027-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2027-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2027-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2028-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2028-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2028-04-14;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2028-04-16;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2028-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2028-06-04;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2028-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2028-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2028-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2028-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2028-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2028-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2029-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2029-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2029-03-30;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2029-04-01;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2029-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2029-05-20;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2029-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2029-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2029-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2029-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2029-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2029-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2030-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2030-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2030-04-19;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2030-04-21;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2030-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2030-06-09;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2030-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2030-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2030-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2030-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2030-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2030-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2031-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2031-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2031-04-11;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2031-04-13;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2031-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2031-06-01;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2031-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2031-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2031-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2031-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2031-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2031-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2032-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2032-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2032-03-26;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2032-03-28;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2032-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2032-05-16;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2032-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2032-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2032-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2032-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2032-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2032-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2033-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2033-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2033-04-15;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2033-04-17;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2033-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2033-06-05;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2033-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2033-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2033-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2033-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2033-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2033-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2034-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2034-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2034-04-07;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2034-04-09;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2034-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2034-05-28;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2034-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2034-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2034-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2034-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2034-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2034-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2035-01-01;EE;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;uusaasta;https://www.riigiteataja.ee/akt/120122022005
+2035-02-24;EE;*;INDEPENDENCE_DAY;public;statutory;full;unconditional;confirmed;;;Independence Day and anniversary of the Republic of Estonia;iseseisvuspäev, Eesti Vabariigi aastapäev;https://www.riigiteataja.ee/akt/120122022005
+2035-03-23;EE;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;suur reede;https://www.riigiteataja.ee/akt/120122022005
+2035-03-25;EE;*;EASTER_SUNDAY;public;statutory;full;unconditional;confirmed;;;Easter Sunday;ülestõusmispühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2035-05-01;EE;*;SPRING_DAY;public;statutory;full;unconditional;confirmed;;;Spring Day;kevadpüha;https://www.riigiteataja.ee/akt/120122022005
+2035-05-13;EE;*;WHIT_SUNDAY;public;statutory;full;unconditional;confirmed;;;Whit Sunday;nelipühade 1. püha;https://www.riigiteataja.ee/akt/120122022005
+2035-06-23;EE;*;VICTORY_DAY;public;statutory;full;unconditional;confirmed;;;Victory Day;võidupüha;https://www.riigiteataja.ee/akt/120122022005
+2035-06-24;EE;*;MIDSUMMER_DAY;public;statutory;full;unconditional;confirmed;;;Midsummer Day;jaanipäev;https://www.riigiteataja.ee/akt/120122022005
+2035-08-20;EE;*;RESTORATION_DAY;public;statutory;full;unconditional;confirmed;;;Day of Restoration of Independence;taasiseseisvumispäev;https://www.riigiteataja.ee/akt/120122022005
+2035-12-24;EE;*;CHRISTMAS_EVE;public;statutory;full;unconditional;confirmed;;;Christmas Eve;jõululaupäev;https://www.riigiteataja.ee/akt/120122022005
+2035-12-25;EE;*;CHRISTMAS_DAY;public;statutory;full;unconditional;confirmed;;;Christmas Day;esimene jõulupüha;https://www.riigiteataja.ee/akt/120122022005
+2035-12-26;EE;*;CHRISTMAS_SECOND_DAY;public;statutory;full;unconditional;confirmed;;;Second Day of Christmas;teine jõulupüha;https://www.riigiteataja.ee/akt/120122022005
 2007-01-01;FI;*;NEW_YEAR;public;statutory;full;unconditional;confirmed;;;New Year's Day;Uudenvuodenpäivä;https://www.finlex.fi/fi/lainsaadanto/1993/1054#chp_4__sec_3
 2007-01-06;FI;*;EPIPHANY;public;statutory;full;unconditional;confirmed;;;Epiphany;Loppiainen;https://www.finlex.fi/fi/lainsaadanto/1993/1054#chp_4__sec_3
 2007-04-06;FI;*;GOOD_FRIDAY;public;statutory;full;unconditional;confirmed;;;Good Friday;Pitkäperjantai;https://www.finlex.fi/fi/lainsaadanto/1993/1054#chp_4__sec_3

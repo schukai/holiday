@@ -894,6 +894,336 @@
     },
     {
       "schema_version": 2,
+      "country": "CZ",
+      "source_ids": [
+        "cz-statutory-calendar-2007-2035"
+      ],
+      "jurisdictions": [
+        {
+          "code": "CZ",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Česká republika",
+              "aliases": [
+                "cz",
+                "czechia",
+                "czech republic",
+                "tschechien",
+                "česko",
+                "česká republika"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-PR",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Hlavní město Praha",
+              "aliases": [
+                "hlavní město praha",
+                "01"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-ST",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Středočeský kraj",
+              "aliases": [
+                "středočeský kraj",
+                "02"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-JC",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Jihočeský kraj",
+              "aliases": [
+                "jihočeský kraj",
+                "03"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-PL",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Plzeňský kraj",
+              "aliases": [
+                "plzeňský kraj",
+                "04"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-KA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Karlovarský kraj",
+              "aliases": [
+                "karlovarský kraj",
+                "05"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-US",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Ústecký kraj",
+              "aliases": [
+                "ústecký kraj",
+                "06"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-LI",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Liberecký kraj",
+              "aliases": [
+                "liberecký kraj",
+                "07"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-KR",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Královéhradecký kraj",
+              "aliases": [
+                "královéhradecký kraj",
+                "08"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-PA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Pardubický kraj",
+              "aliases": [
+                "pardubický kraj",
+                "09"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-VY",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Vysočina",
+              "aliases": [
+                "vysočina",
+                "vysocina",
+                "10"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ],
+              "valid_to": "2011-07-31"
+            },
+            {
+              "valid_from": "2011-08-01",
+              "parent": "CZ",
+              "name": "Kraj Vysočina",
+              "aliases": [
+                "kraj vysočina",
+                "kraj vysocina",
+                "vysočina",
+                "vysocina",
+                "10"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-JM",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Jihomoravský kraj",
+              "aliases": [
+                "jihomoravský kraj",
+                "11"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-OL",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Olomoucký kraj",
+              "aliases": [
+                "olomoucký kraj",
+                "12"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-MO",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Moravskoslezský kraj",
+              "aliases": [
+                "moravskoslezský kraj",
+                "13"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CZ-ZL",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "CZ",
+              "name": "Zlínský kraj",
+              "aliases": [
+                "zlínský kraj",
+                "14"
+              ],
+              "source_ids": [
+                "cz-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
       "country": "DE",
       "source_ids": [
         "de-destatis-municipalities-2006",
@@ -374455,6 +374785,322 @@
                 "de-saxony-municipal-parts-2025",
                 "de-thuringia-boundary-history",
                 "de-thuringia-holiday-act"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schema_version": 2,
+      "country": "EE",
+      "source_ids": [
+        "ee-statutory-calendar-2007-2035"
+      ],
+      "jurisdictions": [
+        {
+          "code": "EE",
+          "type": "country",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": null,
+              "name": "Eesti",
+              "aliases": [
+                "ee",
+                "estonia",
+                "estland",
+                "eesti"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-HA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Harju maakond",
+              "aliases": [
+                "harju maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-HI",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Hiiu maakond",
+              "aliases": [
+                "hiiu maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-IV",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Ida-Viru maakond",
+              "aliases": [
+                "ida-viru maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-JO",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Jõgeva maakond",
+              "aliases": [
+                "jõgeva maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-JA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Järva maakond",
+              "aliases": [
+                "järva maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-LA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Lääne maakond",
+              "aliases": [
+                "lääne maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-LV",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Lääne-Viru maakond",
+              "aliases": [
+                "lääne-viru maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-PO",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Põlva maakond",
+              "aliases": [
+                "põlva maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-PA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Pärnu maakond",
+              "aliases": [
+                "pärnu maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-RA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Rapla maakond",
+              "aliases": [
+                "rapla maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-SA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Saare maakond",
+              "aliases": [
+                "saare maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-TA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Tartu maakond",
+              "aliases": [
+                "tartu maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-VA",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Valga maakond",
+              "aliases": [
+                "valga maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-VI",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Viljandi maakond",
+              "aliases": [
+                "viljandi maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE-VO",
+          "type": "state",
+          "predecessors": [],
+          "successors": [],
+          "periods": [
+            {
+              "valid_from": "2007-01-01",
+              "parent": "EE",
+              "name": "Võru maakond",
+              "aliases": [
+                "võru maakond"
+              ],
+              "source_ids": [
+                "ee-statutory-calendar-2007-2035"
               ]
             }
           ]

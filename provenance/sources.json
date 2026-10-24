@@ -1,5 +1,5 @@
 {
-  "release_version": "0.5.0",
+  "release_version": "0.6.0",
   "schema_version": 2,
   "source_sets": {
     "jurisdiction": [
@@ -11,6 +11,7 @@
       "be-regions-provinces-2026",
       "ca-federal-labour-code",
       "ca-province-territory-codes",
+      "cz-statutory-calendar-2007-2035",
       "de-destatis-boundary-changes-2007",
       "de-destatis-boundary-changes-2008",
       "de-destatis-boundary-changes-2009-01",
@@ -38,6 +39,7 @@
       "de-saxony-municipal-parts-2025",
       "de-thuringia-boundary-history",
       "de-thuringia-holiday-act",
+      "ee-statutory-calendar-2007-2035",
       "fi-autonomy-act",
       "fi-eastern-uusimaa-merge-2011",
       "fi-regions-2007",
@@ -135,6 +137,7 @@
       "ca-new-brunswick-family-day-2017",
       "ca-ontario-employment-standards",
       "ca-ontario-family-day-2007",
+      "cz-statutory-calendar-2007-2035",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -171,6 +174,7 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "ee-statutory-calendar-2007-2035",
       "fi-autonomy-act",
       "fi-church-act-1993",
       "fi-church-act-2023",
@@ -288,6 +292,7 @@
       "ca-ontario-employment-standards",
       "ca-ontario-family-day-2007",
       "ca-province-territory-codes",
+      "cz-statutory-calendar-2007-2035",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -365,6 +370,8 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "ee-statutory-calendar-2007-2035",
+      "eu-ee-cz-verification-2025-2026",
       "fi-almanac-holidays-2025",
       "fi-almanac-holidays-2026",
       "fi-autonomy-act",
@@ -536,6 +543,7 @@
       "ca-ontario-employment-standards",
       "ca-ontario-family-day-2007",
       "ca-province-territory-codes",
+      "cz-statutory-calendar-2007-2035",
       "de-baden-wuerttemberg-holiday-act",
       "de-bavaria-assumption-1987-2011-comparison",
       "de-bavaria-assumption-2022-census",
@@ -613,6 +621,8 @@
       "de-thuringia-holiday-act",
       "de-thuringia-world-childrens-day-2019",
       "de-unification-treaty-art-2",
+      "ee-statutory-calendar-2007-2035",
+      "eu-ee-cz-verification-2025-2026",
       "fi-almanac-holidays-2025",
       "fi-almanac-holidays-2026",
       "fi-autonomy-act",
@@ -1977,6 +1987,50 @@
       "retrieved_at": "2026-10-07T23:12:00Z",
       "title": "Provincial and territorial codes",
       "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/completing-slips-summaries/financial-slips-summaries/return-investment-income-t5/provincial-territorial-codes.html?wbdisable=true"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "f81b7412fb7ea42f88654f6c49b6c79c6c69f63d7e7997b52c333288cc194799",
+        "private_manifest_sha256": "a4ed6bd3224e35a3578b29bb552a63a3f3b20baa9db595b268b21ccfaf36b147",
+        "source_artifact_sha256": "2869605b0cc1d49444e27c8b447afc42e275fa2f67a6c37c960cd58b034b5c0d"
+      },
+      "id": "cz-statutory-calendar-2007-2035",
+      "jurisdiction": "CZ",
+      "licence": {
+        "attribution": "Identify e-Sbírka and the controlling acts. Reuse is limited to official legislative text and factual legal metadata; no website software, designs, logos or taxonomy is incorporated. The two licence pages are preserved; section 3(a) is on page 0.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Czech Copyright Act 121/2000 section 3(a): official works excluded from copyright",
+        "url": "https://e-sbirka.gov.cz/sb/2000/121",
+        "version": "Consolidated version effective 2025-07-01, retrieved 2026-10-24"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0c359b5dabb1e5a59af9eb217477ddf89b15e24fb25b2f4f3ce8d2b3b9bd3200",
+            "693149f020022658228fbbbcd785abb33ee73bb069188974c188a8802f205e53",
+            "8f04d75c09a8c160fe8424d80332853af788e865f87e19c0e5c9a83639e24d04",
+            "a847544ff6a21065d16a8180517010f409491625c952965c52f9bd76402a8fd7"
+          ],
+          "output_sha256": [
+            "287aa48da06672ef6f15fc65f39aeb4b9886d95d35ae0b63897690c28645877d",
+            "35eec1e20a70c9822700323252641fb9977c07acd1c0e5b8b2de212ea87fbbd1",
+            "5d08a1d967a4589d267bdeeb5997e5aa8d1b9a80ebb6bfb793b42304d8c8cc33",
+            "5f24af0199c01eb245b3b06a767064e9a20d5411357eddcb2f83cb88959120c6",
+            "8745b8d4e60f254a04e6603a11eac84d32a47fc505e3cc43b085237d4d32c0ae",
+            "9118dec10712a7b7d558d8827b841b5bbc7c4477423808b2d397bf5d6eeb1725",
+            "a91c7f89837736132975e9a8d5737aeefc5d229c102fdc691dcb5ae0637247ca",
+            "ad9f0815987c666d9ad5eaee482325a6ff370c5ab79a8cb691b1d6929c9a8444",
+            "c3804a7916b5b14c436cc10d06ea9ed874578e2d91fe68a1ab954fef579958be",
+            "e2c21f33172f3054b9f4e82d9dee228260202574c6cd3ff37808d21b60c1e6a7"
+          ],
+          "sequence": 1,
+          "summary": "Correct two acquisition-index filename collisions without altering previous evidence. Reacquire each original public API URL into a distinct path, require exact equality with its originally recorded SHA-256, and preserve the original index, correction explanation, corrected index and separate recovery UTC times. Preserve all previous functional output hashes."
+        }
+      ],
+      "publisher": "Parliament of the Czech Republic / e-Sbírka, Ministry of the Interior",
+      "retrieved_at": "2026-10-24T12:11:22Z",
+      "title": "cz-statutory-calendar-2007-2035",
+      "url": "https://e-sbirka.gov.cz/sb/2000/245"
     },
     {
       "evidence": {
@@ -4505,6 +4559,120 @@
       "retrieved_at": "2026-10-06T10:58:55Z",
       "title": "Unification Treaty, Article 2",
       "url": "https://www.gesetze-im-internet.de/einigvtr/art_2.html"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "32f4cb813533cb7005004214500ca97ce81c0d52850a6463a70d2024ffc71230",
+        "private_manifest_sha256": "ee4b342ce6cc01ff7178817245a9dfb65f7e32362dfe7a930a99069d037ef95e",
+        "source_artifact_sha256": "3f16d0ebb4560528d24758042477c12634dd72de849a12d61f1cd09d44e25691"
+      },
+      "id": "ee-statutory-calendar-2007-2035",
+      "jurisdiction": "EE",
+      "licence": {
+        "attribution": "Identify Riigi Teataja, Riigikogu and Vabariigi Valitsus and the cited original instruments. Only official legislative text and its independently encoded legal facts are admitted. Statistics Estonia material is excluded from all intended derivatives.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Estonian Copyright Act section 5(3) and 5(7): legislation, administrative documents and facts excluded from protection",
+        "url": "https://www.riigiteataja.ee/akt/112072025009",
+        "version": "Consolidated version effective 2025-10-01, retrieved 2026-10-24"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0149e36411008739afb2e2f16618b9c11e048157bcd092d0a2cf66f6b425f706",
+            "038902ab276714bb06b411e1e2f849f37cbc0e33378ad4d12132e4e4a7562fc6",
+            "1938e339b577cf8b6f471003a10ac39b2230173d9dcc5d90a19d8d38ebb0132b",
+            "2196aeec1041fda2f30eea60a086db7bf66e43fff526704d0d46829e2c38d025",
+            "25c7c57a67fb052c1af4a977c29331969110d54d28193d13b160ff07b6656228",
+            "2622f63f1bdb1d599db0d075e1ada65426b84654a3009e71922eb4f6005ab04f",
+            "2cbe1c4b9cb8e9c9ec764d3058200c26f346176a11e5abc9fae813ce95f1d27b",
+            "30e8315e5f54b86ad59fdc1855136c6509e9a889ee8934a0690dcff7edfa3185",
+            "32f4cb813533cb7005004214500ca97ce81c0d52850a6463a70d2024ffc71230",
+            "383b8efe23b182e7fedd17f1e329b6e30c982bc84dddcca7c983809009c0c2a7",
+            "389b6aef3c62da5a3a01aa075063fd568d8a02d3c0d103eab8d563a3280935f1",
+            "3f16d0ebb4560528d24758042477c12634dd72de849a12d61f1cd09d44e25691",
+            "55b421908126c35082d8cd7bad251ae010b41e9c2e76ee37085385530c544cee",
+            "56ee7a548013efdede0f7d4f06daa47c115b48175c1cc329aa8f6074caadef13",
+            "5e74934b9598c6cac4db4a0eecd40cf028a8c924834d12f8819ff3a76f47e165",
+            "632d93c5ebe9b223ed503f5b585ce3083453013ab2978d4805b8aba90698ecb9",
+            "72dc9c37eb274454caad50a81e70539e1c50f5f92ce0cbe34438dd59ff7c8dfd",
+            "82f8bcba4ddef656b4a4dfb755b5876064a3425f8f76e8ab84b00675932867de",
+            "831f70b1e714634a712d55d112553fb6b7b45aec311a89faf959fa4006e3ec18",
+            "833c9fe3d6bccb9d879a7257c411e5516a299c183282824d85d0fb8ac0a4f153",
+            "8dc1d19c384840081175f84b82c54823c560357b9a22883169de2cb26cda38a2",
+            "9b7bb68358a48584a590806b1c18f32ebb615d86a9489030e507508036fde270",
+            "9f5f85a0927d54be3196880d58215e8e260d88a6bb451f87462ee47e781575d7",
+            "a3d6507deca974cb14b255ea36b414fbd429b602534f2a1e74c44bea04f04765",
+            "a5e3f8a3ab0729dd29718972970247befa71c3d7032ed8b614daedfac1352766",
+            "a64d40571aab89cee0b0ca7a312072234d71e1a185bdf9353fb16e76e4cbab43",
+            "a699d3c935ffe0c31629a8a84c6777522a9e47e6bec809b9972a1ec4f77f5525",
+            "b15d4e568fa1f4cf96d50efe3d87928fb749869bc504133ad8c1c08bf01caa21",
+            "bdf368c7c5e308e97d364fbd99af5297c6a3faeedb13a703c5f71e8a08af4070",
+            "bf416d147892e56bd8c990718713e6397b36a7e2c6e4fc1e506d566f6d536149",
+            "c86383ece6617fcc72df4e7abffbc254718f3cba892f4dd09cc1589454992f8a",
+            "cc58e71b17c7a7c3e7847860046376f8f2f92a5864d18971acc205dbeed4a1fd",
+            "cc63b601ec5dd7df361f64337cf0774daf3e061ec4940413bd767fc58d9b184a",
+            "dc3be064912dcd1a62b2f29c57506b20ab3c3c9b19061e3b1ef7a739460539c2",
+            "eba18bcd643b5a618d8eab304c30e9852ce946a545ae7f215a112dc2ba2417bb",
+            "ed5897100d29e7e0f68fa40ccfd1265a68241d2c3a632de05c3f19ae3e17c4b2"
+          ],
+          "output_sha256": [
+            "561792f9a1aef4f13a28dd66db2c7d057732484a3c8680e16c088ee868fa0046",
+            "68d773e8179dcf9b3f95bd248050d91bdbf72a6b3967208e2454931563a988a8",
+            "6d9b880b95eb1e0ca191fefa8a9468236df0a09ed63b9c87b872d7f466ad2d9a",
+            "8745b8d4e60f254a04e6603a11eac84d32a47fc505e3cc43b085237d4d32c0ae",
+            "8fa7ae92733e093041e7c4ec787a68c3b1585eab2ad165f1d41bfffa6789d965",
+            "98e696fe3358a0208c19f31355b2af2adea46a79c89be85a7264bc448e832a2d",
+            "bed6ecb6db1133e24a119035b1171ed642e783cbe8d10190e0ee39a17a14f32c",
+            "c3804a7916b5b14c436cc10d06ea9ed874578e2d91fe68a1ab954fef579958be",
+            "cce6934eb8901421e655db32caec9633450df78777a4e461481e4ec1eb5ffabf",
+            "d5649a2ea912c71d60da6ca82ffd4abd82f17e51612ebd453d9a7bb5b1572952"
+          ],
+          "sequence": 1,
+          "summary": "Supersede the earlier Statistics Estonia evidence assessment. Exclude its prose, statistical material and HTML from all accepted derivation inputs after locating the Share-Alike notice. Independently prove county continuity by preserving the complete Riigi Teataja version history and all seventeen official consolidated versions, including the October 2005 baseline and every subsequent interval. Country rules, vectors and catalogue bytes remain unchanged."
+        }
+      ],
+      "publisher": "Riigikogu and Vabariigi Valitsus / Riigi Teataja",
+      "retrieved_at": "2026-10-24T12:24:18Z",
+      "title": "ee-statutory-calendar-2007-2035",
+      "url": "https://www.riigiteataja.ee/akt/120122022005"
+    },
+    {
+      "evidence": {
+        "licence_evidence_sha256": "2d5bc877b9a5aad948af21c680aca1d3409f41df5dd0dcc57ef9b1b225f60982",
+        "private_manifest_sha256": "32c934e62d4194e4a78861de3c149239db1b2a44bfddc4aea7fca7d9e7540668",
+        "source_artifact_sha256": "bdfda1801b2e68788fb4c972270f47dc31958a613f0e260d24464e756832f0a0"
+      },
+      "id": "eu-ee-cz-verification-2025-2026",
+      "jurisdiction": "Estonia and Czechia: independent verification only",
+      "licence": {
+        "attribution": "European Union, European Commission, Public holidays 2025 (C/2024/7517) and 2026 (C/2025/6771); source and changes must be acknowledged. The full calendars remain private verification evidence only; no holiday dataset is imported into rules or redistributed.",
+        "compatibility": "compatible-with-cc-by-4.0-output",
+        "name": "Commission Decision 2011/833/EU on reuse of Commission documents",
+        "url": "https://publications.europa.eu/resource/celex/32011D0833.ENG.xhtml",
+        "version": "2011/833/EU, OJ L 330, 14 December 2011, retrieved 2026-10-24"
+      },
+      "processing": [
+        {
+          "input_sha256": [
+            "0aadb6414210e75f967a29bc332f31b62d4e2573a7380d2fe66f788b87b34b5c",
+            "2d5bc877b9a5aad948af21c680aca1d3409f41df5dd0dcc57ef9b1b225f60982",
+            "7c4cf604e575704b52bdf06d80109a98ae2d75b40554140a169f2d0a8466df27",
+            "bdfda1801b2e68788fb4c972270f47dc31958a613f0e260d24464e756832f0a0",
+            "f55c8fac0564cb438be390e0bb919b878100ac4fcd3f17d73c51987765f158f4"
+          ],
+          "output_sha256": [
+            "8745b8d4e60f254a04e6603a11eac84d32a47fc505e3cc43b085237d4d32c0ae",
+            "9118dec10712a7b7d558d8827b841b5bbc7c4477423808b2d397bf5d6eeb1725",
+            "98e696fe3358a0208c19f31355b2af2adea46a79c89be85a7264bc448e832a2d"
+          ],
+          "sequence": 1,
+          "summary": "Re-acquire the exact preserved official source and licence bytes locally from the cited 20261024T115226Z intake; the original network acquisition remains hash-linked as an input. Replay the independent statutory encoding without --write and compare its already-encoded national vectors with the official 2025/2026 notices. Verify exact EE agreement and CZ 2026 agreement; retain the documented CZ 2025 Easter-weekend discrepancy resolved by national statute. Inputs are verification only: no official calendar dataset is imported. Output vectors remain byte-identical. This append-only verification association makes the official comparison source part of the public provenance union."
+        }
+      ],
+      "publisher": "European Commission / Publications Office of the European Union",
+      "retrieved_at": "2026-10-24T13:14:20Z",
+      "title": "eu-ee-cz-verification-2025-2026",
+      "url": "https://publications.europa.eu/resource/oj/C_202506771.ENG.xhtml"
     },
     {
       "evidence": {
