@@ -396,10 +396,10 @@
     "dist/jurisdictions.json",
     "provenance/sources.json"
   ],
-  "archive": "holiday-0.6.0.zip",
+  "archive": "holiday-0.6.1.zip",
   "checksums": {
     "algorithm": "SHA-256",
-    "archive": "holiday-0.6.0.zip.sha256",
+    "archive": "holiday-0.6.1.zip.sha256",
     "contents": "SHA256SUMS"
   },
   "countries": [
@@ -812,11 +812,11 @@
     "xml",
     "ics"
   ],
-  "release_date": "2026-10-24",
+  "release_date": "2026-10-28",
   "schema_version": 3,
   "status": "published",
-  "tag": "v0.6.0",
-  "version": "0.6.0",
+  "tag": "v0.6.1",
+  "version": "0.6.1",
   "years": {
     "from": 2007,
     "to": 2035

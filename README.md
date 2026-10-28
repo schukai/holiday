@@ -1,4 +1,4 @@
-# holiday data 0.6.0
+# holiday data 0.6.1
 
 Source-cited public holiday data for Austria, Belgium, Canada, Czechia, Germany, Estonia, Finland, France, the United Kingdom, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Norway, Poland, Portugal, Sweden, the United States, covering
 2007–2035. The release is an independently generated data
@@ -45,7 +45,8 @@ of this release:
 | Andorra (AD) | research / evidence-and-model-blocked | Historic annual and parish instruments plus a sector-calendar variant model are still required |
 | Spain (ES) | research | First-order calendars are normalized through 2026; official 2027 evidence is preserved but not normalized; later appointments and territorial gaps remain |
 | Vatican City (VA) | research / rights-and-evidence-blocked | Reusable evidence for a general civil calendar has not been established |
-| Canada (remaining regimes) | research / rights-blocked | Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Québec, Saskatchewan and the three territories are not released; the `CA` root intentionally has no holidays |
+| Québec (CA-QC) | research | CNESST has granted permission for its own holiday website content; individual source rights and historic coverage still require verification. No Québec holiday records are released |
+| Canada (other remaining regimes) | research / rights-blocked | Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Saskatchewan and the three territories are not released; the `CA` root intentionally has no holidays |
 
 For Canada, consumers must choose exactly one governing employment regime.
 `CA-FED`, `CA-AB`, `CA-BC`, `CA-MB`, `CA-NB` and `CA-ON` replace rather than
